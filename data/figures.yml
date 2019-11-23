@@ -1,90 +1,168 @@
 figure_list:
-  - id: "dog1"
-    src: figures/lange.jpg
-    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-  - id: "dog2"
-    src: figures/evans.jpg
-    caption: "*Walker Evans, profile, hand up to face*, 1937."
-    credit: "Library of Congress Prints and Photographs Division"
-  - id: "fig-1"
-    label: "Figure 1"
-    src: figures/evans-legionnaire.jpg
-    caption: "Walker Evans. *[American Legionnaire]*, 1935. "
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-2"
-    label: "Figure 2"
-    src: figures/evans-sons.jpg
-    caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-3"
-    label: "Figure 3"
-    src: figures/evans-graveyard.jpg
-    caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-4"
-    label: "Figure 4"
-    src: figures/evans-hymns.jpg
-    caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-5"
-    label: "Figure 5"
-    src: figures/evans-burroughs.jpg
-    caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-6"
-    label: "Figure 6"
-    src: figures/evans-washroom.jpg
-    caption: "Walker Evans. *Washroom in the Dog Run of the Burroughs Home, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-7"
-    label: "Figure 7"
-    src: figures/evans-child.jpg
-    caption: "Walker Evans. *Farmer's Child, Alabama / Othel Lee (Squeakie) Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-8"
-    label: "Figure 8"
-    src: figures/evans-refugee.jpg
-    caption: "Walker Evans. *Arkansas Flood Refugee*, 1937."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "lange-house"
-    src: figures/lange-house.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "evans-video"
-    src: figures/evans-video-still.jpg
-    media_id: BpGN0UUtqqU
-    media_type: youtube
-    caption: "A selection of Walker Evans photos from the across the United States of America, 1930s."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "photo-podcast"
-    media_id: 336879231
-    media_type: soundcloud
-    caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
-  - id: "mother"
-    src: figures/mother.jpg
-    caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-  - id: "mother-b"
-    src: figures/mother-b.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "mother-c"
-    src: figures/mother-c.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "pickers"
-    src: figures/pickers.jpg
-    caption: "Dorothea Lange, *Pea Pickers, Nipomo, California*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "duo"
-    src: figures/duo.jpg
-    caption: "Walker Evans, *Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-  - id: "family"
-    src: figures/family.jpg
-    caption: "Walker Evans, *Burrough’s Family, Hale County, Alabama*, 1935."
-    credit: The J. Paul Getty Museum, Los Angeles
-
+  - id: "bloombannerimage"
+    src: figures/bloom/bloombannerimage.jpg
+    caption:
+    credit: Courtesy of the Artist and David Lewis, New York
+  - id: "bloom3b"
+    src: figures/bloom/bloom3b-espritdeescalier.jpg
+    caption: >-
+      Barbara Bloom, *Esprit de l'Escalier*, 1988. Mixed Media (3D), 124 x 174 x
+      564 inches.
+    credit: >-
+      Collection of the San José Museum of Art. Gift of Peter and Eileen Norton.
+      Photo by Douglas Sandberg
+  - id: "bloom4a"
+    src: figures/bloom/bloom4a-aphilosophicalpractice.mp4
+    media_id: 284543777
+    media_type: vimeo
+    caption:
+    credit: Video courtesy of KADIST
+  - id: "bloom4b"
+    src: figures/bloom/bloom4b-balanceno1purpleheadstackfromtheseriesbroken.jpg
+    caption: >-
+      Barbara Bloom, *Balance,#1 (Purple Head Stack), 2001* Iris print in
+      colored matte with broken glass embedded in Plexiglas, 41 1/8 x 31 1/8 x 2
+      inches, Edition of 3 + 2AP
+    credit: >-
+      Courtesy the artist and David Lewis, New York
+  - id: "ourslerbannerimage"
+    src: figures/oursler/ourslerbannerimage.jpg
+    caption: >-
+      Members of The Poetics, Los Angeles, 1977.
+    credit: >-
+      Photo: Jim Shaw. From left: John Arnheim, Bill Stobaugh, Mike Kelley, Tony
+      Oursler, John Miller.
+  - id: "oursler3a"
+    src: figures/oursler/oursler3a-videoprojectionsno59.mp4
+    media_id: 293660704
+    media_type: vimeo
+    caption: >-
+      Tony Oursler, *Video Projections No. 59*, 2002
+    credit: Paul Tschinkel/Inner-Tude Video
+  - id: "oursler4a"
+    src: figures/oursler/oursler4a-influencemachine7.jpg
+    caption: >-
+      Tony Oursler, *The Influence Machine*,2000
+    credit: >-
+      Commissioned and produced by Artangel. Photo by Dennis Crowley.
+  - id: "oursler5a"
+    src: figures/oursler/oursler5a-slip.jpg
+    caption: Tony Oursler, *Slip*, 2003
+    credit: >-
+      Tony Oursler, Slip, 2003. Sculpture, 43 x 5 x 15 in. Collection of the San
+      José Museum of Art. Gift of the Lipman Family Foundation, in honor of the
+      San Jose Museum of Art's 35th anniversary. Photo by Douglas Sandberg.
+  - id: "rathbannerimage"
+    src: figures/rath/rathbannerimage.jpg
+    caption: Rath Working in his Oakland Studio
+    credit: © Klaus Tilman, 2010
+  - id: "rath5a"
+    src: figures/rath/rath5a-johnworleyjazz.mp4
+    media_id: 294476061
+    media_type: vimeo
+    caption: John Worley Jazz Improvisation
+    credit: Courtesy of the San José Museum of Art.
+  - id: "rath4a"
+    src: figures/rath/rath4a-infoglut.jpg
+    caption: Info Glut II
+    credit: >-
+      Courtesy of the San José Museum of Art. Photograph by Douglas Sandberg.
+  - id: "rath3a"
+    src: figures/rath/rath3a-thumperv.jpg
+    caption: Thumper V
+    credit: Courtesy of the San José Museum of Art. Photograph by Douglas Sandberg.
+  - id: "steinkampbannerimage"
+    src: figures/steinkamp/steinkampbannerimage.jpg
+    caption: Steinkamp with Bouquet 1
+    credit: "Photo: Jessica Hromas"
+  - id: "steinkamp3b"
+    src: figures/steinkamp/steinkamp3b-flytomars.mp4
+    media_id: 362171352
+    media_type: vimeo
+    caption: Fly to Mars No. 1
+    credit: >-
+      Courtesy of Jennifer Steinkamp, Lehmann Maupin, New York, Hong Kong, and
+      greengrassi, London.
+  - id: "steinkamp4a"
+    src: figures/steinkamp/steinkamp4a-winterfoundations.mp4
+    media_id: 294065168
+    media_type: vimeo
+    caption: Winter Foundations
+    credit: Video by Greenhouse Media, Philadephia.
+  - id: "steinkamp5a"
+    src: figures/steinkamp/steinkamp5a-onesawtheothersaw.jpg
+    caption: "One Saw; The Other Saw Installation"
+    credit: >-
+      Courtesy Jennifer Steinkamp, Rice University, Houston Texas, Lehmann
+      Maupin, New York, Hong Kong and greengrassi, London.
+  - id: "asawa1a"
+    src: figures/asawa/asawa1a-asawaworking.jpg
+    caption: Asawa works on a crocheted wire sculpture in her living room.
+    credit:
+  - id: "asawa2a"
+    src: figures/asawa/asawa2a-formsandgrowth.mov
+    caption: >-
+      Clip from Robert Snyder’s film, *Ruth Asawa: Of Forms and Growth*
+    credit: © Masters & Masterworks Productions, Inc.
+  - id: "asawa3a"
+    src: figures/asawa/asawa3a-untitled035.jpg
+    caption: >-
+      Ruth Asawa, *Untitled (S.035, Hanging Six-Lobed, Multilayered Interlocking
+      Continuous Form within a Form with Spheres in the Second, Fifth, and Sixth
+      Lobes), from "Group of Architectural Works"*, c.1962
+    credit: >-
+      Collection of the San José Museum of Art. Gift of the Artist in honor of
+      the San Jose Museum of Art's 35th Anniversary. Photograph by Johnna
+      Arnold.
+  - id: "asawa3b"
+    src: figures/asawa/asawa3b-untitled035detail.jpg
+    caption: >-
+      Ruth Asawa, *Untitled (S.035, Hanging Six-Lobed, Multilayered Interlocking
+      Continuous Form within a Form with Spheres in the Second, Fifth, and Sixth
+      Lobes), from "Group of Architectural Works"*, c.1962, detail
+    credit: >-
+      Collection of the San José Museum of Art. Gift of the Artist in honor of
+      the San Jose Museum of Art's 35th Anniversary. Photograph by Johnna
+      Arnold.
+  - id: "asawa5d"
+    src: figures/asawa/asawa5d-internmentmemorial.jpg
+    caption: >-
+      More than 200 people gathered on March 5, 1994 to see the unveiling
+      and dedication of Asawa’s memorial. Ruth Asawa Papers, M1585: Box X, Folder
+      Y. Courtesy of the Department of Special Collections, Stanford Libraries.
+    credit: >-
+      Artwork © Estate of Ruth Asawa. Photo: Fay Royal Baxter
+  - id: "hawkinson3a"
+    src: figures/hawkinson/hawkinson3a-uberorgan.mp4
+    caption: Tim Hawkinson, *Uberorgan*, 2007
+    credit: >-
+      Video: Produced in 2007 by the J. Paul Getty Museum. Andrea Nasher
+      Collection
+  - id: "hawkinson4a"
+    src: figures/hawkinson/hawkinson4a-scout.jpg
+    caption: Tim Hawkinson, *Scout*, 2006-2007
+    credit:
+  - id: "hawkinson5d"
+    src: figures/hawkinson/hawkinson5d-emoterdetail.jpg
+    caption: Tim Hawksinon, *Detail of Emoter*, 2000
+    credit:
+  - id: "hawkinsonbanner"
+    src: figures/hawkinson/hawkinsonbannerimage.jpeg
+    caption: Portrait of Tim Hawkinson
+    credit:
+  - id: "thater3a"
+    src: figures/thater/thater3a-untitledbutterflyvideowall.jpg
+    caption: Diana Thater, *Untitled (Butterfly Videowall No. 2)*, 2008
+    credit:
+  - id: "thater 4d"
+    src: figures/thater/thater4d-lacma.jpg
+    caption: Diana Thater, *Delphine*, 2015
+    credit:
+  - id: "thater5a"
+    src: figures/thater/thater5a-sjmacreativeminds.mp4
+    caption: Diana Thater Creative Minds, 2015
+    credit:
+  - id: "thaterbanner"
+    src: figures/thater/thaterbannerimage.jpg
+    caption:
+    credit:
