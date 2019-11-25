@@ -1,0 +1,3 @@
+[submodule "themes/sjma-5050-theme"]
+	path = themes/sjma-5050-theme
+	url = git@github.com:egardner/sjma-5050-theme.git
