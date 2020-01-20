@@ -44,8 +44,8 @@ params:
   nextPageButtonText: "Next"
   entryPageSideBySideLayout: false
   entryPageObjectLinkText: "View in Collection"
-  figureLabelLocation: on-top # below | on-top
-  figureModal: true
-  figureModalIcons: true
-  figureZoom: true
+  figureLabelLocation: below # below | on-top
+  figureModal: false
+  figureModalIcons: false
+  figureZoom: false
   citationPopupStyle: text # text | icon
