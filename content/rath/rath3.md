@@ -4,6 +4,7 @@ title: Systems Logic
 short_title:
 type: entry
 weight: 563
+menu: false
 class: side-by-side
 object:
   - id: "rath4a"

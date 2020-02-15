@@ -4,6 +4,7 @@ title: Balance No. 1 (Purple Head Stack) from the series Broken
 short_title:
 type: entry
 weight: 293
+menu: false
 class: side-by-side
 object:
   - id: "bloom4b"

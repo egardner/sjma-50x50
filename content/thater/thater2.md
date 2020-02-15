@@ -4,6 +4,7 @@ title: Deconstructing Video
 short_title:
 type: entry
 weight: 642
+menu: false
 class: side-by-side
 object:
   - id: "thater3a"

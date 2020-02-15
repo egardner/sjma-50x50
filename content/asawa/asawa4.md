@@ -4,6 +4,7 @@ title: Japanese American Internment
 short_title:
 type: entry
 weight: 234
+menu: false
 class: side-by-side
 object:
   - id: "asawa5d"

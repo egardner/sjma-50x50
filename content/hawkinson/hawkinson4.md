@@ -4,6 +4,7 @@ title: Using His Own Body
 short_title:
 type: entry
 weight: 424
+menu: false
 class: side-by-side
 object:
   - id: "hawkinson5d"

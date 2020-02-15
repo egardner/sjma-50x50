@@ -4,6 +4,7 @@ title: Transforming Architecture
 short_title:
 type: entry
 weight: 594
+menu: false
 class: side-by-side
 object:
   - id: "steinkamp5a"
