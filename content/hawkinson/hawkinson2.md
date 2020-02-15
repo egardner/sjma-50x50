@@ -4,6 +4,7 @@ title: Circuits and Sounds
 short_title:
 type: entry
 weight: 422
+menu: false
 class: side-by-side
 object:
   - id: "hawkinson3a"

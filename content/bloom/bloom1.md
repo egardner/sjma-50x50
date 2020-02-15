@@ -4,6 +4,7 @@ title: Portrait of Barbara Bloom
 short_title:
 type: entry
 weight: 291
+menu: false
 class: side-by-side
 object:
   - id: "bloombannerimage"

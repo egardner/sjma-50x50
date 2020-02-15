@@ -4,6 +4,7 @@ title: Video Projections No. 59
 short_title:
 type: entry
 weight: 552
+menu: false
 class: side-by-side
 object:
   - id: "oursler3a"

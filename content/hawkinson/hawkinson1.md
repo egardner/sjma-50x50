@@ -4,6 +4,7 @@ title: The Mad Scientist, the Tinkerer
 short_title:
 type: entry
 weight: 421
+menu: false
 class: side-by-side
 object:
   - id: "hawkinsonbannerimage"
