@@ -4,6 +4,7 @@ title: Another Kind of Time
 short_title:
 type: entry
 weight: 641
+menu: false
 class: side-by-side
 object:
   - id: "thaterbannerimage"

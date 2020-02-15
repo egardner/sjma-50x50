@@ -4,6 +4,7 @@ title: A Philosophical Practice
 short_title:
 type: entry
 weight: 294
+menu: false
 class: side-by-side
 object:
   - id: "bloom4a"

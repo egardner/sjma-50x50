@@ -4,6 +4,7 @@ title: Esprit de l'Escalier
 short_title:
 type: entry
 weight: 292
+menu: false
 class: side-by-side
 object:
   - id: "bloom3b"

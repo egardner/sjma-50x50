@@ -4,6 +4,7 @@ title: Robot Improv
 short_title:
 type: entry
 weight: 562
+menu: false
 class: side-by-side
 object:
   - id: "rath5a"

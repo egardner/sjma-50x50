@@ -4,6 +4,7 @@ title: Symbols of Sentience
 short_title:
 type: entry
 weight: 564
+menu: false
 class: side-by-side
 object:
   - id: "rath3a"

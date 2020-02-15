@@ -4,6 +4,7 @@ title: The Influencer Machine
 short_title:
 type: entry
 weight: 553
+menu: false
 class: side-by-side
 object:
   - id: "oursler4a"

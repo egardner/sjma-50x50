@@ -4,6 +4,7 @@ title: Slip
 short_title:
 type: entry
 weight: 554
+menu: false
 class: side-by-side
 object:
   - id: "oursler5a"
