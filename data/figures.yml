@@ -147,14 +147,14 @@ figure_list:
     caption: Tim Hawksinon, *Detail of Emoter*, 2000
     credit:
   - id: "hawkinsonbanner"
-    src: figures/hawkinson/hawkinsonbannerimage.jpeg
+    src: figures/hawkinson/hawkinsonbannerimage.jpg
     caption: Portrait of Tim Hawkinson
     credit:
   - id: "thater3a"
     src: figures/thater/thater3a-untitledbutterflyvideowall.jpg
     caption: Diana Thater, *Untitled (Butterfly Videowall No. 2)*, 2008
     credit:
-  - id: "thater 4d"
+  - id: "thater4d"
     src: figures/thater/thater4d-lacma.jpg
     caption: Diana Thater, *Delphine*, 2015
     credit:
