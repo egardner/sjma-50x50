@@ -5,7 +5,6 @@ short_title:
 type: entry
 weight: 592
 menu: false
-class: side-by-side
 object:
   - id: "steinkamp3b"
 ---

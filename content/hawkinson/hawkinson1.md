@@ -5,9 +5,8 @@ short_title:
 type: entry
 weight: 421
 menu: false
-class: side-by-side
 object:
-  - id: "hawkinsonbannerimage"
+  - id: "hawkinsonbanner"
 ---
 Drawings, paintings, sculpture, video, and sound make up Tim Hawkinson’s unconventional and wide-ranging practice. Working primarily with imagery of the body and mechanical devices, the artist explores themes of corporeality, spirituality, and mortality in diverse works such as skeletal ink impressions of his own body, timepieces, and *Signature* (1993), an automated machine that signs the artist’s name. A kind of mad scientist or tinkerer,[^1] Hawkinson explores the human form and machines by “converting and reconstituting commonplace things into objects of wonderment.”[^2] Drawn to found and reclaimed objects—the artist’s parents owned an antique shop[^3]—like eggshells, fingernails, feathers, or discarded cardboard, Hawkinson’s materials lend themselves to the surreal quality of his work, in which “reality is broken down into pieces and then rebuilt.”[^4]
 

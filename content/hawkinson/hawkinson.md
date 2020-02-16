@@ -2,8 +2,7 @@
 title: TIM HAWKINSON
 subtitle: United States, b. 1960
 weight: 420
-type: contents
-class: grid
+type: artist
 epub: false
 slug: .
 ---

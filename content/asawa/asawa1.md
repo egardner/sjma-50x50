@@ -5,7 +5,6 @@ short_title:
 type: entry
 weight: 231
 menu: false
-class: side-by-side
 object:
   - id: "asawa1a"
 ---
