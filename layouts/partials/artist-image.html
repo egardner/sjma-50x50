@@ -1,0 +1,21 @@
+{{ $scratch := newScratch }}
+{{ $scratch.Set "title" .Title }}
+
+{{ range .Params.object }}
+{{ $scratch.Set "objectId" .id }}
+{{ end }}
+
+{{ range where $.Site.Data.figures.figure_list "id" ( $scratch.Get "objectId" ) }}
+{{ $scratch.Set "figure" .src }}
+{{ end }}
+
+<div class="column is-full-mobile is-half-tablet">
+  <a href="{{ .RelPermalink }}">
+    <figure class="image is-square">
+        <img src="/{{ $.Site.Params.imageDir }}/{{ $scratch.Get "figure" }}" alt="" style="object-fit: cover;">
+    </figure>
+    <h6>
+      {{ .Title }}
+    </h6>
+  </a>
+</div>
