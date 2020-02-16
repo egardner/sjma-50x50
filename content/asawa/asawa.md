@@ -2,8 +2,7 @@
 title: RUTH ASAWA
 subtitle: United States, 1926–2013
 weight: 230
-type: contents
-class: grid
+type: artist
 epub: false
 slug: .
 ---

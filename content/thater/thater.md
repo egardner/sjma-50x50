@@ -2,8 +2,7 @@
 title: DIANA THATER
 subtitle: United States, b. 1962
 weight: 640
-type: contents
-class: grid
+type: artist
 epub: false
 slug: .
 ---
