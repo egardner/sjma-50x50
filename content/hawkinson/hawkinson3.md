@@ -5,7 +5,6 @@ short_title:
 type: entry
 weight: 423
 menu: false
-class: side-by-side
 object:
   - id: "hawkinson4a"
 ---

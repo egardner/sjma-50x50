@@ -5,7 +5,6 @@ short_title:
 type: entry
 weight: 644
 menu: false
-class: side-by-side
 object:
   - id: "thater5a"
 ---

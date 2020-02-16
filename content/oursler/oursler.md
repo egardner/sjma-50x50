@@ -2,8 +2,7 @@
 title: TONY OURSLER
 subtitle: United States, b. 1957
 weight: 550
-type: contents
-class: grid
+type: artist
 epub: false
 slug: .
 ---
