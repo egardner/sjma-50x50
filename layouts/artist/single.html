@@ -1,34 +1,46 @@
 {{ define "main" }}
-<div class='sjma-artist {{ partial "page-class.html" . }}' id="main" role="main">
-  <!-- Page header -->
-  {{ partial "page-header.html" . }}
+<div class='sjma-artist js-sjma-artist {{ partial "page-class.html" . }}' id="main" role="main">
+    <!-- Page header -->
+    {{ partial "page-header.html" . }}
 
-  <!-- Content section -->
-  <section class="section quire-page__content" id="content">
-    <!-- Page content -->
-    {{ if .Content }}
-    <div class="container">
-      <div class="content">
+    <section class="sjma-artist__sticky">
+        <div class="container sjma-artist__grid">
+            <div class="columns is-mobile is-multiline">
+                {{ $currentPage := . }}
+                {{ range where .Site.Pages "Section" .Section }}
+                {{ if ne . $currentPage }}
+                {{ partial "artist-image.html" . }}
+                {{ end }}
+                {{ end }}
+            </div>
+        </div>
+    </section>
+
+    <!-- Content section -->
+    <section class="section quire-page__content" id="content">
+        <!-- Page content -->
+        {{ if .Content }}
+        <div class="sjma-artist__container container">
+            <div id="sjma-artist-outlet" class="sjma-artist__content content">
+                {{ .Content }}
+            </div>
+        </div>
+        {{ end }}
+    </section>
+
+    <!-- <section class="quire-page__content">
+        <div class="container sjma-artist__container">
+            <div id="sjma-artist-outlet" class="sjma-artist__content content"></div>
+        </div>
+    </section> -->
+
+    {{ $currentPage := . }}
+    {{ range where .Site.Pages "Section" .Section }}
+    {{ if ne . $currentPage }}
+    <template id='{{ .Title | urlize | printf "%s%s" "js-template-" }}'>
         {{ .Content }}
-      </div>
-    </div>
+    </template>
     {{ end }}
-
-
-    <div class="container sjma-artist__grid">
-      <div class="columns is-mobile is-multiline">
-        {{ $currentPage := . }}
-        {{ range where .Site.Pages "Section" .Section }}
-        {{ if ne . $currentPage }}
-        {{ partial "artist-image.html" . }}
-        {{ end }}
-        {{ end }}
-      </div>
-    </div>
-
-    <div class="container">
-    {{ partial "footer-buttons.html" . }}
-    </div>
-  </section>
+    {{ end }}
 </div>
 {{ end }}
