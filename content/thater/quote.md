@@ -4,6 +4,7 @@ subtitle: United States, b. 1962
 weight: 640
 type: artist
 epub: false
+slug: .
 ---
 > We move, record, project, and see, changing the nature and configuration of what we see through our movement and our being and, ultimately, find ourselves not looking at the work of art but with it.[^1]
 
