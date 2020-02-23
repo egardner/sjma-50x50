@@ -1,0 +1,50 @@
+{{/* 
+	Modified next/previous buttons template for Artist Pages.
+	Note: Hugo changed the way .Next and .Prev work to basically do the
+	opposite of what we want. The way they are used here is not an accident.
+*/}}
+
+{{ $currentPage := . }}
+{{ $artistPages := where .Site.Pages "Type" .Type }}
+
+{{ $nextArtistPages := where $artistPages "Weight" "gt" .Weight }}
+{{ $prevArtistPages := where $artistPages "Weight" "lt" .Weight }}
+
+{{ $nextArtistPage := index (first 1 $nextArtistPages) 0 }}
+{{ $prevArtistPage := index (last 1 $prevArtistPages) 0 }}
+{{ $lastArtistPage := index (last 1 $artistPages) 0 }}
+
+{{ $pagesNotInCurrentSection := where .Site.Pages "Section" "ne" .Section }}
+{{ $firstNonArtistPage := index (where $pagesNotInCurrentSection "Weight" "gt" .Weight) 0 }}
+
+<div class="{{ if eq $.Site.Params.pdf true }} visually-hidden {{ end }} quire-contents-buttons remove-from-epub">
+	<ul>
+
+		{{/* Link to Previous Page (uses "next") */}}
+		{{ with $prevArtistPage }}
+		<li class="quire-nav-button prev">
+			<a id="js-prev" href="{{ .Permalink | relURL }}">{{- partial "icon.html" (dict "type" "left-arrow" "description" "Go back a page") -}} <span class="nav-title">{{ $.Site.Params.prevPageButtonText }}</span></a>
+			<span class="visually-hidden">Previous Page (left keyboard arrow or swipe)</span>
+		</li>
+		{{ else }}
+		<li class="quire-nav-button prev">
+			<a id="js-prev" href="{{ .Next.Permalink | relURL }}">{{- partial "icon.html" (dict "type" "left-arrow" "description" "Go back a page") -}} <span class="nav-title">{{ $.Site.Params.prevPageButtonText }}</span></a>
+			<span class="visually-hidden">Previous Page (left keyboard arrow or swipe)</span>
+		</li>
+		{{ end }}
+
+		{{/* Link to Next Page (uses "prev") */}}
+		{{ with $nextArtistPage }}
+		<li class="quire-nav-button next">
+			<a id="js-next" href="{{ .Permalink | relURL }}"><span class="nav-title">{{ $.Site.Params.nextPageButtonText }}</span> {{- partial "icon.html" (dict "type" "right-arrow" "description" "Go to next page") -}}</a>
+			<span class="visually-hidden">Next Page (right keyboard arrow or swipe)</span>
+		</li>
+		{{ else }}
+		<li class="quire-nav-button next">
+			<a id="js-next" href="{{ $firstNonArtistPage.Permalink | relURL }}"><span class="nav-title">{{ $.Site.Params.nextPageButtonText }}</span> {{- partial "icon.html" (dict "type" "right-arrow" "description" "Go to next page") -}}</a>
+			<span class="visually-hidden">Next Page (right keyboard arrow or swipe)</span>
+		</li>
+		{{ end }}
+
+	</ul>
+</div>

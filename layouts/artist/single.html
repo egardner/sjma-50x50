@@ -1,13 +1,40 @@
+{{/*
+    SJMA Artist Page. This layout defines a view containing an opening quote
+    and visual links to the various works in the section.
+
+    Without any client-side JS, this page links to separate pages for each
+    individual artwork. When JS is enabled, this content can be loaded
+    in-place thanks to the HTML5 template API; all of the markup needed to
+    display artist pages is present here inside `<template>` tags.
+    
+    This approach has the advantage of providing a streamlined experience to
+    users on the web without getting in the way of SEO or PDF generation.
+
+    *TODO* Right now searches (either within this site or via Google) that
+    take the user directly to individual artist pages need to be intercepted
+    to direct the user to the appropriate artist page instead. When this
+    happens a state change needs to be triggered here to display the
+    appropriate content.
+
+    *TODO* Update the URL with a hash to indicate which artist page is
+    currently being viewed. Load the appropriate page from hash when user
+    first lands.
+*/}}
+
 {{ define "main" }}
+
 <div class='sjma-artist js-sjma-artist {{ partial "page-class.html" . }}' id="main" role="main">
     <!-- Page header -->
     {{ partial "page-header.html" . }}
 
-    <section class="sjma-artist__sticky">
-        <div class="container sjma-artist__grid">
+    <section class="sjma-artist__navigation is-screen-only">
+        <div class="sjma-artist__grid container">
             <div class="columns is-mobile is-multiline">
-                {{ range .Resources.ByType "page" }}
+                {{ $currentPage := . }}
+                {{ range where .Site.Pages "Section" .Section }}
+                {{ if ne . $currentPage }}
                 {{ partial "artist-image.html" . }}
+                {{ end }}
                 {{ end }}
             </div>
         </div>
@@ -24,19 +51,24 @@
         </div>
         {{ end }}
 
-        {{ partial "footer-buttons.html" . }}
+        {{ partial "artist-footer-buttons.html" . }}
     </section>
 
-    <!-- <section class="quire-page__content">
-        <div class="container sjma-artist__container">
-            <div id="sjma-artist-outlet" class="sjma-artist__content content"></div>
-        </div>
-    </section> -->
+    {{/* Build out templates */}}
+    {{/* 1. Template for the initial content of the page. */}}
+    <template id='js-template-quote'>
+        {{ .Content }}
+    </template>
 
-    {{ range .Resources.ByType "page" }}
+    {{/* 2. Template for each artist entry page. */}}
+    {{ $currentPage := . }}
+    {{ range where .Site.Pages "Section" .Section }}
+    {{ if ne . $currentPage }}
     <template id='{{ .Title | urlize | printf "%s%s" "js-template-" }}'>
         {{ .Content }}
     </template>
     {{ end }}
+    {{ end }}
+
 </div>
 {{ end }}
