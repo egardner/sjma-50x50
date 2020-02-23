@@ -4,6 +4,7 @@ subtitle: United States, b. 1959
 weight: 560
 type: artist
 epub: false
+slug: .
 ---
 > A lot of people use machines. I want to build machines. The best way to examine the meaning of machinery and the nature of machinery is to build it.[^1]
 
