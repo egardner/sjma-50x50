@@ -4,7 +4,6 @@ subtitle: United States, b. 1958
 weight: 590
 type: artist
 epub: false
-slug: .
 ---
 > I began as someone who deeply appreciated abstract art. Loops seemed to be a way to work with abstraction and less representational forms.[^1]
 

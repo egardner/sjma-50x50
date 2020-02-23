@@ -6,7 +6,8 @@
 {{ end }}
 
 {{ range where $.Site.Data.figures.figure_list "id" ( $scratch.Get "objectId" ) }}
-{{ $scratch.Set "figure" .src }}
+{{ $thumbnail := replace .src "figures/" "thumbnails/" }}
+{{ $scratch.Set "figure" $thumbnail }}
 {{ end }}
 
 <div class="column is-one-quarter-mobile">
