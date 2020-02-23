@@ -1,0 +1,38 @@
+{{/* 
+	Modified next/previous buttons template.
+	Note: Hugo changed the way .Next and .Prev work to basically do the
+	opposite of what we want. The way they are used here is not an accident.
+*/}}
+
+<div class="{{ if eq $.Site.Params.pdf true }} visually-hidden {{ end }} quire-contents-buttons remove-from-epub">
+	<ul>
+
+		{{/* Link to Previous Page (uses "next") */}}
+		{{ with .Next }}
+
+		{{ if .Section }}
+		{{ $sectionPages := where .Site.Pages "Section" .Section }}
+		{{ $firstPageInSection := index (first 1 $sectionPages) 0 }}
+		<li class="quire-nav-button prev">
+			<a id="js-prev" href="{{ $firstPageInSection.Permalink | relURL }}">{{- partial "icon.html" (dict "type" "left-arrow" "description" "Go back a page") -}} <span class="nav-title">{{ $.Site.Params.prevPageButtonText }}</span></a>
+			<span class="visually-hidden">Previous Page (left keyboard arrow or swipe)</span>
+		</li>
+		{{ else if and ( .IsPage ) ( ne .Type "data" ) }}
+		<li class="quire-nav-button prev">
+			<a id="js-prev" href="{{ .Permalink | relURL }}">{{- partial "icon.html" (dict "type" "left-arrow" "description" "Go back a page") -}} <span class="nav-title">{{ $.Site.Params.prevPageButtonText }}</span></a>
+			<span class="visually-hidden">Previous Page (left keyboard arrow or swipe)</span>
+		</li>
+		{{ end }}
+		{{ end }}
+
+		{{/* Link to Next Page (uses "prev") */}}
+		{{ with .Prev }}
+		{{ if and ( .IsPage ) ( ne .Type "data" ) }}
+		<li class="quire-nav-button next">
+          <a id="js-next" href="{{ .Permalink | relURL }}"><span class="nav-title">{{ $.Site.Params.nextPageButtonText }}</span> {{- partial "icon.html" (dict "type" "right-arrow" "description" "Go to next page") -}}</a>
+          <span class="visually-hidden">Next Page (right keyboard arrow or swipe)</span>
+		</li>
+		{{ end }}
+		{{ end }}
+	</ul>
+</div>
