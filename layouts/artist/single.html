@@ -6,11 +6,8 @@
     <section class="sjma-artist__sticky">
         <div class="container sjma-artist__grid">
             <div class="columns is-mobile is-multiline">
-                {{ $currentPage := . }}
-                {{ range where .Site.Pages "Section" .Section }}
-                {{ if ne . $currentPage }}
+                {{ range .Resources.ByType "page" }}
                 {{ partial "artist-image.html" . }}
-                {{ end }}
                 {{ end }}
             </div>
         </div>
@@ -34,13 +31,10 @@
         </div>
     </section> -->
 
-    {{ $currentPage := . }}
-    {{ range where .Site.Pages "Section" .Section }}
-    {{ if ne . $currentPage }}
+    {{ range .Resources.ByType "page" }}
     <template id='{{ .Title | urlize | printf "%s%s" "js-template-" }}'>
         {{ .Content }}
     </template>
-    {{ end }}
     {{ end }}
 </div>
 {{ end }}
