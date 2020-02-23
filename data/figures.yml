@@ -12,7 +12,7 @@ figure_list:
       Collection of the San José Museum of Art. Gift of Peter and Eileen Norton.
       Photo by Douglas Sandberg
   - id: "bloom4a"
-    src: figures/bloom/bloom4a-aphilosophicalpractice.mp4
+    src: figures/bloom/bloom4a-aphilosophicalpractice.png
     media_id: 284543777
     media_type: vimeo
     caption:
@@ -33,7 +33,7 @@ figure_list:
       Photo: Jim Shaw. From left: John Arnheim, Bill Stobaugh, Mike Kelley, Tony
       Oursler, John Miller.
   - id: "oursler3a"
-    src: figures/oursler/oursler3a-videoprojectionsno59.mp4
+    src: figures/oursler/oursler3a-videoprojectionsno59.png
     media_id: 293660704
     media_type: vimeo
     caption: >-
@@ -57,7 +57,7 @@ figure_list:
     caption: Rath Working in his Oakland Studio
     credit: © Klaus Tilman, 2010
   - id: "rath5a"
-    src: figures/rath/rath5a-johnworleyjazz.mp4
+    src: figures/rath/rath5a-johnworleyjazz.png
     media_id: 294476061
     media_type: vimeo
     caption: John Worley Jazz Improvisation
@@ -76,7 +76,7 @@ figure_list:
     caption: Steinkamp with Bouquet 1
     credit: "Photo: Jessica Hromas"
   - id: "steinkamp3b"
-    src: figures/steinkamp/steinkamp3b-flytomars.mp4
+    src: figures/steinkamp/steinkamp3b-flytomars.png
     media_id: 362171352
     media_type: vimeo
     caption: Fly to Mars No. 1
@@ -84,7 +84,7 @@ figure_list:
       Courtesy of Jennifer Steinkamp, Lehmann Maupin, New York, Hong Kong, and
       greengrassi, London.
   - id: "steinkamp4a"
-    src: figures/steinkamp/steinkamp4a-winterfoundations.mp4
+    src: figures/steinkamp/steinkamp4a-winterfoundations.png
     media_id: 294065168
     media_type: vimeo
     caption: Winter Foundations
@@ -100,7 +100,7 @@ figure_list:
     caption: Asawa works on a crocheted wire sculpture in her living room.
     credit:
   - id: "asawa2a"
-    src: figures/asawa/asawa2a-formsandgrowth.mov
+    src: figures/asawa/asawa2a-formsandgrowth.png
     caption: >-
       Clip from Robert Snyder’s film, *Ruth Asawa: Of Forms and Growth*
     credit: © Masters & Masterworks Productions, Inc.
@@ -133,7 +133,7 @@ figure_list:
     credit: >-
       Artwork © Estate of Ruth Asawa. Photo: Fay Royal Baxter
   - id: "hawkinson3a"
-    src: figures/hawkinson/hawkinson3a-uberorgan.mp4
+    src: figures/hawkinson/hawkinson3a-uberorgan.png
     caption: Tim Hawkinson, *Uberorgan*, 2007
     credit: >-
       Video: Produced in 2007 by the J. Paul Getty Museum. Andrea Nasher
@@ -159,10 +159,10 @@ figure_list:
     caption: Diana Thater, *Delphine*, 2015
     credit:
   - id: "thater5a"
-    src: figures/thater/thater5a-sjmacreativeminds.mp4
+    src: figures/thater/thater5a-sjmacreativeminds.png
     caption: Diana Thater Creative Minds, 2015
     credit:
-  - id: "thaterbanner"
+  - id: "thaterbannerimage"
     src: figures/thater/thaterbannerimage.jpg
     caption:
     credit:
