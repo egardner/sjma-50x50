@@ -5,6 +5,7 @@ short_title:
 type: page
 weight: 642
 menu: false
+search: false
 object:
   - id: "thater3a"
 ---
