@@ -5,6 +5,7 @@ short_title:
 type: page
 weight: 293
 menu: false
+search: false
 object:
   - id: "bloom4b"
 ---

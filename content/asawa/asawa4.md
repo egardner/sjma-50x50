@@ -5,6 +5,7 @@ short_title:
 type: page
 weight: 234
 menu: false
+search: false
 object:
   - id: "asawa5d"
 ---

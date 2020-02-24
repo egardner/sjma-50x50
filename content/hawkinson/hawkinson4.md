@@ -5,6 +5,7 @@ short_title:
 type: entry
 weight: 424
 menu: false
+search: false
 object:
   - id: "hawkinson5d"
 ---

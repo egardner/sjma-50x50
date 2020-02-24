@@ -5,6 +5,7 @@ short_title:
 type: page
 weight: 561
 menu: false
+search: false
 object:
   - id: "rathbannerimage"
 ---
