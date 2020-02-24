@@ -65,6 +65,7 @@
     {{ range where .Site.Pages "Section" .Section }}
     {{ if ne . $currentPage }}
     <template id='{{ .Title | urlize | printf "%s%s" "js-template-" }}'>
+        <h2>{{ .Title }}</h2>
         {{ .Content }}
     </template>
     {{ end }}
