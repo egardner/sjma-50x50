@@ -5,6 +5,7 @@ short_title:
 type: page
 weight: 422
 menu: false
+search: false
 object:
   - id: "hawkinson3a"
 ---

@@ -5,6 +5,7 @@ short_title:
 type: page
 weight: 592
 menu: false
+search: false
 object:
   - id: "steinkamp3b"
 ---
