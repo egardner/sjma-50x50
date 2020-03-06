@@ -1,5 +1,5 @@
 ---
-title: RUTH ASAWA
+title: Ruth Asawa
 subtitle: United States, 1926–2013
 weight: 230
 type: artist

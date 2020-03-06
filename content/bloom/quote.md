@@ -1,5 +1,5 @@
 ---
-title: BARBARA BLOOM
+title: Barbara Bloom
 subtitle: United States, b. 1951
 weight: 290
 type: artist

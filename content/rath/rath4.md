@@ -5,6 +5,7 @@ short_title:
 type: page
 weight: 564
 menu: false
+toc: false
 search: false
 object:
   - id: "rath3a"

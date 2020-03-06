@@ -5,6 +5,7 @@ short_title:
 type: page
 weight: 554
 menu: false
+toc: false
 search: false
 object:
   - id: "oursler5a"

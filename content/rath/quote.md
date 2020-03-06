@@ -1,5 +1,5 @@
 ---
-title: ALAN RATH
+title: Alan Rath
 subtitle: United States, b. 1959
 weight: 560
 type: artist
