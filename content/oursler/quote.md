@@ -1,5 +1,5 @@
 ---
-title: TONY OURSLER
+title: Tony Oursler
 subtitle: United States, b. 1957
 weight: 550
 type: artist

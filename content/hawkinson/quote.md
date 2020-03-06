@@ -1,5 +1,5 @@
 ---
-title: TIM HAWKINSON
+title: Tim Hawkinson
 subtitle: United States, b. 1960
 weight: 420
 type: artist

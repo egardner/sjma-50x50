@@ -1,5 +1,5 @@
 ---
-title: DIANA THATER
+title: Diana Thater
 subtitle: United States, b. 1962
 weight: 640
 type: artist

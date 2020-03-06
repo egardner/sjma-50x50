@@ -1,5 +1,5 @@
 ---
-title: JENNIFER STEINKAMP
+title: Jennifer Steinkamp
 subtitle: United States, b. 1958
 weight: 590
 type: artist

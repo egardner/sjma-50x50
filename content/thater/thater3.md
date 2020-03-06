@@ -5,6 +5,7 @@ short_title:
 type: page
 weight: 643
 menu: false
+toc: false
 search: false
 object:
   - id: "thater4d"

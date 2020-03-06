@@ -5,6 +5,7 @@ short_title:
 type: page
 weight: 591
 menu: false
+toc: false
 search: false
 object:
   - id: "steinkampbannerimage"
