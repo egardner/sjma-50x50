@@ -23,12 +23,12 @@
 		{{/* Link to Previous Page (uses "next") */}}
 		{{ with $prevArtistPage }}
 		<li class="quire-nav-button prev">
-			<a id="js-prev" href="{{ .Permalink | relURL }}">{{- partial "icon.html" (dict "type" "left-arrow" "description" "Go back a page") -}} <span class="nav-title">{{ $.Site.Params.prevPageButtonText }}</span></a>
+			<a id="js-prev" href="{{ .Permalink | relURL }}">{{- partial "icon.html" (dict "type" "left-arrow" "description" "Go back a page") -}} <span class="nav-title">{{ $prevArtistPage.Title }}</span></a>
 			<span class="visually-hidden">Previous Page (left keyboard arrow or swipe)</span>
 		</li>
 		{{ else }}
 		<li class="quire-nav-button prev">
-			<a id="js-prev" href="{{ .Next.Permalink | relURL }}">{{- partial "icon.html" (dict "type" "left-arrow" "description" "Go back a page") -}} <span class="nav-title">{{ $.Site.Params.prevPageButtonText }}</span></a>
+			<a id="js-prev" href="{{ .Next.Permalink | relURL }}">{{- partial "icon.html" (dict "type" "left-arrow" "description" "Go back a page") -}} <span class="nav-title">{{ .Next.Title }}</span></a>
 			<span class="visually-hidden">Previous Page (left keyboard arrow or swipe)</span>
 		</li>
 		{{ end }}
@@ -36,12 +36,12 @@
 		{{/* Link to Next Page (uses "prev") */}}
 		{{ with $nextArtistPage }}
 		<li class="quire-nav-button next">
-			<a id="js-next" href="{{ .Permalink | relURL }}"><span class="nav-title">{{ $.Site.Params.nextPageButtonText }}</span> {{- partial "icon.html" (dict "type" "right-arrow" "description" "Go to next page") -}}</a>
+			<a id="js-next" href="{{ .Permalink | relURL }}"><span class="nav-title">{{ $nextArtistPage.Title }}</span> {{- partial "icon.html" (dict "type" "right-arrow" "description" "Go to next page") -}}</a>
 			<span class="visually-hidden">Next Page (right keyboard arrow or swipe)</span>
 		</li>
 		{{ else }}
 		<li class="quire-nav-button next">
-			<a id="js-next" href="{{ $firstNonArtistPage.Permalink | relURL }}"><span class="nav-title">{{ $.Site.Params.nextPageButtonText }}</span> {{- partial "icon.html" (dict "type" "right-arrow" "description" "Go to next page") -}}</a>
+			<a id="js-next" href="{{ $firstNonArtistPage.Permalink | relURL }}"><span class="nav-title">{{ $firstNonArtistPage.Title }}</span> {{- partial "icon.html" (dict "type" "right-arrow" "description" "Go to next page") -}}</a>
 			<span class="visually-hidden">Next Page (right keyboard arrow or swipe)</span>
 		</li>
 		{{ end }}
