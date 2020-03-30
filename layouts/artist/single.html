@@ -27,18 +27,8 @@
     <!-- Page header -->
     {{ partial "artist-header.html" . }}
 
-    <section class="sjma-artist__navigation is-screen-only">
-        <div class="sjma-artist__grid container">
-            <div class="columns is-mobile is-multiline">
-                {{ $currentPage := . }}
-                {{ range where .Site.Pages "Section" .Section }}
-                {{ if ne . $currentPage }}
-                {{ partial "artist-image.html" . }}
-                {{ end }}
-                {{ end }}
-            </div>
-        </div>
-    </section>
+    <!-- Visual artist-navigation grid -->
+    {{ partial "artist-navigation.html" . }}
 
     <!-- Content section -->
     <section class="section quire-page__content" id="content">
