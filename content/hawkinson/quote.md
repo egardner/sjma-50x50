@@ -4,6 +4,7 @@ subtitle: United States, b. 1960
 weight: 420
 type: artist
 epub: false
+grid: type-c
 slug: .
 ---
 > I use my image or my body in a lot of the work as a jumping-off point. But usually the end result is so abstracted that I don’t really feel so identified with it any longer. It’s not about my identity . . . it’s about our identity and our experiences within our bodies, and our bodies’ relationship to the external world.[^1]
