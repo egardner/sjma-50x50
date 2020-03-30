@@ -1,0 +1,11 @@
+{{ $currentPage := . }}
+{{ $artistPages :=  where (where .Site.Pages "Section" .Section) "Title" "ne" $currentPage.Title }}
+
+	
+<section class="sjma-artist__navigation is-screen-only">
+	<div class="sjma-artist__grid is-{{ .Params.grid }} container">
+		{{ range $artistPages }}
+		<div class="sjma-artist__grid-item">{{ partial "artist-image.html" . }}</div>
+		{{ end }}
+	</div>
+</section>
