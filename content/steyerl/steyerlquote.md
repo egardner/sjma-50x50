@@ -1,13 +1,12 @@
 ---
 title: **HITO STEYERL**
-subtitle: United States, 1919–1998
+subtitle: Germany, b. 1966
 weight: 600
 type: artist
 epub: false
 grid: type-c
 slug: .
 ---
-Germany, b. 1966
 
 > “I try to project a question. It often takes the form of an experiment, a ‘what if.’ And after asking this question we construct the model, we test the hypothesis—and sometimes we do it to absurd lengths. . . . The approach is to project something on a nonexistent future.”[^1]
 
