@@ -1,6 +1,6 @@
 ---
 label: Oursler 3A
-title: Video Projections No. 59
+title: TV is a Drug
 short_title:
 type: page
 weight: 552
