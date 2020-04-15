@@ -6,22 +6,15 @@
 {{ end }}
 
 {{ range where $.Site.Data.figures.figure_list "id" ( $scratch.Get "objectId" ) }}
+{{ $fullsize := .src  }}
 {{ $thumbnail := replace .src "figures/" "thumbnails/" }}
-{{ $scratch.Set "figure" $thumbnail }}
+{{ $scratch.Set "thumb" $thumbnail }}
+{{ $scratch.Set "full" $fullsize }}
 {{ end }}
-
-<!-- <div class="sjma-artist__grid-item column is-one-quarter-mobile">
-    <a id='{{ .Title | urlize | printf "%s%s" "js-link-" }}' class="js-sjma-artist-link" href="{{ .RelPermalink }}">
-        <figure class="image is-square">
-            <img src="/{{ $.Site.Params.imageDir }}/{{ $scratch.Get "figure" }}" alt="" style="object-fit: cover;">
-            <h6 class="sjma-artist__grid-item__label">{{ .Title }}</h6>
-        </figure>
-    </a>
-</div> -->
 
 <a id='{{ .Title | urlize | printf "%s%s" "js-link-" }}' class="js-sjma-artist-link" href="{{ .RelPermalink }}">
     <figure>
-        <img src="/{{ $.Site.Params.imageDir }}/{{ $scratch.Get "figure" }}" alt="">
+        <img src="/{{ $.Site.Params.imageDir }}/{{ $scratch.Get "full" }}" alt="">
         <h6 class="sjma-artist__grid-item__label">{{ .Title }}</h6>
     </figure>
 </a>

@@ -9,15 +9,15 @@
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: 50X50 Stories of Visionary Artists from the Collection
-subtitle: A Digital Publication on the 50th Anniversary
+
+title: "50X50"
+subtitle: "Stories of Visionary Artists from the Collection"
 reading_line:
-short_title: 50X50
+short_title: "50X50"
 
 description:
-  one_line:
-  full: >-
-    50X50 Stories of Visionary Artists from the Collection
+  one_line: "A digital publication of the San José Museum of Art on the 50th Anniversary"
+  full:
 
 # ------------------------------------------------------------------------------
 # Publication Details
@@ -40,10 +40,10 @@ publisher:
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears: contributor_as_it_appears
+contributor_as_it_appears: Contributors TK
 
 contributor:
-  - id:
+  - id: 1
     type:
     first_name: Contributor
     last_name: Names
@@ -75,16 +75,16 @@ resource_link:
     media_type: application/pdf
     link_relation: alternate
     url: /downloads/output.pdf
-  - type: other-format
-    name: EPUB
-    media_type: application/epub+zip
-    link_relation: alternate
-    url: /downloads/output.epub
-  - type: other-format
-    name: Kindle/MOBI
-    media_type: vnd.amazon.mobi8-ebook
-    link_relation: alternate
-    url: /downloads/output.mobi
+  # - type: other-format
+  #   name: EPUB
+  #   media_type: application/epub+zip
+  #   link_relation: alternate
+  #   url: /downloads/output.epub
+  # - type: other-format
+  #   name: Kindle/MOBI
+  #   media_type: vnd.amazon.mobi8-ebook
+  #   link_relation: alternate
+  #   url: /downloads/output.mobi
   - type: footer-link
     name: About
     link_relation: about
