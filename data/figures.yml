@@ -1,21 +1,21 @@
 figure_list:
   - id: "bloombannerimage"
     src: figures/bloom/bloombannerimage.jpg
-    caption:
+    caption: Portrait of Barbara Bloom.
     credit: Courtesy of the Artist and David Lewis, New York
   - id: "bloom3b"
     src: figures/bloom/bloom3b-espritdeescalier.jpg
     caption: >-
-      Barbara Bloom, *Esprit de l'Escalier*, 1988. Mixed Media (3D), 124 x 174 x
+      Barbara Bloom, *Esprit de l'Escalier*, 1988. Mixed media installation, 124 x 174 x
       564 inches.
     credit: >-
-      Collection of the San José Museum of Art. Gift of Peter and Eileen Norton.
+      Collection of the San José Museum of Art. Gift of Peter and Eileen Norton, 1991.01.
       Photo by Douglas Sandberg
   - id: "bloom4a"
     src: figures/bloom/bloom4a-aphilosophicalpractice.png
     media_id: 284543777
     media_type: vimeo
-    caption:
+    caption: Clip from Jo-ey Tang’s video, *Borders of Fiction*, 2016.
     credit: Video courtesy of KADIST
   - id: "bloom4b"
     src: figures/bloom/bloom4b-balanceno1purpleheadstackfromtheseriesbroken.jpg
@@ -38,7 +38,7 @@ figure_list:
     media_type: vimeo
     caption: >-
       Tony Oursler, *Video Projections No. 59*, 2002
-    credit: Paul Tschinkel/Inner-Tude Video
+    credit: Video by Paul Tschinkel/Inner-Tude Video
   - id: "oursler4a"
     src: figures/oursler/oursler4a-influencemachine7.jpg
     caption: >-
@@ -47,62 +47,63 @@ figure_list:
       Commissioned and produced by Artangel. Photo by Dennis Crowley.
   - id: "oursler5a"
     src: figures/oursler/oursler5a-slip.jpg
-    caption: Tony Oursler, *Slip*, 2003
+    caption: Tony Oursler, *Slip*, 2003. Sculpture, 43 x 5 x 15 inches.
     credit: >-
-      Tony Oursler, Slip, 2003. Sculpture, 43 x 5 x 15 in. Collection of the San
-      José Museum of Art. Gift of the Lipman Family Foundation, in honor of the
-      San Jose Museum of Art's 35th anniversary. Photo by Douglas Sandberg.
+      Collection of the San José Museum of Art. Gift of the Lipman Family Foundation, in honor of the
+      San Jose Museum of Art's 35th anniversary, 2003.32. Photo by Douglas Sandberg.
   - id: "rathbannerimage"
     src: figures/rath/rathbannerimage.jpg
-    caption: Rath Working in his Oakland Studio
-    credit: © Klaus Tilman, 2010
+    caption: Allan Rath in his studio, Oakland, CA. 
+    credit: © Klaus Tilman, 2010.
   - id: "rath5a"
     src: figures/rath/rath5a-johnworleyjazz.png
     media_id: 294476061
     media_type: vimeo
-    caption: John Worley Jazz Improvisation
+    caption: >-
+      Jazz musician John Worley improvises to *Absolutely* (2012), a kinetic sculpture by Alan Rath at the San José Museum of Art.
     credit: Courtesy of the San José Museum of Art.
   - id: "rath4a"
     src: figures/rath/rath4a-infoglut.jpg
-    caption: Info Glut II
+    caption: Alan Rath, *Info Glut II*, 1997. Aluminum, acrylic, electronics, and three cathode ray tubes; 50 x 50 x 18 inches.
     credit: >-
-      Courtesy of the San José Museum of Art. Photograph by Douglas Sandberg.
+      Collection of the San José Museum of Art. Museum purchase with funds contributed by Katie and Drew Gibson, 1997.12. Photo by Douglas Sandberg.
   - id: "rath3a"
     src: figures/rath/rath3a-thumperv.jpg
-    caption: Thumper V
-    credit: Courtesy of the San José Museum of Art. Photograph by Douglas Sandberg.
+    caption: Alan Rath, Thumper V, 1996. Aluminum, steel plastic, electronics on four speakers; 59  x 20  x 22 inches.
+    credit: San José Museum of Art. Gift of Katie and Drew Gibson, 2014.05.04. Photo by Douglas Sandberg.
   - id: "steinkampbannerimage"
     src: figures/steinkamp/steinkampbannerimage.jpg
-    caption: Steinkamp with Bouquet 1
-    credit: "Photo: Jessica Hromas"
+    caption: Jennifer Steinkamp with *Bouquet 1*, 2014.
+    credit: Photo by Jessica Hromas.
   - id: "steinkamp3b"
     src: figures/steinkamp/steinkamp3b-flytomars.png
     media_id: 362171352
     media_type: vimeo
-    caption: Fly to Mars No. 1
+    caption: Jennifer Steinkamp, Fly to Mars (no. 1), 2004. Digital projection; 168  x 216 in. San José Museum of Art.
     credit: >-
-      Courtesy of Jennifer Steinkamp, Lehmann Maupin, New York, Hong Kong, and
-      greengrassi, London.
+      Gift of Linda Besemer, and the Museum's Collection Committee, in honor of the San Jose Museum of Art's 35th anniversary, 2004.12.
+      Courtesy of the artist, Lehmann Maupin, New York, Hong Kong, and greengrassi, London.
   - id: "steinkamp4a"
     src: figures/steinkamp/steinkamp4a-winterfoundations.png
     media_id: 294065168
     media_type: vimeo
-    caption: Winter Foundations
+    caption: Clip from *Winter Foundations*, 2017. 
     credit: Video by Greenhouse Media, Philadephia.
   - id: "steinkamp5a"
     src: figures/steinkamp/steinkamp5a-onesawtheothersaw.jpg
-    caption: "One Saw; The Other Saw Installation"
+    caption: Jennifer Steinkamp, *One Saw; The Other Saw*, 2001. Digital projection installation. 
     credit: >-
       Courtesy Jennifer Steinkamp, Rice University, Houston Texas, Lehmann
       Maupin, New York, Hong Kong and greengrassi, London.
   - id: "asawa1a"
     src: figures/asawa/asawa1a-asawaworking.jpg
-    caption: Asawa works on a crocheted wire sculpture in her living room.
+    caption: >-
+      Ruth Asawa works on a crocheted wire sculpture in her living room, ca. 1976. Photo by Allen Nomura. Courtesy of the San Francisco Examiner.
     credit:
   - id: "asawa2a"
     src: figures/asawa/asawa2a-formsandgrowth.png
     caption: >-
-      Clip from Robert Snyder’s film, *Ruth Asawa: Of Forms and Growth*
+      Clip from Robert Snyder’s film, *Ruth Asawa: Of Forms and Growth*,1978.
     credit: © Masters & Masterworks Productions, Inc.
   - id: "asawa3a"
     src: figures/asawa/asawa3a-untitled035.jpg
@@ -140,29 +141,29 @@ figure_list:
       Collection
   - id: "hawkinson4a"
     src: figures/hawkinson/hawkinson4a-scout.jpg
-    caption: Tim Hawkinson, *Scout*, 2006-2007
-    credit:
+    caption: Tim Hawkinson, *Scout*,2006–07. Cardboard, box strapping and urethane foam, 69 ½ x 103 x 68 in.
+    credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2013.12.
   - id: "hawkinson5d"
     src: figures/hawkinson/hawkinson5d-emoterdetail.jpg
-    caption: Tim Hawksinon, *Detail of Emoter*, 2000
-    credit:
+    caption: Tim Hawksinon, detail of *Emoter*, 2000. Mixed media installation.
+    credit: Courtesy Ace Gallery, Los Angeles.
   - id: "hawkinsonbanner"
     src: "figures/hawkinson/hawkinsonbanner.jpg"
     caption: "Portrait of Tim Hawkinson"
-    credit:
+    credit: Photo by Frank Jackson.
   - id: "thater3a"
     src: figures/thater/thater3a-untitledbutterflyvideowall.jpg
-    caption: Diana Thater, *Untitled (Butterfly Videowall No. 2)*, 2008
-    credit:
+    caption: Diana Thater, *Untitled (Butterfly Videowall No. 2)*, 2008. Video installation.
+    credit: San José Museum of Art. Museum purchase with funds provided by the Acquisitions Committee with additional funds provided by the Lipman Family Foundation, 2016.05.
   - id: "thater4d"
     src: figures/thater/thater4d-lacma.jpg
     caption: Diana Thater, *Delphine*, 2015
-    credit:
+    credit: Diana Thater Studio/ 1301PE Gallery.
   - id: "thater5a"
     src: figures/thater/thater5a-sjmacreativeminds.png
-    caption: Diana Thater Creative Minds, 2015
-    credit:
+    caption: Clip from Diana Thater artist talk, “Creative Minds” at San José Museum of Art, 2015.
+    credit: San José Museum of Art.
   - id: "thaterbannerimage"
     src: figures/thater/thaterbannerimage.jpg
-    caption:
-    credit:
+    caption: Diana Thater with Sudan the Rhino, 2016.
+    credit: Diana Thater Studio.
