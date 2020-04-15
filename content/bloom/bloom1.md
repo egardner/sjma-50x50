@@ -1,6 +1,6 @@
 ---
 label: Bloom Banner
-title: Portrait of Barbara Bloom
+title: Worlds Within Worlds
 short_title:
 type: page
 weight: 291
