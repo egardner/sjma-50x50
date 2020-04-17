@@ -1,6 +1,6 @@
 ---
 label: Oursler Banner
-title: Members of the Poetics
+title: Kaleidoscopic Art
 short_title:
 type: page
 weight: 551
