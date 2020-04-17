@@ -1,7 +1,7 @@
 ---
 label: Firelei Baez
-title: Subaltern Histories
-short_title: Sci-Fi Creatures
+title: Sci-Fi Creatures
+short_title:
 type: page
 weight: 253
 menu: false

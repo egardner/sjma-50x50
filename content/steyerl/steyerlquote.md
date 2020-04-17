@@ -1,5 +1,5 @@
 ---
-title: **HITO STEYERL**
+title: Hito Steyerl
 subtitle: Germany, b. 1966
 weight: 600
 type: artist
