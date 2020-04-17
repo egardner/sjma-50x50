@@ -1,6 +1,6 @@
 ---
 label: Oursler 5A
-title: Slip
+title: Empathy Effigies
 short_title:
 type: page
 weight: 554

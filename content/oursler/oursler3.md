@@ -1,6 +1,6 @@
 ---
 label: Oursler 4A
-title: The Influencer Machine
+title: The Influence Machine
 short_title:
 type: page
 weight: 553
