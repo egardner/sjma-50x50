@@ -6,3 +6,6 @@ public
 site
 node_modules
 .tmp
+
+# Local Netlify folder
+.netlify
