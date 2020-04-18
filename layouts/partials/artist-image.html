@@ -14,7 +14,7 @@
 
 <a id='{{ .Title | urlize | printf "%s%s" "js-link-" }}' class="js-sjma-artist-link" href="{{ .RelPermalink }}">
     <figure>
-        <img src="/{{ $.Site.Params.imageDir }}/{{ $scratch.Get "full" }}" alt="">
+        <img src="/{{ $.Site.Params.imageDir }}/{{ $scratch.Get "full" }}?nf_resize=fit&h=600" alt="">
         <h6 class="sjma-artist__grid-item__label">{{ .Title }}</h6>
     </figure>
 </a>
