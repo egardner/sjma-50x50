@@ -10,6 +10,7 @@ search: false
 object:
   - id: "mullican3a"
 ---
+{{<q-figure id="mullican3a">}}
 
 Lee Mullican at his studio in Venice, California, ca. 1950. Filmed by Betsy Drake.
 

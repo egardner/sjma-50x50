@@ -154,7 +154,8 @@ figure_list:
   - id: "thater3a"
     src: figures/thater/thater3a-untitledbutterflyvideowall.jpg
     caption: Diana Thater, *Untitled (Butterfly Videowall No. 2)*, 2008. Video installation.
-    credit: San José Museum of Art. Museum purchase with funds provided by the Acquisitions Committee with additional funds provided by the Lipman Family Foundation, 2016.05.
+    credit:  >-
+      San José Museum of Art. Museum purchase with funds provided by the Acquisitions Committee with additional funds provided by the Lipman Family Foundation, 2016.05.
   - id: "thater4d"
     src: figures/thater/thater4d-lacma.jpg
     caption: Diana Thater, *Delphine*, 2015
@@ -167,3 +168,142 @@ figure_list:
     src: figures/thater/thaterbannerimage.jpg
     caption: Diana Thater with Sudan the Rhino, 2016.
     credit: Diana Thater Studio.
+  - id: "baezbanner"
+    src: figures/baez/baezbanner.png
+    caption: Firelei Báez at her studio in Long Island City, New York, ca. 2017
+    credit: © antoinebootz. Photo courtesy of Galerie Magazine.
+  - id: "baez2a"
+    src: figures/baez/baez2a.mp4
+    media_id:
+    media_type: vimeo
+    caption:  >-
+      “Firelei Báez: Bloodlines at The Andy Warhol Museum,” The Andy Warhol Museum, Pittsburgh, posted April 14, 2017, video, 5:18 minutes, available at https://www.youtube.com/watch?v=qfcV7OH6Wy8.
+    credit: Courtesy of the Pérez Art Museum Miami.
+  - id: "baez3a"
+    src: figures/baez/baez3a.jpg
+    caption: Firelei Báez, *To see beyond it and to access the places that we know outside its walls*, 2015. Gouache and ink on paper, 84 1/2 x 50 inches.
+    credit: Collection of the San José Museum of Art. Museum purchase with funds provided by Tad and Jackson Freese, 2016.04.
+  - id: "baez4a"
+    src: figures/baez/baez4a.jpg
+    caption: Bill and Christy Gautreaux Collection, Kansas City, Missouri. Courtesy of the artist and James Cohan, New York.
+    credit: Firelei Báez, *DREAMer (a demand for opacity that weaves no boundaries)*, 2017. Acrylic and oil on canvas, 105 × 249 inches
+  - id: "corsebanner"
+    src: figures/corse/corsebanner.jpg
+    caption: Mary Corse in her Topanga Canyon studio, c. 2018.
+    credit: Courtesy of João Canziani.
+  - id: "corse4a"
+    src: figures/corse/corse4a.jpg
+    caption: Mary Corse, *Grey Light Painting*, 1988. Glass microspheres in paint on canvas. 72 x 72 inches.
+    credit: Collection of the San José Museum of Art. Gift of Katherine and James Gentry. Photo by Douglas Sandberg.
+  - id: "corse3a"
+    src: figures/corse/corse3a.mp4
+    caption: Clip from Andy Eason’s *White Light* video of Mary Corse in her studio, 1969.
+    credit: Copyright Mary Corse. Courtesy the artist and Kayne Griffin Corcoran.
+  - id: "corse2a"
+    src: figures/corse/corse2a.jpg
+    caption: Mary Corse in her downtown studio, 1966. Copyright Mary Corse.
+    credit: Courtesy the artist and Kayne Griffin Corcoran.
+  - id: "defeobanner"
+    src: figures/defeo/defeobanner.jpg
+    caption: Jay DeFeo working on *Deathrose*, ca. 1958.
+    credit: Photo by Jerry Burchard © Estate of Jerry Burchard. Used with permission.
+  - id: "defeo1a"
+    src: figures/defeo/defeo1a.png
+    caption: Portrait of Jay DeFeo, 1976.
+    credit: Photo by Mimi Jacobs. Courtesy of the Artist's Estate.
+  - id: "defeo3b"
+    src:
+    caption: Oral history interview with Jay DeFeo, 1975 June 3-1976 January 23.
+    credit:  Archives of American Art, Smithsonian Institution.
+  - id: "defeo4a"
+    src: figures/defeo/defeo4a.jpg
+    caption: Jay DeFeo, *Untitled* from the series “Shoe Tree,” 1977. Gouache and ink on paper, 39 3/4 x 30 1/4 inches.
+    credit: Collection of the San José Museum of Art. Gift of Dixon and Barbara Farley, 2014.09.08.
+  - id: "defeo5b"
+    src: figures/defeo/defeo5b.jpg
+    caption:
+    credit:
+  - id: "hallbanner"
+    src: figures/hall/hallbanner.png
+    caption: Doug Hall and Jody Procter of the media art collective T. R. Uthco performing *Walking Mission Street* (1972) in San Francisco.
+    credit: Photo by Diane Andrews Hall. Courtesy T. R. Uthco.
+  - id: "hall1a"
+    src: figures/hall/hall1a.jpg
+    caption: Doug Hall in character for *Portrait of Artist-President* (1975), a performance by Hall and Jody Procter of the media art collective T. R. Uthco.
+    credit: Courtesy of T. R. Uthco and Ant Farm.
+  - id: "hall5a"
+    src: figures/hall/hall5a.jpeg
+    caption: Installation view of Doug Hall’s video *Chrysopylae* (2012) in the exhibition *International Orange* by FOR-SITE Foundation, Fort Point, San Francisco, 2012.
+    credit: Photo by Ben Blackwell. Courtesy FOR-SITE Foundation.
+  - id: "hall5b"
+    src: figures/hall/hall5b.mp4
+    caption: Doug Hall, *Chrysopylae*, 2012. Segment from two-channel video installation with sound.
+    credit: Collection of the San José Museum of Art. Gift in part of the Lipman Family Foundation with additional funds contributed by the Acquisitions Committee. 2012.09. Courtesy of Doug Hall.
+  - id: "mullicanbanner"
+    src: figures/mullican/mullicanbanner.jpg
+    caption: Lee Mullican in his studio, Venice, California, ca. 1966–67.
+    credit: Photo courtesy of the Estate of Lee Mullican.
+  - id: "mullican2b"
+    src: figures/mullican/mullican2b.jpg
+    caption: Installation view of *Dynaton*, San Francisco Museum of Modern Art, 1951.
+    credit: Photo courtesy of the Estate of Lee Mullican.
+  - id: "mullican4a"
+    src: figures/mullican/mullican4a.jpg
+    caption: Lee Mullican, *Nightshade*, 1958. Oil on canvas, 40 x 50 inches.
+    credit: Collection of the San José Museum of Art. Gift of Gertrud and Harold Parker with additional funds contributed by Tom and Polly Bredt, 2006.25.01. Photograph by Douglas Sandberg.
+  - id: "mullican3a"
+    src:
+    caption: Lee Mullican at his studio in Venice, California, ca. 1950.
+    credit: Courtesy of Betsy Drake and the Estate of Lee Mullican. Filmed by Betsy Drake.
+  - id: "steyerlbanner"
+    src: figures/steyerl/steyerlbanner.jpg
+    caption: Hito Steyerl, *How Not to Be Seen: A Fucking Didactic Educational .MOV File*, 2013. Still from video, 15:53.
+    credit: Image courtesy of the artist; Andrew Kreps Gallery, New York; and Esther Schipper, Berlin.
+  - id: "steyerl3a"
+    src: figures/steyerl/steyerl3a.mp4
+    caption: Hito Steyerl, lecture at “The Photographic Universe II” conference, The New School, New York, April 2013.
+    credit: Courtesy of The New School.
+  - id: "steyerl4a"
+    src: figures/steyerl/steyerl4a.jpg
+    caption: Hito Steyerl, *Factory of the* Sun, 2015. Single-channel video and environment. San José Museum of Art. Purchased jointly by Museum of Contemporary Art, Chicago; San José Museum of Art; and Hammer Museum, Los Angeles, through the Board of Overseers Acquisitions Fund. 2017.08.
+    credit: Courtesy of the artist and Andrew Kreps Gallery, New York. Photography by Manuel Reinhartz.
+  - id: "steyerl5a"
+    src: figures/steyerl/steyerl5a.jpg
+    caption: Installation view of Hito Steyerl’s *City of Broken Windows* (2019) in *Uncanny Valley: Being Human in the Age of AI,* de Young Museum, San Francisco, 2020.
+    credit: Photo by Kathryn Wade.
+  - id: "villarealbanner"
+    src: "figures/villareal/villarealbanner.jpg"
+    caption: Leo Villareal programs *The* *Bay Lights,* 2013.
+    credit: Photograph by Lucas Saugen.
+  - id: "villareal2a"
+    src: "figures/villareal/villareal2a.mp4"
+    caption: *Interview with Leo Villareal*, created for his solo exhibition at the San José Museum of Art, 2010.
+    credit: Video by Tisha Carper Long.
+  - id: "villareal4a"
+    src: "figures/villareal/villareal4a.jpg"
+    caption: Leo *Villareal, Untitled (for San José)*, 2012. LED lights, custom software, and electrical hardware, 32 x 68 x 6 inches.
+    credit: San José Museum of Art. Commissioned and purchased with funds contributed by the Acquisitions Committee. 2012.06.
+  - id: "villareal5a"
+    src: "figures/villareal/villareal5a.mp4"
+    caption: Leo *Villareal, The Bay Lights, 2013.* Video by James Ewing.
+    credit: Courtesy Leo Villareal.
+  - id: "wileybanner"
+    src: "figures/wiley/wileybanner.png"
+    caption: William T. Wiley installing *Keel Over* at the Madison Art Center, Wisconsin, in 1970.
+    credit: Courtesy of the Madison Museum of Contemporary Art.
+  - id: "wiley5b"
+    src: "figures/wiley/wiley5b.jpg"
+    caption: William T. Wiley, *Punball*, 2008. Watercolor on paper, 21 3/4 x 19 1/2 inches.
+    credit:  San José Museum of Art. Gift of the Lipman Family Foundation. 2015.04. Photo by Douglas Sandberg.
+  - id: "wiley3a"
+    src: "figures/wiley/wiley3a.jpg"
+    caption: William T. Wiley, *Gineric D.B.L. (Part A)*, 1989. Acrylic and pencil on canvas, 100 x 156 inches.
+    credit: San José Museum of Art. Gift of the artist. 1993.09. Photo by Douglas Sandberg.
+  - id: "wiley2a"
+    src: "figures/wiley/wiley2a.jpg"
+    caption: William T. Wiley, *Tantrum Art La Grande*, 2001. Acrylic and mixed media on canvas, 96 x 60 inches.
+    credit: San José Museum of Art. Gift of the Lipman Family Foundation. 2004.41.03. Photo by Douglas Sandberg.
+  - id:
+    src:
+    caption:
+    credit:

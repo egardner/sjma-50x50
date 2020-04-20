@@ -10,7 +10,7 @@ search: false
 object:
   - id: "defeo4a"
 ---
-Jay DeFeo, *Untitled* from the series “Shoe Tree,” 1977. Gouache and ink on paper, 39 3/4 x 30 1/4 in. Collection of the San José Museum of Art. Gift of Dixon and Barbara Farley, 2014.09.08.
+{{<q-figure id="defeo4a">}}
 
 Jay DeFeo found inspiration in the sculptural quality of found objects and tools, which often served as models for her paintings and drawings. By fixating on everyday objects—swimming goggles, a dental bridge, a shoe tree—DeFeo transforms them into surrogates for the human body, as in the work on paper *Untitled* (1977) from her series “Shoe Tree.” A photographic contact sheet from the same year shows the interior of the artist’s studio, where a shoe tree dangles from a twisted wire like a mobile. In her drawing, DeFeo coupled the inanimate and lifelike; hard edges and a cold, gunmetal surface combine with wispy, curvilinear tendrils. As the artist said of her drawings from real-world objects, “even the most literal drawings . . . transcend the definition of the objects from which they are derived. I enjoy the paradox of developing something quite organic while using inorganic models.”[^1]
 
