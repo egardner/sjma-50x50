@@ -1,7 +1,7 @@
 ---
 title: William T. Wiley
 subtitle: United States, b. 1937
-weight: 650
+weight: 800
 type: artist
 epub: false
 grid: type-a
