@@ -68,7 +68,7 @@ figure_list:
     credit: >-
       Collection of the San José Museum of Art. Museum purchase with funds contributed by Katie and Drew Gibson, 1997.12. Photo by Douglas Sandberg.
   - id: "rath3a"
-    src: figures/rath/rath3a-thumperv.jpg
+    src: figures/rath/rath3a-thumperV.jpg
     caption: Alan Rath, Thumper V, 1996. Aluminum, steel plastic, electronics on four speakers; 59  x 20  x 22 inches.
     credit: San José Museum of Art. Gift of Katie and Drew Gibson, 2014.05.04. Photo by Douglas Sandberg.
   - id: "steinkampbannerimage"
@@ -204,7 +204,7 @@ figure_list:
     caption: Mary Corse in her downtown studio, 1966. Copyright Mary Corse.
     credit: Courtesy the artist and Kayne Griffin Corcoran.
   - id: "defeobanner"
-    src: figures/defeo/defeobanner.jpg
+    src: figures/defeo/defeobanner.jpeg
     caption: Jay DeFeo working on *Deathrose*, ca. 1958.
     credit: Photo by Jerry Burchard © Estate of Jerry Burchard. Used with permission.
   - id: "defeo1a"
@@ -277,7 +277,7 @@ figure_list:
     credit: Photograph by Lucas Saugen.
   - id: "villareal2a"
     src: "figures/villareal/villareal2a.mp4"
-    caption: *Interview with Leo Villareal*, created for his solo exhibition at the San José Museum of Art, 2010.
+    caption: "*Interview with Leo Villareal*, created for his solo exhibition at the San José Museum of Art, 2010."
     credit: Video by Tisha Carper Long.
   - id: "villareal4a"
     src: "figures/villareal/villareal4a.jpg"
