@@ -1,7 +1,7 @@
 ---
 title: Leo Villareal
 subtitle: United States, b. 1967
-weight: 700
+weight: 650
 type: artist
 epub: false
 grid: type-a

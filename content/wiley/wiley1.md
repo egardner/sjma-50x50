@@ -3,7 +3,7 @@ label: William T. Wiley
 title: Metaphysical Funk Monk
 short_title:
 type: page
-weight: 651
+weight: 681
 menu: false
 toc: false
 search: false

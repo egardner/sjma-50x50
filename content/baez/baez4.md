@@ -1,7 +1,7 @@
 ---
 label: Firelei Baez
 title: Symbols of Power in Painted Cloth
-short_title: Sci-Fi Creatures
+short_title:
 type: page
 weight: 254
 menu: false

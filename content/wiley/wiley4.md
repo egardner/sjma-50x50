@@ -3,7 +3,7 @@ label: William T. Wiley
 title: Art and Life
 short_title:
 type: page
-weight: 651
+weight: 684
 menu: false
 toc: false
 search: false

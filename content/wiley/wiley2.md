@@ -3,7 +3,7 @@ label: William T. Wiley
 title: Dude Ranch Dada [^1]
 short_title:
 type: page
-weight: 651
+weight: 682
 menu: false
 toc: false
 search: false
