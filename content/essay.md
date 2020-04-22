@@ -1,8 +1,8 @@
 ---
-label: Director's Foreword
-title: An Essay by Sayre
+label: Foreword
+title:
 subtitle:
-weight: 5
+weight: 3
 type: essay
 class: page-one
 contributor:
