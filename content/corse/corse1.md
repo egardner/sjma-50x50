@@ -10,7 +10,7 @@ search: false
 object:
   - id: "corsebanner"
 ---
-Mary Corse in her Topanga Canyon studio, c. 2018. Courtesy of João Canziani.
+{{<q-figure id="corsebanner">}}
 
 Mary Corse’s experiments in the phenomena of light and space emerged from her study of abstract and action painting. While the predominately male Light and Space artists moved away from painting, embracing light as a medium itself, Corse’s contemporaneous work always linked back to painting.[^1] Since the late 1960s, Corse has produced a dynamic body of work that questions what a painting can articulate about the threshold of two and three dimensions and the infinite. “I want the paintings to have form and an absence of form at the same time, which is what human beings also have. We have both the outside, a three-dimensional world, and an inner world. My work is trying to express that.”[^2] Whether using electric or harnessing refracted atmospheric light, Corse softens the perception of the hard edges of the canvas—light dissolves painting’s form, suggesting a kind of infinite space.[^3]
 

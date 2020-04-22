@@ -10,6 +10,7 @@ search: false
 object:
   - id: "steyerl4a"
 ---
+{{<q-figure id="steyerl4a">}}
 
 Hito Steyerl, *Factory of the* Sun, 2015. Single-channel video and environment. San José Museum of Art. Purchased jointly by Museum of Contemporary Art, Chicago; San José Museum of Art; and Hammer Museum, Los Angeles, through the Board of Overseers Acquisitions Fund. 2017.08. Courtesy of the artist and Andrew Kreps Gallery, New York. Photography by Manuel Reinhartz.
 

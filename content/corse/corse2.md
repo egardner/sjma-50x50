@@ -10,7 +10,7 @@ search: false
 object:
   - id: "corse4a"
 ---
-Mary Corse, *Grey Light Painting*, 1988. Glass microspheres in paint on canvas. 72 x 72 inches. Collection of the San José Museum of Art. Gift of Katherine and James Gentry. Photo by Douglas Sandberg.
+{{<q-figure id="corse4a">}}
 
 On an evening drive through Malibu, the sun at her back, Mary Corse noticed the brilliance of the white traffic lines on the road—light seemed to emanate from the paint itself.[^1] Corse later learned that glass microspheres within the white paint refract light, creating shifts in perception depending on the viewer’s movement in relation to the surface and the surrounding environmental conditions. Fascinated, Corse began applying glass microspheres to her painted surfaces. For the artist, this discovery was a breakthrough: “The painting is not on the wall. It’s in your perception.”[^2] Such perceptual changes bring movement to the surface of her painting, so that it is no longer a static object. Rather than represent a single objective reality, Corse’s glass-bead paintings enact an experience of reality,[^3] approximating for the artist a sense of the universal or infinite. As Corse says, “there’s nothing static in the universe. So why would a painting be?”[^4]
 

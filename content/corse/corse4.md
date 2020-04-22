@@ -10,7 +10,7 @@ search: false
 object:
   - id: "corse2a"
 ---
-Mary Corse in her downtown studio, 1966. Copyright Mary Corse. Courtesy the artist and Kayne Griffin Corcoran.
+{{<q-figure id="corse2a">}}
 
 While studying at the Chouinard Art Institute in Los Angeles (now the California Institute of the Arts) between 1964 and 1968, Mary Corse became dissatisfied with abstract painting. She wanted to create space, “actual literal space, not pictorial space,”[^1] and began experimenting with the shape of the canvas itself. Removing color from the surface, Corse’s octagonal and hexagonal canvases and, later, free-standing columns constructed of plywood aimed to emphasize painting’s form. They veered, however, too far from the square—a shape that Corse ultimately decided signified the essence of painting. Returning to the square format, she built space around her painting, encasing it in a Plexiglas box to capture the liminal space between two- and three-dimensionality, between the painting’s form and the space of its autonomous world.
 
