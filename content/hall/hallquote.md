@@ -4,7 +4,7 @@ subtitle: United States, b. 1944
 weight: 400
 type: artist
 epub: false
-grid: type-c
+grid: type-a
 slug: .
 ---
 

@@ -4,7 +4,7 @@ subtitle: Dominican Republic/United States, b. 1981
 weight: 250
 type: artist
 epub: false
-grid: type-c
+grid: type-a
 slug: .
 ---
 > The way that paper contracts and has a memory is really important. It’s unlike other things. It’s fragile, but I feel like in its fragility it’s closer to a person’s experience.”[^1]

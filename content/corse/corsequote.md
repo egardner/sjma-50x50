@@ -4,7 +4,7 @@ subtitle: United States, b. 1945
 weight: 340
 type: artist
 epub: false
-grid: type-c
+grid: type-b
 slug: .
 ---
 > “I paint because . . . it becomes the most meaningful when you say, ‘What are we doing here?’ And for me, I have to have something that has a huge, broad context . . . the infinite, something bigger than ourselves . . . just as in mathematics . . . asking a question into an invisible world.”[^1]

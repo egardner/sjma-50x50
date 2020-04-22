@@ -4,7 +4,7 @@ subtitle: United States, b. 1967
 weight: 650
 type: artist
 epub: false
-grid: type-a
+grid: type-d
 slug: .
 ---
 

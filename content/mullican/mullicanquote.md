@@ -4,7 +4,7 @@ subtitle: United States, 1919–1998
 weight: 510
 type: artist
 epub: false
-grid: type-c
+grid: type-d
 slug: .
 ---
 >“We traveled, ending up on Guam . . . where we began to make maps for the navy. . . . We were making photomosaics and also interpolating and making maps from aerial photographs, something we had been trained to do. . . . This, of course, gave me a new viewpoint for looking at the world—the aerial view. And when I looked through the Stereo-Comparagraph, a machine that aided you in picking up contours from the photographs, what I really saw were marvelous abstract patterns.”[^1]
