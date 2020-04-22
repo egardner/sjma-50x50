@@ -10,11 +10,7 @@ search: false
 object:
   - id: "defeo1a"
 ---
-\[DEFEO-1A\] \*cover image for audio
-
-Portrait of Jay DeFeo, 1976. Photo by Mimi Jacobs. Courtesy of the Jay DeFeo Trust.
-
-\[DEFEO-3B\] audio file "defeo3b"
+{{<q-figure-group id="defeo1a, defeo3b" grid="2">}}
 
 Jay DeFeo, oral history interview with Paul Karlstrom for the Archives of American Art, Smithsonian Institution, recorded June 3, 1975– January 23, 1976, audio file, excerpt available at https://www.aaa.si.edu/collections/interviews/oral-history-interview-jay-defeo-13246.
 
