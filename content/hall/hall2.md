@@ -10,8 +10,7 @@ search: false
 object:
   - id: "hall1a"
 ---
-
-Doug Hall in character for *Portrait of Artist-President* (1975), a performance by Hall and Jody Procter of the media art collective T. R. Uthco. Courtesy of T. R. Uthco and Ant Farm.
+{{<q-figure id="hall1a">}}
 
 Energized by the radical social movements of the 1960s, Doug Hall’s early performance and video work adhered to a utopian ideal of decentralized and democratic media-making made possible by access to recently introduced equipment like portable video cameras: “If we could claim the tools, we could influence the discourse.”[^1] T. R. Uthco—Hall’s art collective with Jody Procter and Diane Hall—staged media events like *Media Burn* (1975) and *The Eternal Frame* (1975) with another prominent media art and performance collective known as Ant Farm. Both of these taped events featured Hall’s impersonation as Artist-President—who over time was modeled more explicitly as John F. Kennedy—delivering a speech after a 1959 Cadillac crashed through a wall of flaming televisions in *Media Burn* and reenacting the 1963 assassination at Dealey Plaza in Dallas for *The Eternal Frame*. The character offered a critical examination of the power of the presidential image. As the artist stated, “the thing that astounded us was that people took the image to be meaningful, crying and having deep emotional reactions.”[^2]
 

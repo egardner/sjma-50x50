@@ -10,7 +10,7 @@ search: false
 object:
   - id: "mullicanbanner"
 ---
-Lee Mullican in his studio, Venice, California, ca. 1966–67. Photo courtesy of the Estate of Lee Mullican.
+{{<q-figure id="mullicanbanner">}}
 
 Lee Mullican was born in 1919 in Chickasha, Oklahoma, a small farming town in the then-newly incorporated state. Mullican began making art at a young age—his mother was an amateur artist—and he recalled being particularly struck by images in a catalogue his parents brought back from the 1933 Chicago World’s Fair: “There was a Chagall, Picasso, and other things that I had never seen before. . . . I knew that that’s where I wanted to go. Even at that age I was not interested in just setting up a still life of flowers and working from it. . . . All this strangeness intrigued me. . . . I had entered a modern age.”[^1] Mullican was drafted into the Army in 1942, serving three years as a topographer in the Army Corps of Engineers. Though it was a difficult time—“a torture”[^2]—his experiences in the Army expanded Mullican’s world: he visited museums in Washington, DC, Baltimore, and New York while stationed at Fort Belvoir, Virginia, and met lifelong friend Jack Stauffacher, a printer from San Francisco.[^3] “He was a printer and was in the printing company of the battalion. We printed our own maps. I ran across this fellow one day, sitting on the toilet, reading the *Life of Buddha*. So, I said, here is someone that I must get to know.”[^4]
 
