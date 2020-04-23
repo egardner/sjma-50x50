@@ -185,8 +185,8 @@ figure_list:
     credit: Collection of the San José Museum of Art. Museum purchase with funds provided by Tad and Jackson Freese, 2016.04.
   - id: "baez4a"
     src: figures/baez/baez4a.jpg
-    caption: Bill and Christy Gautreaux Collection, Kansas City, Missouri. Courtesy of the artist and James Cohan, New York.
-    credit: Firelei Báez, *DREAMer (a demand for opacity that weaves no boundaries)*, 2017. Acrylic and oil on canvas, 105 × 249 inches
+    caption: Firelei Báez, *DREAMer (a demand for opacity that weaves no boundaries)*, 2017. Acrylic and oil on canvas, 105 × 249 inches
+    credit: Bill and Christy Gautreaux Collection, Kansas City, Missouri. Courtesy of the artist and James Cohan, New York.
   - id: "corsebanner"
     src: figures/corse/corsebanner.jpg
     caption: Mary Corse in her Topanga Canyon studio, c. 2018.
@@ -257,11 +257,11 @@ figure_list:
     credit: Courtesy of Betsy Drake and the Estate of Lee Mullican. Filmed by Betsy Drake.
   - id: "steyerlbanner"
     src: figures/steyerl/steyerlbanner.jpg
-    caption: "Hito Steyerl, *How Not to Be Seen: A Fucking Didactic Educational*, 2013. Still from video, 15:53."
+    caption: "Hito Steyerl, *How Not to Be Seen: A Fucking Didactic Educational .MOV File*, 2013. Still from video, 15:53."
     credit: Image courtesy of the artist; Andrew Kreps Gallery, New York; and Esther Schipper, Berlin.
   - id: "steyerl3a"
     src: figures/steyerl/steyerl3a.mp4
-    caption: Hito Steyerl,lecture at “The Photographic Universe II” conference, The New School, New York, April 2013.
+    caption: Hito Steyerl, lecture at “The Photographic Universe II” conference, The New School, New York, April 2013.
     credit: Courtesy of The New School.
   - id: "steyerl4a"
     src: figures/steyerl/steyerl4a.jpg
