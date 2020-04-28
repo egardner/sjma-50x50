@@ -12,7 +12,7 @@ figure_list:
       Collection of the San José Museum of Art. Gift of Peter and Eileen Norton, 1991.01.
       Photo by Douglas Sandberg
   - id: "bloom4a"
-    src: figures/bloom/bloom4a-aphilosophicalpractice.png
+    src: figures/bloom/bloom4a.jpg
     media_id: 284543777
     media_type: vimeo
     caption: Clip from Jo-ey Tang’s video, *Borders of Fiction*, 2016.
@@ -33,7 +33,7 @@ figure_list:
       Photo: Jim Shaw. From left: John Arnheim, Bill Stobaugh, Mike Kelley, Tony
       Oursler, John Miller.
   - id: "oursler3a"
-    src: figures/oursler/oursler3a-videoprojectionsno59.png
+    src: figures/oursler/oursler3a.jpg
     media_id: 293660704
     media_type: vimeo
     caption: >-
@@ -56,7 +56,7 @@ figure_list:
     caption: Allan Rath in his studio, Oakland, CA. 
     credit: © Klaus Tilman, 2010.
   - id: "rath5a"
-    src: figures/rath/rath5a-johnworleyjazz.png
+    src: figures/rath/rath5a.jpg
     media_id: 294476061
     media_type: vimeo
     caption: >-
@@ -76,7 +76,7 @@ figure_list:
     caption: Jennifer Steinkamp with *Bouquet 1*, 2014.
     credit: Photo by Jessica Hromas.
   - id: "steinkamp3b"
-    src: figures/steinkamp/steinkamp3b-flytomars.png
+    src: figures/steinkamp/steinkamp3b.jpg
     media_id: 362171352
     media_type: vimeo
     caption: Jennifer Steinkamp, Fly to Mars (no. 1), 2004. Digital projection; 168  x 216 in. San José Museum of Art.
@@ -84,7 +84,7 @@ figure_list:
       Gift of Linda Besemer, and the Museum's Collection Committee, in honor of the San Jose Museum of Art's 35th anniversary, 2004.12.
       Courtesy of the artist, Lehmann Maupin, New York, Hong Kong, and greengrassi, London.
   - id: "steinkamp4a"
-    src: figures/steinkamp/steinkamp4a-winterfoundations.png
+    src: figures/steinkamp/steinkamp4a.jpg
     media_id: 294065168
     media_type: vimeo
     caption: Clip from *Winter Foundations*, 2017. 
@@ -101,7 +101,7 @@ figure_list:
       Ruth Asawa works on a crocheted wire sculpture in her living room, ca. 1976.
     credit: Photo by Allen Nomura. Courtesy of the San Francisco Examiner.
   - id: "asawa2a"
-    src: figures/asawa/asawa2a.mp4
+    src: figures/asawa/asawa2a.jpg
     caption: >-
       Clip from Robert Snyder’s film, *Ruth Asawa: Of Forms and Growth*,1978.
     credit: © Masters & Masterworks Productions, Inc.
@@ -134,7 +134,7 @@ figure_list:
     credit: >-
       Artwork © Estate of Ruth Asawa. Photo: Fay Royal Baxter
   - id: "hawkinson3a"
-    src: figures/hawkinson/hawkinson3a.png
+    src: figures/hawkinson/hawkinson3a.jpg
     media-id: 303177095
     media-type: vimeo
     caption: Tim Hawkinson, *Uberorgan*, 2007
@@ -165,7 +165,7 @@ figure_list:
     caption: Diana Thater, *Delphine*, 2015
     credit: Diana Thater Studio/ 1301PE Gallery.
   - id: "thater5a"
-    src: figures/thater/thater5a.mp4
+    src: figures/thater/thater5a.jpg
     caption: Clip from Diana Thater artist talk, “Creative Minds” at San José Museum of Art, 2015.
     credit: San José Museum of Art.
   - id: "thaterbannerimage"
@@ -177,7 +177,7 @@ figure_list:
     caption: Firelei Báez at her studio in Long Island City, New York, ca. 2017
     credit: © antoinebootz. Photo courtesy of Galerie Magazine.
   - id: "baez2a"
-    src:
+    src: figures/baez/baez2a.jpg
     media_id: 298665808
     media_type: youtube
     caption:  >-
@@ -192,7 +192,7 @@ figure_list:
       outside its walls*, 2015. Gouache and ink on paper, 84 1/2 x 50 inches.
     credit: Collection of the San José Museum of Art. Museum purchase with funds provided by Tad and Jackson Freese, 2016.04.
   - id: "baez3b"
-    src:
+    src: figures/baez/baez3b.jpg
     media-id: 405553196
     media-type: vimeo
     caption: >-
@@ -212,7 +212,7 @@ figure_list:
     caption: Mary Corse, *Grey Light Painting*, 1988. Glass microspheres in paint on canvas. 72 x 72 inches.
     credit: Collection of the San José Museum of Art. Gift of Katherine and James Gentry. Photo by Douglas Sandberg.
   - id: "corse3a"
-    src: figures/corse/corse3a.mp4
+    src: figures/corse/corse3a.jpg
     caption: Clip from Andy Eason’s *White Light* video of Mary Corse in her studio, 1969.
     credit: Copyright Mary Corse. Courtesy the artist and Kayne Griffin Corcoran.
   - id: "corse2a"
@@ -252,7 +252,7 @@ figure_list:
     caption: Installation view of Doug Hall’s video *Chrysopylae* (2012) in the exhibition *International Orange* by FOR-SITE Foundation, Fort Point, San Francisco, 2012.
     credit: Photo by Ben Blackwell. Courtesy FOR-SITE Foundation.
   - id: "hall5b"
-    src: figures/hall/hall5b.mp4
+    src: figures/hall/hall5b.jpg
     caption: Doug Hall, *Chrysopylae*, 2012. Segment from two-channel video installation with sound.
     credit: Collection of the San José Museum of Art. Gift in part of the Lipman Family Foundation with additional funds contributed by the Acquisitions Committee. 2012.09. Courtesy of Doug Hall.
   - id: "mullicanbanner"
@@ -278,7 +278,7 @@ figure_list:
     caption: "Hito Steyerl, *How Not to Be Seen: A Fucking Didactic Educational .MOV File*, 2013. Still from video, 15:53."
     credit: Image courtesy of the artist; Andrew Kreps Gallery, New York; and Esther Schipper, Berlin.
   - id: "steyerl3a"
-    src: figures/steyerl/steyerl3a.mp4
+    src: figures/steyerl/steyerl3a.jpg
     caption: Hito Steyerl, lecture at “The Photographic Universe II” conference, The New School, New York, April 2013.
     credit: Courtesy of The New School.
   - id: "steyerl4a"
@@ -294,7 +294,7 @@ figure_list:
     caption: Leo Villareal programs *The* *Bay Lights,* 2013.
     credit: Photograph by Lucas Saugen.
   - id: "villareal2a"
-    src: "figures/villareal/villareal2a.mp4"
+    src: "figures/villareal/villareal2a.jpg"
     caption: "*Interview with Leo Villareal*, created for his solo exhibition at the San José Museum of Art, 2010."
     credit: Video by Tisha Carper Long.
   - id: "villareal4a"
@@ -302,7 +302,7 @@ figure_list:
     caption: Leo *Villareal, Untitled (for San José)*, 2012. LED lights, custom software, and electrical hardware, 32 x 68 x 6 inches.
     credit: San José Museum of Art. Commissioned and purchased with funds contributed by the Acquisitions Committee. 2012.06.
   - id: "villareal5a"
-    src: "figures/villareal/villareal5a.mp4"
+    src: "figures/villareal/villareal5a.jpg"
     caption: Leo *Villareal, The Bay Lights, 2013.* Video by James Ewing.
     credit: Courtesy Leo Villareal.
   - id: "wileybanner"
