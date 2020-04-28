@@ -49,97 +49,102 @@ contributor:
     last_name: Helton
     title:
     affiliation:
-    bio: Amanda was the original project registrar for 50X50; currently she is manager of digital strategy at SJMA.
+    bio: >-
+      Amanda was the original project registrar for 50X50; currently she is
+      manager of digital strategy at SJMA.
     url:
     pic:
-contributor:
+
   - id: 2
     type:
     first_name: Eric
     last_name: Gardner
     title:
     affiliation:
-    bio: Eric is a designer and developer based in Portland, Oregon. As a software engineer at the Wikimedia Foundation, he believes in human-centered design and technology as tools of empowerment over control.
+    bio: >-
+      Eric is a designer and developer based in Portland, Oregon who
+      specializes in working with museums and cultural institutions.
     url:
     pic:
-contributor:
-  - id:
+
+  - id: 3
     type:
     first_name: Hung
     last_name: Liu
     title:
     affiliation:
-    bio: Hung is an accomplished visual artist and professor emerita at Mills College who has exhibited her art widely both nationally and internationally. She joined the Museum’s Board of Trustees in 2019.
+    bio: >-
+      Hung is an accomplished visual artist and professor emerita at Mills
+      College who has exhibited her art widely both nationally and
+      internationally. She joined the Museum’s Board of Trustees in 2019.
     url:
     pic:
-contributor:
+
   - id: 4
     type:
     first_name: Kathryn
     last_name: Wade
     title:
     affiliation:
-    bio: joined the curatorial team at SJMA in 2017; she is currently assistant curator and the principal author of 50X50.
+    bio: >-
+      joined the curatorial team at SJMA in 2017; she is currently assistant
+      curator and the principal author of 50X50.
     url:
     pic:
-contributor:
+
   - id: 5
     type:
     first_name: Laura
     last_name: Eliasieh
     title:
     affiliation:
-    bio: Laura is a historian, curator and content producer specializing in contemporary art, women’s history, and the environmental movement. She was the original project researcher for 50X50 from DATE to 2018.
+    bio: >-
+      Laura is a historian, curator and content producer specializing in
+      contemporary art, women’s history, and the environmental movement. She
+      was the original project researcher for 50X50 from DATE to 2018.
     url:
     pic:
-contributor:
+
   - id: 6
     type:
     first_name: Letha
     last_name: Ch'ien
     title:
     affiliation:
-    bio: Letha is assistant professor of Art History at Sonoma State University, has been an active member of the SJMA community since 2000. She credits her visits to the Museum at a young age as deeply influential on her personal development and success.
+    bio: >-
+      Letha is assistant professor of Art History at Sonoma State University,
+      has been an active member of the SJMA community since 2000. She credits
+      her visits to the Museum at a young age as deeply influential on her
+      personal development and success.
     url:
     pic:
-contributor:
+
   - id: 7
     type:
     first_name: Peter
     last_name: Lipman
     title:
     affiliation: San José Museum of Art
-    bio: Peter is an avid collector and arts patron. A former senior research geologist specializing in volcano studies, he has been a Trustee of SJMA since 1999 and has also served as chair of the Acquisitions Committee and president of the Board of Trustees.
+    bio: >-
+      Peter is an avid collector and arts patron. A former senior research
+      geologist specializing in volcano studies, he has been a Trustee of
+      SJMA since 1999 and has also served as chair of the Acquisitions
+      Committee and president of the Board of Trustees.
     url:
     pic:
-contributor:
+
   - id: 8
     type:
     first_name: S. Sayre
     last_name: Batton
     title:
     affiliation:
-    bio: Sayre is Oshman Executive Director of SJMA, has directed the Museum’s curatorial program since 2015. She is committed to making SJMA a borderless museum, essential to creative life in Silicon Valley.
+    bio: >-
+      Sayre is Oshman Executive Director of SJMA, has directed the Museum’s
+      curatorial program since 2015. She is committed to making SJMA a
+      borderless museum, essential to creative life in Silicon Valley.
     url:
     pic:
-
-[Additional 50X50 Project Staff]{.underline}
-
-Karen Rapp, assistant director, strategic initiatives
-
-Holly Shen, deputy director
-
-Rich Karson, director of design and operations
-
-Anamarie Alongi, registrar
-
-Daniel Becker, exhibitions preparator
-
-Aaron Lee, exhibitions preparator
-
-Lauren Dickens, senior curator
-
-Rory Padeken, curator
 
 # ------------------------------------------------------------------------------
 # Copright & License
