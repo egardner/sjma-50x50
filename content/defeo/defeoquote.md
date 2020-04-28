@@ -4,7 +4,7 @@ subtitle: United States, 1929–1989
 weight: 360
 type: artist
 epub: false
-grid: type-c
+grid: type-e
 slug: .
 ---
 > “I lost myself in all kinds of activities. . . leading what everybody else would consider an absolutely meaningless, destructive existence. But in retrospect, it’s like painting, too. You have to destroy a little bit in order to build a little bit.”[^1]
