@@ -98,10 +98,10 @@ figure_list:
   - id: "asawa1a"
     src: figures/asawa/asawa1a-asawaworking.jpg
     caption: >-
-      Ruth Asawa works on a crocheted wire sculpture in her living room, ca. 1976. Photo by Allen Nomura. Courtesy of the San Francisco Examiner.
-    credit:
+      Ruth Asawa works on a crocheted wire sculpture in her living room, ca. 1976.
+    credit: Photo by Allen Nomura. Courtesy of the San Francisco Examiner.
   - id: "asawa2a"
-    src: figures/asawa/asawa2a-formsandgrowth.png
+    src: figures/asawa/asawa2a.mp4
     caption: >-
       Clip from Robert Snyder’s film, *Ruth Asawa: Of Forms and Growth*,1978.
     credit: © Masters & Masterworks Productions, Inc.
@@ -134,7 +134,9 @@ figure_list:
     credit: >-
       Artwork © Estate of Ruth Asawa. Photo: Fay Royal Baxter
   - id: "hawkinson3a"
-    src: figures/hawkinson/hawkinson3a-uberorgan.png
+    src: figures/hawkinson/hawkinson3a.png
+    media-id: 303177095
+    media-type: vimeo
     caption: Tim Hawkinson, *Uberorgan*, 2007
     credit: >-
       Video: Produced in 2007 by the J. Paul Getty Museum. Andrea Nasher
@@ -155,13 +157,15 @@ figure_list:
     src: figures/thater/thater3a-untitledbutterflyvideowall.jpg
     caption: Diana Thater, *Untitled (Butterfly Videowall No. 2)*, 2008. Video installation.
     credit:  >-
-      San José Museum of Art. Museum purchase with funds provided by the Acquisitions Committee with additional funds provided by the Lipman Family Foundation, 2016.05.
+      San José Museum of Art. Museum purchase with funds provided by the
+      Acquisitions Committee with additional funds provided by the Lipman
+      Family Foundation, 2016.05.
   - id: "thater4d"
     src: figures/thater/thater4d-lacma.jpg
     caption: Diana Thater, *Delphine*, 2015
     credit: Diana Thater Studio/ 1301PE Gallery.
   - id: "thater5a"
-    src: figures/thater/thater5a-sjmacreativeminds.png
+    src: figures/thater/thater5a.mp4
     caption: Clip from Diana Thater artist talk, “Creative Minds” at San José Museum of Art, 2015.
     credit: San José Museum of Art.
   - id: "thaterbannerimage"
@@ -173,16 +177,28 @@ figure_list:
     caption: Firelei Báez at her studio in Long Island City, New York, ca. 2017
     credit: © antoinebootz. Photo courtesy of Galerie Magazine.
   - id: "baez2a"
-    src: figures/baez/baez2a.mp4
-    media_id:
-    media_type: vimeo
+    src:
+    media_id: 298665808
+    media_type: youtube
     caption:  >-
-      “Firelei Báez: Bloodlines at The Andy Warhol Museum,” The Andy Warhol Museum, Pittsburgh, posted April 14, 2017, video, 5:18 minutes, available at https://www.youtube.com/watch?v=qfcV7OH6Wy8.
+      “Firelei Báez: Bloodlines at The Andy Warhol Museum,” The Andy Warhol
+      Museum, Pittsburgh, posted April 14, 2017, video, 5:18 minutes,
+      available at https://www.youtube.com/watch?v=qfcV7OH6Wy8.
     credit: Courtesy of the Pérez Art Museum Miami.
   - id: "baez3a"
     src: figures/baez/baez3a.jpg
-    caption: Firelei Báez, *To see beyond it and to access the places that we know outside its walls*, 2015. Gouache and ink on paper, 84 1/2 x 50 inches.
+    caption: >- 
+      Firelei Báez, *To see beyond it and to access the places that we know
+      outside its walls*, 2015. Gouache and ink on paper, 84 1/2 x 50 inches.
     credit: Collection of the San José Museum of Art. Museum purchase with funds provided by Tad and Jackson Freese, 2016.04.
+  - id: "baez3b"
+    src:
+    media-id: 405553196
+    media-type: vimeo
+    caption: >-
+      “Firelei Báez,” James Cohan Gallery, New York, posted April 8, 2020,
+      video, 4:28 minutes, available at https://vimeo.com/405553196.
+    credit: Courtesy of the artist and James Cohan, New York.
   - id: "baez4a"
     src: figures/baez/baez4a.jpg
     caption: Firelei Báez, *DREAMer (a demand for opacity that weaves no boundaries)*, 2017. Acrylic and oil on canvas, 105 × 249 inches
@@ -252,7 +268,9 @@ figure_list:
     caption: Lee Mullican, *Nightshade*, 1958. Oil on canvas, 40 x 50 inches.
     credit: Collection of the San José Museum of Art. Gift of Gertrud and Harold Parker with additional funds contributed by Tom and Polly Bredt, 2006.25.01. Photograph by Douglas Sandberg.
   - id: "mullican3a"
-    src:
+    src: 
+    media-id: 112617693
+    media-type: vimeo
     caption: Lee Mullican at his studio in Venice, California, ca. 1950.
     credit: Courtesy of Betsy Drake and the Estate of Lee Mullican. Filmed by Betsy Drake.
   - id: "steyerlbanner"
