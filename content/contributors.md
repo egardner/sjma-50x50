@@ -7,7 +7,7 @@ type: page
 {{< q-contributor range="all" format="bio" >}}
 
 
-### Additional 50X50 Project Staff
+### Additional 50X50 Project Staff{.has-text-centered}
 
 Karen Rapp, assistant director, strategic initiatives
 
