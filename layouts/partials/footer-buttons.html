@@ -14,12 +14,30 @@
 		{{ $sectionPages := where .Site.Pages "Section" .Section }}
 		{{ $firstPageInSection := index (first 1 $sectionPages) 0 }}
 		<li class="quire-nav-button prev">
-			<a id="js-prev" href="{{ $firstPageInSection.Permalink | relURL }}">{{- partial "icon.html" (dict "type" "left-arrow" "description" "Go back a page") -}} <span class="nav-title">{{ $firstPageInSection.Title }}</span></a>
+			<a id="js-prev" href="{{ $firstPageInSection.Permalink | relURL }}">
+				{{- partial "icon.html" (dict "type" "left-arrow" "description" "Go back a page") -}} 
+				<span class="nav-title">
+					{{ if $firstPageInSection.Params.short_title }}
+					{{ $firstPageInSection.Params.short_title }}
+					{{ else }}
+					{{ $firstPageInSection.Title }}
+					{{ end }}
+				</span>
+			</a>
 			<span class="visually-hidden">Previous Page (left keyboard arrow or swipe)</span>
 		</li>
 		{{ else if and ( .IsPage ) ( ne .Type "data" ) }}
 		<li class="quire-nav-button prev">
-			<a id="js-prev" href="{{ .Permalink | relURL }}">{{- partial "icon.html" (dict "type" "left-arrow" "description" "Go back a page") -}} <span class="nav-title">{{ .Title }}</span></a>
+			<a id="js-prev" href="{{ .Permalink | relURL }}">
+				{{- partial "icon.html" (dict "type" "left-arrow" "description" "Go back a page") -}} 
+				<span class="nav-title">
+					{{ if .Params.short_title }}
+					{{ .Params.short_title }}
+					{{ else }}
+					{{ .Title }}
+					{{ end }}
+				</span>
+			</a>
 			<span class="visually-hidden">Previous Page (left keyboard arrow or swipe)</span>
 		</li>
 		{{ end }}
@@ -29,7 +47,15 @@
 		{{ with .Prev }}
 		{{ if and ( .IsPage ) ( ne .Type "data" ) }}
 		<li class="quire-nav-button next">
-          <a id="js-next" href="{{ .Permalink | relURL }}"><span class="nav-title">{{ .Title }}</span> {{- partial "icon.html" (dict "type" "right-arrow" "description" "Go to next page") -}}</a>
+			<a id="js-next" href="{{ .Permalink | relURL }}">
+				<span class="nav-title">
+					{{ if .Params.short_title }}
+					{{ .Params.short_title }}
+					{{ else }}
+					{{ .Title }}
+					{{ end }}
+				</span> {{- partial "icon.html" (dict "type" "right-arrow" "description" "Go to next page") -}}
+			</a>
           <span class="visually-hidden">Next Page (right keyboard arrow or swipe)</span>
 		</li>
 		{{ end }}
