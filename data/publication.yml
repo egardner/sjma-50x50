@@ -43,7 +43,7 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: 1
+  - id: helton
     type:
     first_name: Amanda
     last_name: Helton
@@ -55,7 +55,7 @@ contributor:
     url:
     pic:
 
-  - id: 2
+  - id: gardner
     type:
     first_name: Eric
     last_name: Gardner
@@ -67,7 +67,7 @@ contributor:
     url:
     pic:
 
-  - id: 3
+  - id: liu
     type:
     first_name: Hung
     last_name: Liu
@@ -80,7 +80,7 @@ contributor:
     url:
     pic:
 
-  - id: 4
+  - id: wade
     type:
     first_name: Kathryn
     last_name: Wade
@@ -92,7 +92,7 @@ contributor:
     url:
     pic:
 
-  - id: 5
+  - id: eliasieh
     type:
     first_name: Laura
     last_name: Eliasieh
@@ -105,7 +105,7 @@ contributor:
     url:
     pic:
 
-  - id: 6
+  - id: "ch'ien"
     type:
     first_name: Letha
     last_name: Ch'ien
@@ -119,7 +119,7 @@ contributor:
     url:
     pic:
 
-  - id: 7
+  - id: lipman
     type:
     first_name: Peter
     last_name: Lipman
@@ -133,7 +133,7 @@ contributor:
     url:
     pic:
 
-  - id: 8
+  - id: sayre
     type:
     first_name: S. Sayre
     last_name: Batton
