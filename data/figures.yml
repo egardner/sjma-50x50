@@ -56,7 +56,7 @@ figure_list:
     caption: Allan Rath in his studio, Oakland, CA. 
     credit: © Klaus Tilman, 2010.
   - id: "rath5a"
-    src: figures/rath/rath5a.jpg
+    src: figures/rath/rath5a-johnworleyjazz.png
     media_id: 294476061
     media_type: vimeo
     caption: >-
@@ -135,8 +135,8 @@ figure_list:
       Artwork © Estate of Ruth Asawa. Photo: Fay Royal Baxter
   - id: "hawkinson3a"
     src: figures/hawkinson/hawkinson3a.jpg
-    media-id: 303177095
-    media-type: vimeo
+    media_id: 303177095
+    media_type: vimeo
     caption: Tim Hawkinson, *Uberorgan*, 2007
     credit: >-
       Video: Produced in 2007 by the J. Paul Getty Museum. Andrea Nasher
@@ -166,6 +166,8 @@ figure_list:
     credit: Diana Thater Studio/ 1301PE Gallery.
   - id: "thater5a"
     src: figures/thater/thater5a.jpg
+    media_id: 303544096
+    media_type: vimeo
     caption: Clip from Diana Thater artist talk, “Creative Minds” at San José Museum of Art, 2015.
     credit: San José Museum of Art.
   - id: "thaterbannerimage"
@@ -187,16 +189,16 @@ figure_list:
     credit: Courtesy of the Pérez Art Museum Miami.
   - id: "baez3a"
     src: figures/baez/baez3a.jpg
-    caption: >- 
+    caption: >-
       Firelei Báez, *To see beyond it and to access the places that we know
       outside its walls*, 2015. Gouache and ink on paper, 84 1/2 x 50 inches.
     credit: Collection of the San José Museum of Art. Museum purchase with funds provided by Tad and Jackson Freese, 2016.04.
   - id: "baez3b"
     src: figures/baez/baez3b.jpg
-    media-id: 405553196
-    media-type: vimeo
+    media_id: 405553196
+    media_type: vimeo
     caption: >-
-      “Firelei Báez,” James Cohan Gallery, New York, posted April 8, 2020,
+      “Firelei Báez”, James Cohan Gallery, New York, posted April 8, 2020,
       video, 4:28 minutes, available at https://vimeo.com/405553196.
     credit: Courtesy of the artist and James Cohan, New York.
   - id: "baez4a"
@@ -213,6 +215,8 @@ figure_list:
     credit: Collection of the San José Museum of Art. Gift of Katherine and James Gentry. Photo by Douglas Sandberg.
   - id: "corse3a"
     src: figures/corse/corse3a.jpg
+    media_id: 280843373
+    media_type: vimeo
     caption: Clip from Andy Eason’s *White Light* video of Mary Corse in her studio, 1969.
     credit: Copyright Mary Corse. Courtesy the artist and Kayne Griffin Corcoran.
   - id: "corse2a"
@@ -253,6 +257,8 @@ figure_list:
     credit: Photo by Ben Blackwell. Courtesy FOR-SITE Foundation.
   - id: "hall5b"
     src: figures/hall/hall5b.jpg
+    media_id: 287335065
+    media_type: vimeo
     caption: Doug Hall, *Chrysopylae*, 2012. Segment from two-channel video installation with sound.
     credit: Collection of the San José Museum of Art. Gift in part of the Lipman Family Foundation with additional funds contributed by the Acquisitions Committee. 2012.09. Courtesy of Doug Hall.
   - id: "mullicanbanner"
@@ -269,8 +275,8 @@ figure_list:
     credit: Collection of the San José Museum of Art. Gift of Gertrud and Harold Parker with additional funds contributed by Tom and Polly Bredt, 2006.25.01. Photograph by Douglas Sandberg.
   - id: "mullican3a"
     src: figures/mullican/mullican3a.png
-    media-id: 112617693
-    media-type: vimeo
+    media_id: 264702663
+    media_type: vimeo
     caption: Lee Mullican at his studio in Venice, California, ca. 1950.
     credit: Courtesy of Betsy Drake and the Estate of Lee Mullican. Filmed by Betsy Drake.
   - id: "steyerlbanner"
@@ -302,7 +308,9 @@ figure_list:
     caption: Leo *Villareal, Untitled (for San José)*, 2012. LED lights, custom software, and electrical hardware, 32 x 68 x 6 inches.
     credit: San José Museum of Art. Commissioned and purchased with funds contributed by the Acquisitions Committee. 2012.06.
   - id: "villareal5a"
-    src: "figures/villareal/villareal5a.jpg"
+    src: figures/villareal/villareal5a.jpg
+    media_id: 411602946
+    media_type: vimeo
     caption: Leo *Villareal, The Bay Lights, 2013.* Video by James Ewing.
     credit: Courtesy Leo Villareal.
   - id: "wileybanner"
