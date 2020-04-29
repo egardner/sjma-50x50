@@ -1,6 +1,6 @@
 ---
 label: Lee Mullican
-title: Surrealism for the New World [^1]
+title: Surrealism for the New World
 short_title:
 type: page
 weight: 512
