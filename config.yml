@@ -25,12 +25,10 @@ disableKinds:
   - "taxonomy"
   - "taxonomyTerm"
 
-blackfriday:
-  fractions: false
-  hrefTargetBlank: true
-
 markup:
-  defaultMarkdownHandler: blackfriday
+  goldmark:
+    renderer:
+      unsafe: true
 
 # These values can be accessed in templates via .Site.Params
 params:

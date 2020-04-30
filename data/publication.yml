@@ -43,30 +43,6 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: helton
-    type:
-    first_name: Amanda
-    last_name: Helton
-    title:
-    affiliation:
-    bio: >-
-      Amanda was the original project registrar for 50X50; currently she is
-      manager of digital strategy at SJMA.
-    url:
-    pic:
-
-  - id: gardner
-    type:
-    first_name: Eric
-    last_name: Gardner
-    title:
-    affiliation:
-    bio: >-
-      Eric is a designer and developer based in Portland, Oregon who
-      specializes in working with museums and cultural institutions.
-    url:
-    pic:
-
   - id: liu
     type:
     first_name: Hung
@@ -89,19 +65,6 @@ contributor:
     bio: >-
       joined the curatorial team at SJMA in 2017; she is currently assistant
       curator and the principal author of 50X50.
-    url:
-    pic:
-
-  - id: eliasieh
-    type:
-    first_name: Laura
-    last_name: Eliasieh
-    title:
-    affiliation:
-    bio: >-
-      Laura is a historian, curator and content producer specializing in
-      contemporary art, women’s history, and the environmental movement. She
-      was the original project researcher for 50X50 from DATE to 2018.
     url:
     pic:
 
@@ -140,9 +103,8 @@ contributor:
     title:
     affiliation:
     bio: >-
-      Sayre is Oshman Executive Director of SJMA, has directed the Museum’s
-      curatorial program since 2015. She is committed to making SJMA a
-      borderless museum, essential to creative life in Silicon Valley.
+      Oshman Executive Director of SJMA, has directed the Museum’s curatorial program since 2015.
+      She is committed to making SJMA a borderless museum, essential to creative life in Silicon Valley.
     url:
     pic:
 
