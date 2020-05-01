@@ -2,7 +2,7 @@
 label: Hawkinson 5D
 title: Using His Own Body
 short_title:
-type: entry
+type: page
 weight: 424
 menu: false
 toc: false
