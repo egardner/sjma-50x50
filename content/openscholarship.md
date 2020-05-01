@@ -1,5 +1,5 @@
 ---
-label: Introduction
+label:
 title: Statement on Open Scholarship
 short_title: Open Scholarship
 subtitle:

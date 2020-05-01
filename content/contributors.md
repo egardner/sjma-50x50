@@ -33,7 +33,7 @@ Holly Shen, deputy director
 
 ### 50X50 Project Advisors{.has-text-centered}
 
-Greg Albers,  
+Greg Albers, Digital Publications Manager, J. Paul Getty Trust
 Jill Sterrett, interim director, Smart Museum of Art, University of Chicago and former assistant director for collections, San Francisco Museum of Modern Art  
 Peter Samis, associate curator of interpretation, San Francisco Museum of Modern Art  
 Maja Thomas, Chief Innovation Officer, Hachette Livre and Hachette Book Group USA  
