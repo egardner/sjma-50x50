@@ -5,5 +5,5 @@ menu: false
 type: cover
 slug: .
 toc: false
-image: brand/lockup.svg
+image: brand/lockup_resized.svg
 ---
