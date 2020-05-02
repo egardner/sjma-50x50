@@ -1,10 +1,9 @@
 ---
-label: Introduction
+# label: Introduction
 title: There for Us
 subtitle:
 weight: 7
 type: essay
-class: page-one
 contributor:
   - id: "ch'ien"
 ---

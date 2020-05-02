@@ -1,5 +1,5 @@
 ---
-label: Introduction
+# label: Introduction
 title: "Why a Permanent Collection for a 21st Century Museum of Contemporary Art"
 subtitle: "A 50-Year Perspective"
 short_title: A 50-Year Perspective

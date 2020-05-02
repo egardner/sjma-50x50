@@ -1,9 +1,8 @@
 ---
-label: Introduction
+# label: Introduction
 title: A Museum
 weight: 6
 type: essay
-class: page-one
 contributor:
   - id: liu
 ---
