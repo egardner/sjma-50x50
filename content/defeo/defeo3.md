@@ -6,7 +6,6 @@ type: page
 weight: 363
 menu: false
 toc: false
-search: false
 object:
   - id: "defeo4a"
 ---

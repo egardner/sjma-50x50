@@ -6,7 +6,6 @@ type: page
 weight: 511
 menu: false
 toc: false
-search: false
 object:
   - id: "mullicanbanner"
 ---

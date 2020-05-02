@@ -6,7 +6,6 @@ type: page
 weight: 684
 menu: false
 toc: false
-search: false
 object:
   - id: "wiley2a"
 ---

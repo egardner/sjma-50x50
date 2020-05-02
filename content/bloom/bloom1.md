@@ -6,7 +6,6 @@ type: page
 weight: 291
 menu: false
 toc: false
-search: false
 object:
   - id: "bloombannerimage"
 ---

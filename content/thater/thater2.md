@@ -6,7 +6,6 @@ type: page
 weight: 642
 menu: false
 toc: false
-search: false
 object:
   - id: "thater3a"
 ---

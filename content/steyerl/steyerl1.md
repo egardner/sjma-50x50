@@ -6,7 +6,6 @@ type: page
 weight: 601
 menu: false
 toc: false
-search: false
 object:
   - id: "steyerlbanner"
 ---

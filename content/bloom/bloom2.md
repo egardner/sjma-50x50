@@ -6,7 +6,6 @@ type: page
 weight: 292
 menu: false
 toc: false
-search: false
 object:
   - id: "bloom3b"
 ---

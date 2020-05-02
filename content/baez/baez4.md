@@ -6,7 +6,6 @@ type: page
 weight: 254
 menu: false
 toc: false
-search: false
 object:
   - id: "baez4a"
 ---

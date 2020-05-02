@@ -6,7 +6,6 @@ type: page
 weight: 233
 menu: false
 toc: false
-search: false
 object:
   - id: "asawa3a"
 ---

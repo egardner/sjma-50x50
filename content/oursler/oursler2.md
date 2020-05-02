@@ -6,7 +6,6 @@ type: page
 weight: 552
 menu: false
 toc: false
-search: false
 object:
   - id: "oursler3a"
 ---

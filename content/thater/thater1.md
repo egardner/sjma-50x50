@@ -6,7 +6,6 @@ type: page
 weight: 641
 menu: false
 toc: false
-search: false
 object:
   - id: "thaterbannerimage"
 ---

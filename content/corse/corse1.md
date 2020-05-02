@@ -6,7 +6,6 @@ type: page
 weight: 341
 menu: false
 toc: false
-search: false
 object:
   - id: "corsebanner"
 ---

@@ -6,7 +6,6 @@ type: page
 weight: 404
 menu: false
 toc: false
-search: false
 object:
   - id: "hall5b"
 ---

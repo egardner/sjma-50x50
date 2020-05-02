@@ -6,7 +6,6 @@ type: page
 weight: 513
 menu: false
 toc: false
-search: false
 object:
   - id: "mullican3a"
 ---

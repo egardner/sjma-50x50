@@ -6,7 +6,6 @@ type: page
 weight: 652
 menu: false
 toc: false
-search: false
 object:
   - id: "villareal4a"
 ---

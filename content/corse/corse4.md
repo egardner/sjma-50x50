@@ -6,7 +6,6 @@ type: page
 weight: 344
 menu: false
 toc: false
-search: false
 object:
   - id: "corse2a"
 ---

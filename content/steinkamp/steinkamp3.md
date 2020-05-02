@@ -6,7 +6,6 @@ type: page
 weight: 593
 menu: false
 toc: false
-search: false
 object:
   - id: "steinkamp4a"
 ---

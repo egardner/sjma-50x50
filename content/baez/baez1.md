@@ -6,7 +6,6 @@ type: page
 weight: 251
 menu: false
 toc: false
-search: false
 object:
   - id: "baezbanner"
 ---

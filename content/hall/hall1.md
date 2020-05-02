@@ -6,7 +6,6 @@ type: page
 weight: 401
 menu: false
 toc: false
-search: false
 object:
   - id: "hallbanner"
 ---

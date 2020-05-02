@@ -6,7 +6,6 @@ type: page
 weight: 294
 menu: false
 toc: false
-search: false
 object:
   - id: "bloom4a"
 ---

@@ -6,7 +6,6 @@ type: page
 weight: 602
 menu: false
 toc: false
-search: false
 object:
   - id: "steyerl3a"
 ---

@@ -6,7 +6,6 @@ type: page
 weight: 551
 menu: false
 toc: false
-search: false
 object:
   - id: "ourslerbannerimage"
 ---

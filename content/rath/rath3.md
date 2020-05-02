@@ -6,7 +6,6 @@ type: page
 weight: 563
 menu: false
 toc: false
-search: false
 object:
   - id: "rath4a"
 ---

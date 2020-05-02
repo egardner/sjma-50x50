@@ -6,7 +6,6 @@ type: page
 weight: 365
 menu: false
 toc: false
-search: false
 object:
   - id: "defeo5b"
 ---
