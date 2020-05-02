@@ -18,7 +18,7 @@ footnoteReturnLinkContents: "↩"
 metaDataFormat: "yaml"
 GoogleAnalytics: ""
 
-pluralizeListTitles: true
+pluralizeListTitles: false
 disableKinds:
   - "home"
   - "section"
