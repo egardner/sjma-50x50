@@ -6,6 +6,7 @@ type: page
 weight: 603
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "steyerl4a"
 ---

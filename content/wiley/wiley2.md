@@ -6,6 +6,7 @@ type: page
 weight: 682
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "wiley5b"
 ---

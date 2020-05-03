@@ -1,11 +1,12 @@
 ---
-label: Hawkinson Banner
+label: Tim Hawkinson
 title: The Mad Scientist, the Tinkerer
 short_title:
 type: page
 weight: 421
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "hawkinsonbanner"
 ---

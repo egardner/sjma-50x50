@@ -1,11 +1,12 @@
 ---
-label: Rath Banner
+label: Alan Rath
 title: Born into the Machine Age
 short_title:
 type: page
 weight: 561
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "rathbannerimage"
 ---

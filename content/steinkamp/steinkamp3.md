@@ -1,11 +1,12 @@
 ---
-label: Steinkamp 4A
+label: Jennifer Steinkamp
 title: The Body is a Canvas
 short_title:
 type: page
 weight: 593
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "steinkamp4a"
 ---

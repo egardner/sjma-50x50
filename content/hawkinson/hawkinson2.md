@@ -1,11 +1,12 @@
 ---
-label: Hawkinson 3A
+label: Tim Hawkinson
 title: Circuits and Sounds
 short_title:
 type: page
 weight: 422
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "hawkinson3a"
 ---

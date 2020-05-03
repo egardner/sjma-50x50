@@ -1,11 +1,12 @@
 ---
-label: Thater 4D
+label: Diana Thater
 title: Animal Angles
 short_title:
 type: page
 weight: 643
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "thater4d"
 ---

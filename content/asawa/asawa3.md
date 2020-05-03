@@ -1,11 +1,12 @@
 ---
-label: Asawa 3A
+label: Ruth Asawa
 title: Drawing, Dance, and Architecture
 short_title:
 type: page
 weight: 233
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "asawa3a"
 ---

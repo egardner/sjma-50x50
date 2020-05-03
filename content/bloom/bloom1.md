@@ -1,11 +1,12 @@
 ---
-label: Bloom Banner
+label: Barbara Bloom
 title: Worlds Within Worlds
 short_title:
 type: page
 weight: 291
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "bloombannerimage"
 ---

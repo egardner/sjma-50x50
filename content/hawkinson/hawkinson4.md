@@ -1,11 +1,12 @@
 ---
-label: Hawkinson 5D
+label: Tim Hawkinson
 title: Using His Own Body
 short_title:
 type: page
 weight: 424
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "hawkinson5d"
 ---

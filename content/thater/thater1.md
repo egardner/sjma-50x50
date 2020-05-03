@@ -1,11 +1,12 @@
 ---
-label: Thater Banner
+label: Diana Thater
 title: Another Kind of Time
 short_title:
 type: page
 weight: 641
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "thaterbannerimage"
 ---

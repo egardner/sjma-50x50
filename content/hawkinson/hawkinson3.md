@@ -1,11 +1,12 @@
 ---
-label: Hawkinson 4A
+label: Tim Hawkinson
 title: The Strangeness of Bodies
 short_title:
 type: page
 weight: 423
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "hawkinson4a"
 ---

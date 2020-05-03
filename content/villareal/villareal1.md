@@ -6,6 +6,7 @@ type: page
 weight: 651
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "villarealbanner"
 ---

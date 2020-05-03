@@ -1,11 +1,12 @@
 ---
-label: Rath 4A
+label: Alan Rath
 title: Systems Logic
 short_title:
 type: page
 weight: 563
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "rath4a"
 ---

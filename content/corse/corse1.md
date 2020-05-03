@@ -6,6 +6,7 @@ type: page
 weight: 341
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "corsebanner"
 ---

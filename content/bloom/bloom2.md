@@ -1,11 +1,12 @@
 ---
-label: Bloom 3B
+label: Barbara Bloom
 title: Esprit de l'Escalier
 short_title:
 type: page
 weight: 292
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "bloom3b"
 ---

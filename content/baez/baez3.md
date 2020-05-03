@@ -6,6 +6,7 @@ type: page
 weight: 253
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "baez3a"
 ---

@@ -6,6 +6,7 @@ type: page
 weight: 342
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "corse4a"
 ---

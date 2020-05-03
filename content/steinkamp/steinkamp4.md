@@ -1,11 +1,12 @@
 ---
-label: Steinkamp 5A
+label: Jennifer Steinkamp
 title: Transforming Architecture
 short_title:
 type: page
 weight: 594
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "steinkamp5a"
 ---

@@ -1,11 +1,12 @@
 ---
-label: Rath 3A
+label: Alan Rath
 title: Symbols of Sentience
 short_title:
 type: page
 weight: 564
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "rath3a"
 ---

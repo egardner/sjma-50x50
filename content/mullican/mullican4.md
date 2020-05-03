@@ -6,6 +6,7 @@ type: page
 weight: 514
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "mullican4a"
 ---

@@ -6,6 +6,7 @@ type: page
 weight: 403
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "hall5a"
 ---

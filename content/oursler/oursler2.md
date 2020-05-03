@@ -1,11 +1,12 @@
 ---
-label: Oursler 3A
+label: Tony Oursler
 title: TV is a Drug
 short_title:
 type: page
 weight: 552
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "oursler3a"
 ---

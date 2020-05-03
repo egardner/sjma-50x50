@@ -6,6 +6,7 @@ type: page
 weight: 681
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "wileybanner"
 ---

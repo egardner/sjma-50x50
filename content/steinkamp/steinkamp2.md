@@ -1,11 +1,12 @@
 ---
-label: Steinkamp 3B
+label: Jennifer Steinkamp
 title: Sympathetic Image
 short_title:
 type: page
 weight: 592
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "steinkamp3b"
 ---

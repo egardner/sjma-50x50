@@ -1,11 +1,12 @@
 ---
-label: Oursler Banner
+label: Tony Oursler
 title: Kaleidoscopic Art
 short_title:
 type: page
 weight: 551
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "ourslerbannerimage"
 ---

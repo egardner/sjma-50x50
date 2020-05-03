@@ -1,11 +1,12 @@
 ---
-label: Asawa 2A
+label: Ruth Asawa
 title: "Life as Art: Black Mountain College and Beyond"
 short_title:
 type: page
 weight: 232
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "asawa2a"
 ---

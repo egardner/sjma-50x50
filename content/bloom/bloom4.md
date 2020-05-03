@@ -1,11 +1,12 @@
 ---
-label: Bloom 4A
+label: Barbara Bloom
 title: A Philosophical Practice
 short_title:
 type: page
 weight: 294
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "bloom4a"
 ---

@@ -1,11 +1,12 @@
 ---
-label: Oursler 4A
+label: Tony Oursler
 title: The Influence Machine
 short_title:
 type: page
 weight: 553
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "oursler4a"
 ---

@@ -1,11 +1,12 @@
 ---
-label: Rath 5A
+label: Alan Rath
 title: Robot Improv
 short_title:
 type: page
 weight: 562
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "rath5a"
 ---

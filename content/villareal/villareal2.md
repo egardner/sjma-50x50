@@ -6,6 +6,7 @@ type: page
 weight: 652
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "villareal2a"
 ---

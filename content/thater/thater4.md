@@ -1,11 +1,12 @@
 ---
-label: Thater 5A
+label: Diana Thater
 title: Space Is Like Water to a Fish
 short_title:
 type: page
 weight: 644
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "thater5a"
 ---

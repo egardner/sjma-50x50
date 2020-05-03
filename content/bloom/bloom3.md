@@ -1,11 +1,12 @@
 ---
-label: Bloom 4B
+label: Barbara Bloom
 title: Balance No. 1 (Purple Head Stack) from the series Broken
 short_title:
 type: page
 weight: 293
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "bloom4b"
 ---

@@ -6,6 +6,7 @@ type: page
 weight: 364
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "defeo5a"
 ---

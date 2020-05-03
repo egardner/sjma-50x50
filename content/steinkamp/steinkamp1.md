@@ -1,11 +1,12 @@
 ---
-label: Steinkamp Banner
+label: Jennifer Steinkamp
 title: Breaking Boundaries
 short_title:
 type: page
 weight: 591
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "steinkampbannerimage"
 ---

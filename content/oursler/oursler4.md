@@ -1,11 +1,12 @@
 ---
-label: Oursler 5A
+label: Tony Oursler
 title: Empathy Effigies
 short_title:
 type: page
 weight: 554
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "oursler5a"
 ---

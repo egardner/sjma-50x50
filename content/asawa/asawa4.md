@@ -1,11 +1,12 @@
 ---
-label: Asawa 5D
+label: Ruth Asawa
 title: Japanese American Internment
 short_title:
 type: page
 weight: 234
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "asawa5d"
 ---

@@ -6,6 +6,7 @@ type: page
 weight: 361
 menu: false
 toc: false
+class: artist-page
 object:
   - id: "defeobanner"
 ---
