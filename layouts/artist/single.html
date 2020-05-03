@@ -23,6 +23,22 @@
 
 {{ define "main" }}
 
+{{ $scratch := newScratch }}
+{{ $artistPages :=  where (where .Site.Pages "Section" .Section) "Title" "ne" .Page.Title }}
+{{ $firstPage := index $artistPages 0 }}
+{{ $object := index $firstPage.Params.object 0 }}
+{{ $scratch.Set "objectId" $object.id }}
+
+{{ range where $.Site.Data.figures.figure_list "id" ( $scratch.Get "objectId" ) }}
+{{ $scratch.Set "banner" .src }}
+{{ end }}
+
+{{ $banner := $scratch.Get "banner" }}
+
+<div class="sjma-artist__print-banner is-print-only">
+    <img src="{{ printf "/%s/%s" $.Site.Params.imageDir $banner  }}"/>
+</div>
+
 <div class='sjma-artist js-sjma-artist {{ partial "page-class.html" . }}' id="main" role="main">
     <!-- Page header -->
     {{ partial "artist-header.html" . }}
