@@ -28,7 +28,7 @@ language: en
 pub_type: book # book | journal-periodical | other
 
 identifier:
-  isbn:
+  isbn: 978-0-938175-08-7
 
 publisher:
   - name: San José Museum of Art
@@ -147,11 +147,11 @@ resource_link:
   - type: footer-link
     name: Privacy Policy
     link_relation: privacy-policy
-    url:
+    url: https://sjmusart.org/privacy-policy
   - type: footer-link
     name: Terms of Use
     link_relation: terms-of-service
-    url:
+    url: https://sjmusart.org/terms-and-conditions-use
 
 # ------------------------------------------------------------------------------
 # Subjects
