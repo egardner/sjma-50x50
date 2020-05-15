@@ -63,7 +63,7 @@ contributor:
     title:
     affiliation:
     bio: >-
-      joined the curatorial team at SJMA in 2017; she is currently assistant
+      Kathryn joined the curatorial team at SJMA in 2017; she is currently assistant
       curator and the principal author of 50X50.
     url:
     pic:
@@ -87,7 +87,7 @@ contributor:
     first_name: Peter
     last_name: Lipman
     title:
-    affiliation: San José Museum of Art
+    affiliation:
     bio: >-
       Peter is an avid collector and arts patron. A former senior research
       geologist specializing in volcano studies, he has been a Trustee of
@@ -98,12 +98,12 @@ contributor:
 
   - id: sayre
     type:
-    first_name: S. Sayre
+    first_name: Susan Sayre
     last_name: Batton
-    title:
+    title: Oshman Executive Director
     affiliation:
     bio: >-
-      Oshman Executive Director of SJMA, has directed the Museum’s curatorial program since 2015.
+      Susan, Oshman Executive Director of SJMA, has directed the Museum’s curatorial program since 2015.
       She is committed to making SJMA a borderless museum, essential to creative life in Silicon Valley.
     url:
     pic:

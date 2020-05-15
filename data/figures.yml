@@ -2,29 +2,29 @@ figure_list:
   - id: "bloombannerimage"
     src: figures/bloom/bloombannerimage.jpg
     caption: Portrait of Barbara Bloom.
-    credit: Courtesy of the Artist and David Lewis, New York
+    credit: Courtesy of the artist and David Lewis, New York.
   - id: "bloom3b"
     src: figures/bloom/bloom3b-espritdeescalier.jpg
     caption: >-
-      Barbara Bloom, *Esprit de l'Escalier*, 1988. Mixed media installation, 124 x 174 x
+      Barbara Bloom, *Esprit de l'Escalier*, 1988. Mixed-media installation, 124 x 174 x
       564 inches.
     credit: >-
-      Collection of the San José Museum of Art. Gift of Peter and Eileen Norton, 1991.01.
-      Photo by Douglas Sandberg
+      San José Museum of Art. Gift of Peter and Eileen Norton, 1991.01.
+      Photo by Douglas Sandberg.
   - id: "bloom4a"
     src: figures/bloom/bloom4a.jpg
     media_id: 284543777
     media_type: vimeo
-    caption: Clip from Jo-ey Tang’s video, *Borders of Fiction*, 2016.
-    credit: Video courtesy of KADIST
+    caption: Clip from Jo-ey Tang’s video *Borders of Fiction*, 2016.
+    credit: Video courtesy of KADIST.
   - id: "bloom4b"
     src: figures/bloom/bloom4b-balanceno1purpleheadstackfromtheseriesbroken.jpg
     caption: >-
-      Barbara Bloom, *Balance,#1 (Purple Head Stack), 2001* Iris print in
+      Barbara Bloom, *Shattered Parts from the series "Broken"*, 2001. Iris print in
       colored matte with broken glass embedded in Plexiglas, 41 1/8 x 31 1/8 x 2
-      inches, Edition of 3 + 2AP
+      inches.
     credit: >-
-      Courtesy the artist and David Lewis, New York
+      Courtesy the artist and David Lewis, New York.
   - id: "ourslerbannerimage"
     src: figures/oursler/ourslerbannerimage.jpg
     caption: >-
@@ -98,39 +98,38 @@ figure_list:
   - id: "asawa1a"
     src: figures/asawa/asawa1a-asawaworking.jpg
     caption: >-
-      Ruth Asawa works on a crocheted wire sculpture in her living room, ca. 1976.
+      Ruth Asawa works on a crocheted-wire sculpture in her living room, ca. 1976.
     credit: Photo by Allen Nomura. Courtesy of the San Francisco Examiner.
   - id: "asawa2a"
     src: figures/asawa/asawa2a.jpg
     caption: >-
-      Clip from Robert Snyder’s film, *Ruth Asawa: Of Forms and Growth*,1978.
+      Clip from Robert Snyder’s film *Ruth Asawa: Of Forms and Growth*, 1978.
     credit: © Masters & Masterworks Productions, Inc.
   - id: "asawa3a"
     src: figures/asawa/asawa3a-untitled035.jpg
     caption: >-
       Ruth Asawa, *Untitled (S.035, Hanging Six-Lobed, Multilayered Interlocking
       Continuous Form within a Form with Spheres in the Second, Fifth, and Sixth
-      Lobes), from "Group of Architectural Works"*, c.1962
+      Lobes), from "Group of Architectural Works"*, ca. 1962. Brass and copper wire, 88 x 15 1/2 x 15 1/2 inches.
     credit: >-
-      Collection of the San José Museum of Art. Gift of the Artist in honor of
-      the San Jose Museum of Art's 35th Anniversary. Photograph by Johnna
+      San José Museum of Art. Gift of the Artist in honor of
+      the San José Museum of Art's 35th Anniversary. Photograph by Johnna
       Arnold.
   - id: "asawa3b"
     src: figures/asawa/asawa3b-untitled035detail.jpg
     caption: >-
-      Ruth Asawa, *Untitled (S.035, Hanging Six-Lobed, Multilayered Interlocking
+      Detail of Asawa, *Untitled (S.035, Hanging Six-Lobed, Multilayered Interlocking
       Continuous Form within a Form with Spheres in the Second, Fifth, and Sixth
-      Lobes), from "Group of Architectural Works"*, c.1962, detail
+      Lobes), ca. 1962.
     credit: >-
       Collection of the San José Museum of Art. Gift of the Artist in honor of
-      the San Jose Museum of Art's 35th Anniversary. Photograph by Johnna
+      the San José Museum of Art's 35th Anniversary. Photograph by Johnna
       Arnold.
   - id: "asawa5d"
     src: figures/asawa/asawa5d-internmentmemorial.jpg
     caption: >-
-      More than 200 people gathered on March 5, 1994 to see the unveiling
-      and dedication of Asawa’s memorial. Ruth Asawa Papers, M1585: Box X, Folder
-      Y. Courtesy of the Department of Special Collections, Stanford Libraries.
+      More than two hundred people gathered for the unveiling and dedication of Ruth Asawa's Japanese American Internment Memorial,
+      San José, California, March 5, 1994. Ruth Asawa Papers, M1585: Box X, Folder Y. Courtesy of the Department of Special Collections, Stanford Libraries.
     credit: >-
       Artwork © Estate of Ruth Asawa. Photo: Fay Royal Baxter
   - id: "hawkinson3a"
@@ -176,7 +175,7 @@ figure_list:
     credit: Diana Thater Studio.
   - id: "baezbanner"
     src: figures/baez/baezbanner.png
-    caption: Firelei Báez at her studio in Long Island City, New York, ca. 2017
+    caption: Firelei Báez at her studio in Long Island City, New York, ca. 2017.
     credit: © antoinebootz. Photo courtesy of Galerie Magazine.
   - id: "baez2a"
     src: figures/baez/baez2a.jpg
@@ -192,7 +191,7 @@ figure_list:
     caption: >-
       Firelei Báez, *To see beyond it and to access the places that we know
       outside its walls*, 2015. Gouache and ink on paper, 84 1/2 x 50 inches.
-    credit: Collection of the San José Museum of Art. Museum purchase with funds provided by Tad and Jackson Freese, 2016.04.
+    credit: San José Museum of Art. Museum purchase with funds provided by Tad and Jackson Freese, 2016.04.
   - id: "baez3b"
     src: figures/baez/baez3b.jpg
     media_id: 405553196
@@ -203,7 +202,7 @@ figure_list:
     credit: Courtesy of the artist and James Cohan, New York.
   - id: "baez4a"
     src: figures/baez/baez4a.jpg
-    caption: Firelei Báez, *DREAMer (a demand for opacity that weaves no boundaries)*, 2017. Acrylic and oil on canvas, 105 × 249 inches
+    caption: Firelei Báez, *DREAMer (a demand for opacity that weaves no boundaries)*, 2017. Acrylic and oil on canvas, 105 × 249 inches.
     credit: Bill and Christy Gautreaux Collection, Kansas City, Missouri. Courtesy of the artist and James Cohan, New York.
   - id: "corsebanner"
     src: figures/corse/corsebanner.jpg
