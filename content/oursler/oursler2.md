@@ -1,6 +1,6 @@
 ---
 label: Tony Oursler
-title: TV is a Drug
+title: TV Is a Drug
 short_title:
 type: page
 weight: 552

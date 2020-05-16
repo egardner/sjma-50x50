@@ -1,5 +1,5 @@
 ---
-title: Firelei Baez
+title: Firelei Báez
 subtitle: Dominican Republic/United States, b. 1981
 weight: 250
 type: artist
