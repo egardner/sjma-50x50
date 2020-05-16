@@ -3,8 +3,8 @@
 {{ else }}
 {{ $.Scratch.Set "imageDir" "" }}
 {{ end -}}
-<section class="{{ if or (eq .Title "title page") (eq .Title "half title page") }} is-screen-only {{ end }} quire-page__header hero">
-  <div class="hero-body">
+<section class="sjma-artist__header">
+  <div class="container">
     {{/* Page Title */}}
     <h1 class="sjma-artist__header__title quire-page__header__title" id="{{ .Title | urlize }}">
 	  {{- with .Params.label }}

@@ -40,33 +40,40 @@
 </div>
 
 <div class='sjma-artist js-sjma-artist {{ partial "page-class.html" . }}' id="main" role="main">
-    <!-- Page header -->
-    {{ partial "artist-header.html" . }}
-
     <!-- Visual artist-navigation grid -->
     {{ partial "artist-navigation.html" . }}
+
+    <!-- Page header -->
+    {{ partial "artist-header.html" . }}
 
     <!-- Content section -->
     <section class="section quire-page__content" id="content">
         <!-- Page content -->
         {{ if .Content }}
         <div class="sjma-artist__container container">
-            <div id="sjma-artist-outlet" class="sjma-artist__content content">
+            <div class="sjma-artist__content content">
                 {{ .Content }}
             </div>
+
         </div>
         {{ end }}
 
-        {{ partial "artist-footer-buttons.html" . }}
     </section>
 
-    {{/* Build out templates */}}
-    {{/* 1. Template for the initial content of the page. */}}
-    <template id='js-template-quote'>
-        {{ .Content }}
-    </template>
+    <section class="section quire-page__content sjma-artist__subpage">
+        <div class="sjma-artist__content container">
+            <div id="sjma-artist-outlet" class="sjma-artist__content sjma-artist__subpage content"></div>
+        </div>
 
-    {{/* 2. Template for each artist entry page. */}}
+    </section>
+
+    <section>
+        <div class="container">
+            {{ partial "artist-footer-buttons.html" . }}
+        </div>
+    </section>
+
+    {{/* Template for each artist entry page. */}}
     {{ $currentPage := . }}
     {{ range where .Site.Pages "Section" .Section }}
     {{ if ne . $currentPage }}
