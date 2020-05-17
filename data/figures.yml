@@ -15,16 +15,16 @@ figure_list:
     src: figures/bloom/bloom4a.jpg
     media_id: 284543777
     media_type: vimeo
-    caption: Clip from Jo-ey Tang’s video. *Borders of Fiction*, 2016.
+    caption: Clip from Jo-ey Tang’s video *Borders of Fiction*, 2016.
     credit: Video courtesy of KADIST.
   - id: "bloom4b"
     src: figures/bloom/bloom4b-balanceno1purpleheadstackfromtheseriesbroken.jpg
     caption: >-
-      Barbara Bloom, *Shattered Parts*, 2001. Iris print in
+      Barbara Bloom, *Shattered Parts from the series "Broken"*, 2001. Iris print in
       colored matte with broken glass embedded in Plexiglas, 41 1/8 x 31 1/8 x 2
       inches.
     credit: >-
-      Courtesy the artist and David Lewis, New York
+      Courtesy the artist and David Lewis, New York.
   - id: "ourslerbannerimage"
     src: figures/oursler/ourslerbannerimage.jpg
     caption: >-
@@ -103,30 +103,33 @@ figure_list:
   - id: "asawa2a"
     src: figures/asawa/asawa2a.jpg
     caption: >-
-      Clip from Robert Snyder’s film, *Ruth Asawa: Of Forms and Growth*, 1978.
+      Clip from Robert Snyder’s film *Ruth Asawa: Of Forms and Growth*, 1978.
     credit: © Masters & Masterworks Productions, Inc.
   - id: "asawa3a"
     src: figures/asawa/asawa3a-untitled035.jpg
     caption: >-
       Ruth Asawa, *Untitled (S.035, Hanging Six-Lobed, Multilayered Interlocking
       Continuous Form within a Form with Spheres in the Second, Fifth, and Sixth
-      Lobes)*, ca. 1962. Brass and copper wire, 88 x 15 1/2 x 15 1/2 inches.
+      Lobes), from "Group of Architectural Works"*, ca. 1962. Brass and copper wire, 88 x 15 1/2 x 15 1/2 inches.
     credit: >-
       San José Museum of Art. Gift of the Artist in honor of
-      the San José Museum of Art's 35th anniversary, 2003.28.03. Photograph by Johnna
+      the San José Museum of Art's 35th Anniversary. Photograph by Johnna
       Arnold.
   - id: "asawa3b"
     src: figures/asawa/asawa3b-untitled035detail.jpg
     caption: >-
       Detail of Asawa, *Untitled (S.035, Hanging Six-Lobed, Multilayered Interlocking
       Continuous Form within a Form with Spheres in the Second, Fifth, and Sixth
-      Lobes)*, ca. 1962,
-    credit:
+      Lobes), ca. 1962.
+    credit: >-
+      Collection of the San José Museum of Art. Gift of the Artist in honor of
+      the San José Museum of Art's 35th Anniversary. Photograph by Johnna
+      Arnold.
   - id: "asawa5d"
     src: figures/asawa/asawa5d-internmentmemorial.jpg
     caption: >-
-      More than two hundred people gathered for the unveiling and dedication of Ruth Asawa's Japanese American Internment Memorial, San José, California, March 5, 1994.
-      Ruth Asawa Papers, M1585: Box X, Folder Y. Courtesy of the Department of Special Collections, Stanford Libraries.
+      More than two hundred people gathered for the unveiling and dedication of Ruth Asawa's Japanese American Internment Memorial,
+      San José, California, March 5, 1994. Ruth Asawa Papers, M1585: Box X, Folder Y. Courtesy of the Department of Special Collections, Stanford Libraries.
     credit: >-
       Artwork © Estate of Ruth Asawa. Photo: Fay Royal Baxter.
   - id: "hawkinson3a"
