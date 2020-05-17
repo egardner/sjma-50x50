@@ -9,6 +9,8 @@ toc: false
 class: artist-page
 object:
   - id: "thater4d"
+media:
+  - "zoom"
 ---
 {{<q-figure id="thater4d" >}}
 

@@ -9,6 +9,8 @@ toc: false
 class: artist-page
 object:
   - id: "asawa3a"
+media:
+  - "zoom"
 ---
 
 {{<q-figure-group id="asawa3a, asawa3b" grid="2">}}

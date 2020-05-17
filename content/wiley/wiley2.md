@@ -9,6 +9,8 @@ toc: false
 class: artist-page
 object:
   - id: "wiley5b"
+media:
+  - "zoom"
 ---
 
 {{<q-figure id="wiley5b" >}}

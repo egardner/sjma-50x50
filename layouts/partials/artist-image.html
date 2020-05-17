@@ -16,7 +16,14 @@
     <figure>
         <img src="/{{ $.Site.Params.imageDir }}/{{ $scratch.Get "full" }}?nf_resize=fit&h=640" alt="" loading="lazy">
         <div class="sjma-artist__grid-item__label">
-            <h6>{{ .Title }}</h6>
+            <h6>
+                <div class="sjma-artist__grid-item__label__icons">
+                    {{ range .Params.media }}
+                    <img src="/{{ $.Site.Params.imageDir }}/icons/{{ . }}.svg"> 
+                    {{ end }}
+                </div>
+                {{ .Title }}
+            </h6>
         </div>
     </figure>
 </a>

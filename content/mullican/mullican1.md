@@ -9,6 +9,8 @@ toc: false
 class: artist-page
 object:
   - id: "mullicanbanner"
+media:
+  - "zoom"
 ---
 {{<q-figure id="mullicanbanner">}}
 

@@ -9,6 +9,8 @@ toc: false
 class: artist-page
 object:
   - id: "hallbanner"
+media:
+  - "zoom"
 ---
 {{<q-figure id="hallbanner">}}
 

@@ -9,6 +9,9 @@ toc: false
 class: artist-page
 object:
   - id: "defeo1a"
+media:
+  - "zoom"
+  - "audio"
 ---
 {{<q-figure-group id="defeo1a, defeo3b" grid="2">}}
 

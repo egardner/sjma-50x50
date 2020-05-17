@@ -9,6 +9,8 @@ toc: false
 class: artist-page
 object:
   - id: "hawkinson3a"
+media:
+  - "video"
 ---
 {{<q-figure id="hawkinson3a" >}}
 

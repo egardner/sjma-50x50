@@ -10,6 +10,8 @@ search: false
 class: artist-page
 object:
   - id: "baez3a"
+media:
+  - "zoom"
 ---
 {{<q-figure id="baez3a">}}
 
