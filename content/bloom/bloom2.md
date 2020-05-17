@@ -16,4 +16,4 @@ Esprit de l’escalier, which literally translates to “spirit of the stairs,�
 
 [^1]: Susan Tallman, *The Collections of Barbara Bloom* (New York: International Center for Photography, 2007), 158–59.
 
-[^2]: Lindsey M. Wylie, “Barbara Bloom,” in *Selections: The San Jose Museum of Art Permanent Collection*, ed. Susan Landauer (San Jose, CA: San Jose Museum of Art, 2004), 36.
+[^2]: Lindsey M. Wylie, “Barbara Bloom,” in *Selections: The San Jose Museum of Art Permanent Collection*, ed. Susan Landauer (San José, CA: San José Museum of Art, 2004), 36.

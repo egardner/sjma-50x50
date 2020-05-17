@@ -1,5 +1,5 @@
 ---
-label: Firelei Baez
+label: Firelei Báez
 title: Subaltern Histories
 short_title:
 type: page
