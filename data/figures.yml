@@ -157,13 +157,15 @@ figure_list:
       Family Foundation, 2016.05.
   - id: "thater4d"
     src: figures/thater/thater4d-lacma.jpg
-    caption: Installation view of Diana Thater's *Delphine* (1999) in *Diana Thater: The Sympathetic Imagination*, Los Angeles County Museum of Art, 2015.
+    caption: >-
+      Installation view of Diana Thater's *Delphine* (1999) in *Diana Thater: The Sympathetic Imagination*, Los Angeles County Museum of Art, 2015.
     credit: Diana Thater Studio/1301PE Gallery.
   - id: "thater5a"
     src: figures/thater/thater5a.jpg
     media_id: 303544096
     media_type: vimeo
-    caption: Clip from Diana Thater's "Creative Minds" artist talk on the occasion of the exhibition Beta Space: Diana Thater, San José Museum of Art, April 23, 2015.
+    caption: >-
+      Clip from Diana Thater's "Creative Minds" artist talk on the occasion of the exhibition Beta Space: Diana Thater, San José Museum of Art, April 23, 2015.
     credit: San José Museum of Art.
   - id: "thaterbannerimage"
     src: figures/thater/thaterbannerimage.jpg
@@ -280,7 +282,8 @@ figure_list:
     credit: Courtesy of Betsy Drake and the Estate of Lee Mullican. Filmed by Betsy Drake.
   - id: "steyerlbanner"
     src: figures/steyerl/steyerlbanner.jpg
-    caption: Still from "Hito Steyerl, *How Not to Be Seen: A Fucking Didactic Educational .MOV File*, 2013. Video, 15:53 minutes."
+    caption: >-
+      Still from "Hito Steyerl, *How Not to Be Seen: A Fucking Didactic Educational .MOV File*, 2013. Video, 15:53 minutes."
     credit: Image courtesy of the artist; Andrew Kreps Gallery, New York; and Esther Schipper, Berlin.
   - id: "steyerl3a"
     src: figures/steyerl/steyerl3a.jpg
