@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "asawa2a"
 media:
-  - "zoom"
+  - "video"
 ---
 {{<q-figure id="asawa2a" >}}
 

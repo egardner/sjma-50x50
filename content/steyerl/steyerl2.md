@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "steyerl3a"
 media:
-  - "zoom"
+  - "video"
 ---
 
 {{<q-figure id="steyerl3a">}}

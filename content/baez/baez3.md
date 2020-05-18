@@ -12,6 +12,7 @@ object:
   - id: "baez3a"
 media:
   - "zoom"
+  - "video"
 ---
 {{<q-figure id="baez3a">}}
 
