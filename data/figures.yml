@@ -102,8 +102,8 @@ figure_list:
     credit: Photo by Allen Nomura. Courtesy of the San Francisco Examiner.
   - id: "asawa2a"
     src: figures/asawa/asawa2a.jpg
-    media-id: 411530047
-    media-type: vimeo
+    media_id: 411530047
+    media_type: vimeo
     caption: >-
       Clip from Robert Snyder’s film *Ruth Asawa: Of Forms and Growth*, 1978.
     credit: © Masters & Masterworks Productions, Inc.
@@ -292,8 +292,8 @@ figure_list:
     credit: Image courtesy of the artist; Andrew Kreps Gallery, New York; and Esther Schipper, Berlin.
   - id: "steyerl3a"
     src: figures/steyerl/steyerl3a.jpg
-    media-id: 301115015
-    media-type: vimeo
+    media_id: 301115015
+    media_type: vimeo
     caption: Hito Steyerl lecturing at “The Photographic Universe II” conference, The New School, New York, April 2013.
     credit: Courtesy of The New School.
   - id: "steyerl4a"
