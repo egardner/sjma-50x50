@@ -15,10 +15,6 @@
     to direct the user to the appropriate artist page instead. When this
     happens a state change needs to be triggered here to display the
     appropriate content.
-
-    *TODO* Update the URL with a hash to indicate which artist page is
-    currently being viewed. Load the appropriate page from hash when user
-    first lands.
 */}}
 
 {{ define "main" }}
@@ -62,7 +58,12 @@
 
     <section class="section quire-page__content sjma-artist__subpage">
         <div class="sjma-artist__content container">
-            <div id="sjma-artist-outlet" class="sjma-artist__content sjma-artist__subpage content"></div>
+            <div 
+                id="sjma-artist-outlet" 
+                class="sjma-artist__content sjma-artist__subpage content"
+                role="tabpanel"
+            >
+            </div>
         </div>
 
     </section>
@@ -78,8 +79,10 @@
     {{ range where .Site.Pages "Section" .Section }}
     {{ if ne . $currentPage }}
     <template id='{{ .Title | urlize | printf "%s%s" "js-template-" }}'>
-        <h2>{{ .Title }}</h2>
-        {{ .Content }}
+        <div aria-labelledby='{{ .Title | urlize | printf "%s%s" "js-link-" }}'>
+            <h2>{{ .Title }}</h2>
+            {{ .Content }}
+        </div>
     </template>
     {{ end }}
     {{ end }}

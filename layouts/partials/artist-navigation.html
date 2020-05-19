@@ -3,7 +3,7 @@
 
 	
 <section class="sjma-artist__navigation is-screen-only">
-	<div class="sjma-artist__grid is-{{ .Params.grid }} container">
+	<div class="sjma-artist__grid is-{{ .Params.grid }} container" role="tablist">
 		{{ range $artistPages }}
 		<div class="sjma-artist__grid-item">{{ partial "artist-image.html" . }}</div>
 		{{ end }}

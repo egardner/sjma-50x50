@@ -7,19 +7,29 @@
 
 {{ range where $.Site.Data.figures.figure_list "id" ( $scratch.Get "objectId" ) }}
 {{ $fullsize := .src  }}
+{{ $caption := .caption  }}
 {{ $thumbnail := replace .src "figures/" "thumbnails/" }}
 {{ $scratch.Set "thumb" $thumbnail }}
 {{ $scratch.Set "full" $fullsize }}
+{{ $scratch.Set "caption" $caption }}
 {{ end }}
 
-<a id='{{ .Title | urlize | printf "%s%s" "js-link-" }}' class="js-sjma-artist-link" href="{{ .RelPermalink }}">
+<a 
+    id='{{ .Title | urlize | printf "%s%s" "js-link-" }}' 
+    class="js-sjma-artist-link" 
+    href="{{ .RelPermalink }}"
+    role="tab"
+    aria-label="{{ .Title }}"
+    aria-selected="false"
+    tabindex="0"
+>
     <figure>
-        <img src="/{{ $.Site.Params.imageDir }}/{{ $scratch.Get "full" }}?nf_resize=fit&h=640" alt="" loading="lazy">
+        <img src="/{{ $.Site.Params.imageDir }}/{{ $scratch.Get "full" }}?nf_resize=fit&h=640" alt='{{ $scratch.Get "caption" }}' loading="lazy">
         <div class="sjma-artist__grid-item__label">
             <h6>
                 <div class="sjma-artist__grid-item__label__icons">
                     {{ range .Params.media }}
-                    <img src="/{{ $.Site.Params.imageDir }}/icons/{{ . }}.svg"> 
+                    <img src="/{{ $.Site.Params.imageDir }}/icons/{{ . }}.svg" alt="{{ . }}"> 
                     {{ end }}
                 </div>
                 {{ .Title }}
