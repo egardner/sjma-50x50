@@ -3,8 +3,6 @@ label:
 title: Acknowledgments
 subtitle:
 weight: 703
-type: essay
-class: page-one
 contributor:
   - id: sayre
 ---

@@ -1,5 +1,4 @@
 ---
-# label: Introduction
 title: There for Us
 subtitle:
 weight: 7

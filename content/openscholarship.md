@@ -5,7 +5,6 @@ short_title: Open Scholarship
 subtitle:
 weight: 4
 type: essay
-class: page-one
 ---
 
 Digital publishing presents a new and exciting opportunity for the San José Museum of Art (SJMA) to further its mission of becoming a borderless museum. SJMA is an educational institution dedicated to engaging diverse communities in California’s Silicon Valley and around the world in the transformative power of art. Digital publishing is a catalyst for expanding the reach of the museum’s educational resources. Older models of museum scholarship such as the printed monograph and collection highlights catalog were designed to be shelf ready and self-contained objects, whereas new fluid models of multimedia content published on the worldwide web foster innovation in scholarly production and in design, interface allowing readers to interact with, use, and share content in unprecedented ways. SJMA is actively experimenting with the tools of digital publishing because of its capacity to engage and cultivate diverse knowledge communities near and far via the public internet.
