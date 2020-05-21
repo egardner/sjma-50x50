@@ -326,6 +326,10 @@ figure_list:
     src: "figures/wiley/wileybanner.png"
     caption: William T. Wiley installing *Keel Over* at the Madison Art Center, Wisconsin, in 1970.
     credit: Courtesy of the Madison Museum of Contemporary Art.
+  - id: "wiley2a"
+    src: "figures/wiley/wiley2a.jpg"
+    caption: William T. Wiley, Tantrum Art La Grande, 2001. Acrylic and mixed media on canvas, 96 x 60 inches.
+    credit: San José Museum of Art. Gift of the Lipman Family Foundation. 2004.41.03. Photo by Douglas Sandberg.
   - id: "wiley5b"
     src: "figures/wiley/wiley5b.jpg"
     caption: William T. Wiley, Punball Machine, 2008. Vintage pinball machine with artist illustrations, 70 x 22  x 52 inches.
@@ -334,11 +338,3 @@ figure_list:
     src: "figures/wiley/wiley3a.jpg"
     caption: William T. Wiley, *Gineric D.B.L. (Part A)*, 1989. Acrylic and pencil on canvas, 100 x 156 inches.
     credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2004.41.03.
-  - id: "wiley2a"
-    src: "figures/wiley/wiley2a.jpg"
-    caption: William T. Wiley, Tantrum Art La Grande, 2001. Acrylic and mixed media on canvas, 96 x 60 inches.
-    credit: San José Museum of Art. Gift of the Lipman Family Foundation. 2004.41.03. Photo by Douglas Sandberg.
-  - id:
-    src:
-    caption:
-    credit:
