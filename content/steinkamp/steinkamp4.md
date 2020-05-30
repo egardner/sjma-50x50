@@ -18,4 +18,4 @@ Jennifer Steinkamp uses computer graphics and three-dimensional animations to cr
 
 [^1]: *Jennifer Steinkamp and Jimmy Johnson:* *One saw; the other saw* (2001), exhibition description on Rice University Art Gallery website, http://www.ricegallery.org/steinkamp-johnson.
 
-[^2]: *Rochelle Steiner, Wonderland (St. Louis: Saint Louis Art Museum, 2000), 24.*
+[^2]: Rochelle Steiner, *Wonderland* (St. Louis: Saint Louis Art Museum, 2000), 24.

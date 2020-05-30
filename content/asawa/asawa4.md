@@ -18,4 +18,4 @@ Ruth Asawa was active in arts education and civic arts initiatives throughout he
 
 [^1]: Philip E. Linhares, *Ruth Asawa: Completing the Circle* (Oakland: Oakland Museum of California, 2002).
 
-[^2]: Ruth Asawa, “Preliminary Design Concept,” March 1990, in *Ruth Asawa Papers*, M1585, Box 122, Folder 3, Special Collections, Stanford Libraries, Sanford, California.
+[^2]: Ruth Asawa, “Preliminary Design Concept,” March 1990, in Ruth Asawa Papers, M1585, Box 122, Folder 3, Special Collections, Stanford Libraries, Stanford, California.

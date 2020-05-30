@@ -23,4 +23,4 @@ William T. Wiley moved from Washington to California to study at the California 
 
 [^3]: Joann Moser, “What’s It All Mean?” in *What’s It All Mean: William T. Wiley in Retrospect* (Berkeley: University of California Press; and Washington, DC: Smithsonian American Art Museum, 2009), 24.
 
-[^4]: Richard L. Nelson, in conversation with William T. Wiley, Manuel Neri, and Wayne Thiebaud, “You See: The Early Years of the UC Davis Art Faculty,” Mondavi Center, University of California, Davis,* November 13, 2007, video, 58:06 minutes, available at https://www.youtube.com/watch?v=cIg8urzesPs.
+[^4]: Richard L. Nelson, in conversation with William T. Wiley, Manuel Neri, and Wayne Thiebaud, “You See: The Early Years of the UC Davis Art Faculty,” Mondavi Center, University of California, Davis, November 13, 2007, video, 58:06 minutes, available at https://www.youtube.com/watch?v=cIg8urzesPs.
