@@ -20,7 +20,7 @@ figure_list:
   - id: "bloom4b"
     src: figures/bloom/bloom4b-balanceno1purpleheadstackfromtheseriesbroken.jpg
     caption: >-
-      Barbara Bloom, *Shattered Parts from the series "Broken"*, 2001. Iris print in
+      Barbara Bloom, *Shattered Parts*, from the series "Broken," 2001. Iris print in
       colored matte with broken glass embedded in Plexiglas, 41 1/8 x 31 1/8 x 2
       inches.
     credit: >-
@@ -28,8 +28,8 @@ figure_list:
   - id: "ourslerbannerimage"
     src: figures/oursler/ourslerbannerimage.jpg
     caption: >-
-      Members of The Poetics, from left: John Arnheim, Bill Stobaugh, Mike Kelley, Tony
-      Oursler and John Miller, Los Angeles, 1977.
+      Members of The Poetics (from left: John Arnheim, Bill Stobaugh, Mike Kelley, Tony
+      Oursler, and John Miller,) Los Angeles, 1977.
     credit: >-
       Photo: Jim Shaw.
   - id: "oursler3a"
@@ -37,7 +37,7 @@ figure_list:
     media_id: 293660704
     media_type: vimeo
     caption: >-
-      Tony Oursler: Video Projections, number 59 in Paul Tschinkel's video series "ART/New York," 2002.
+      *Tony Oursler: Video Projections*, number 59 in Paul Tschinkel's video series "ART/New York," 2002.
     credit: Inner-Tude Video.
   - id: "oursler4a"
     src: figures/oursler/oursler4a-influencemachine7.jpg
@@ -47,7 +47,7 @@ figure_list:
       Commissioned and produced by Artangel. Photo by Dennis Crowley.
   - id: "oursler5a"
     src: figures/oursler/oursler5a-slip.jpg
-    caption: Tony Oursler, *Slip*, 2003. Fiberglass sculpture, Sony VPL CSS projector, DVD, DVD player, and speaker, 43 x 5 x 15 inches.
+    caption: Tony Oursler, *Slip*, 2003. Fiberglass sculpture, Sony VPL CS5 projector, DVD, DVD player, and speaker, 43 x 5 x 15 inches.
     credit: >-
       San José Museum of Art. Gift of the Lipman Family Foundation, in honor of the
       San José Museum of Art's 35th anniversary, 2003.32. Photo by Douglas Sandberg.
@@ -60,7 +60,7 @@ figure_list:
     media_id: 294476061
     media_type: vimeo
     caption: >-
-      Jazz musician John Worley improvising to Alan Rath's kinetic sculpture Absolutely (2012),
+      Jazz musician John Worley improvising to Alan Rath's kinetic sculpture *Absolutely* (2012),
     credit: San José Museum of Art, June 19, 2014. Courtesy of the San José Museum of Art.
   - id: "rath4a"
     src: figures/rath/rath4a-infoglut.jpg
@@ -73,7 +73,7 @@ figure_list:
     credit: San José Museum of Art. Gift of Katie and Drew Gibson, 2014.05.04. Photo by Douglas Sandberg.
   - id: "steinkampbannerimage"
     src: figures/steinkamp/steinkampbannerimage.jpg
-    caption: Jennifer Steinkamp with *Bouquet 1*, 2014.
+    caption: Jennifer Steinkamp with *Bouquet 1*, 2013.
     credit: Photo by Jessica Hromas.
   - id: "steinkamp3b"
     src: figures/steinkamp/steinkamp3b.jpg
@@ -114,19 +114,16 @@ figure_list:
       Continuous Form within a Form with Spheres in the Second, Fifth, and Sixth
       Lobes), from "Group of Architectural Works"*, ca. 1962. Brass and copper wire, 88 x 15 1/2 x 15 1/2 inches.
     credit: >-
-      San José Museum of Art. Gift of the Artist in honor of
-      the San José Museum of Art's 35th Anniversary. Photograph by Johnna
+      San José Museum of Art. Gift of the artist in honor of
+      the San José Museum of Art's 35th anniversary, 2003.28.03. Photograph by Johnna
       Arnold.
   - id: "asawa3b"
     src: figures/asawa/asawa3b-untitled035detail.jpg
     caption: >-
       Detail of Asawa, *Untitled (S.035, Hanging Six-Lobed, Multilayered Interlocking
       Continuous Form within a Form with Spheres in the Second, Fifth, and Sixth
-      Lobes), ca. 1962.
-    credit: >-
-      Collection of the San José Museum of Art. Gift of the Artist in honor of
-      the San José Museum of Art's 35th Anniversary. Photograph by Johnna
-      Arnold.
+      Lobes)*, ca. 1962.
+    credit:
   - id: "asawa5d"
     src: figures/asawa/asawa5d-internmentmemorial.jpg
     caption: >-
@@ -138,16 +135,16 @@ figure_list:
     src: figures/hawkinson/hawkinson3a.jpg
     media_id: 303177095
     media_type: vimeo
-    caption: Installation of Tim Hawkinson's Überorgan (2000) at the Getty Museum, Los Angeles, 2007.
+    caption: Installation of Tim Hawkinson's *Überorgan* (2000) at the Getty Museum, Los Angeles, 2007.
     credit: >-
       Video produced by the J. Paul Getty Museum. Andrea Nasher Collection.
   - id: "hawkinson4a"
     src: figures/hawkinson/hawkinson4a-scout.jpg
-    caption: Tim Hawkinson, *Scout*, 2006–07. Cardboard, box strapping, and urethane foam, 69 ½ x 103 x 68 inches.
+    caption: Tim Hawkinson, *Scout*, 2006–07. Cardboard, box strapping, and urethane foam, 69 1/2 x 103 x 68 inches.
     credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2013.12.
   - id: "hawkinson5d"
     src: figures/hawkinson/hawkinson5d-emoterdetail.jpg
-    caption: Detail of Tim Hawkinson *Emoter*, 2000. Mixed-media installation.
+    caption: Detail of Tim Hawkinson, *Emoter*, 2000. Mixed-media installation.
     credit: Courtesy Ace Gallery, Los Angeles.
   - id: "hawkinsonbanner"
     src: "figures/hawkinson/hawkinsonbanner.jpg"
@@ -155,7 +152,7 @@ figure_list:
     credit: Photo by Frank Jackson.
   - id: "thater3a"
     src: figures/thater/thater3a-untitledbutterflyvideowall.jpg
-    caption: Diana Thater, *Untitled (Butterfly Videowall No. 2)*, 2008. Video installation.
+    caption: Diana Thater, *Untitled (Butterfly Videowall NO. 2)*, 2008. Video installation.
     credit:  >-
       San José Museum of Art. Museum purchase with funds provided by the
       Acquisitions Committee with additional funds provided by the Lipman
@@ -170,11 +167,11 @@ figure_list:
     media_id: 303544096
     media_type: vimeo
     caption: >-
-      Clip from Diana Thater's "Creative Minds" artist talk on the occasion of the exhibition Beta Space: Diana Thater, San José Museum of Art, April 23, 2015.
+      Clip from Diana Thater's "Creative Minds" artist talk on the occasion of the exhibition *Beta Space: Diana Thater*, San José Museum of Art, April 23, 2015.
     credit: San José Museum of Art.
   - id: "thaterbannerimage"
     src: figures/thater/thaterbannerimage.jpg
-    caption: Diana Thater with Sudan the Rhino, Ol Pejeta Conservancy, Kenya, 2016. Diana Thater Studio.
+    caption: Diana Thater with Sudan the Rhino, Ol Pejeta Conservancy, Kenya, 2016.
     credit: Diana Thater Studio. Photo by T. Kelly Mason.
   - id: "baezbanner"
     src: figures/baez/baezbanner.png
@@ -200,7 +197,7 @@ figure_list:
     media_id: 405553196
     media_type: vimeo
     caption: >-
-      “Firelei Báez”, James Cohan Gallery, New York, posted April 8, 2020,
+      “Firelei Báez,” James Cohan Gallery, New York, posted April 8, 2020,
       video, 4:28 minutes, available at https://vimeo.com/405553196.
     credit: Courtesy of the artist and James Cohan, New York.
   - id: "baez4a"
@@ -213,8 +210,8 @@ figure_list:
     credit: Courtesy of João Canziani.
   - id: "corse4a"
     src: figures/corse/corse4a.jpg
-    caption: Mary Corse, *Grey Light Painting*, 1988. Glass microspheres in paint on canvas. 72 x 72 inches.
-    credit: San José Museum of Art. Gift of Katherine and James Gentry. 1998.23.03. Photo by Douglas Sandberg.
+    caption: Mary Corse, *Grey Light Painting*, 1988. Glass microspheres in paint on canvas, 72 x 72 inches.
+    credit: San José Museum of Art. Gift of Katherine and James Gentry, 1998.23.03. Photo by Douglas Sandberg.
   - id: "corse3a"
     src: figures/corse/corse3a.jpg
     media_id: 280843373
@@ -235,7 +232,7 @@ figure_list:
     credit: Photo by Mimi Jacobs. Courtesy of the artist's estate.
   - id: "defeo3b"
     src: figures/defeo/defeo3b.png
-    caption: Oral history interview with Jay DeFeo, 1975 June 3-1976 January 23.
+    caption: Audio clip from oral history interview of Jay DeFeo by Paul Karlstrom for the Archives of American Art, Smithsonian Institution, June 3, 1975–January 23, 1976.
     credit:  Archives of American Art, Smithsonian Institution.
   - id: "defeo4a"
     src: figures/defeo/defeo4a.jpg
@@ -243,7 +240,7 @@ figure_list:
     credit: San José Museum of Art. Gift of Dixon and Barbara Farley, 2014.09.08.
   - id: "defeo5a"
     src: figures/defeo/defeo5a.jpg
-    caption: Jay DeFeo, *Untitled*,1971. Gelatin silver print, 4 7/8 x 4 3/4 inches.
+    caption: Jay DeFeo, *Untitled* ,1971. Gelatin silver print, 4 7/8 x 4 3/4 inches.
     credit: San José Museum of Art. Gift of The Jay DeFeo Foundation in honor of the Museum’s 50th anniversary, 2019.07.
   - id: "defeo5b"
     src: figures/defeo/defeo5b.jpg
@@ -265,7 +262,7 @@ figure_list:
     src: figures/hall/hall5b.jpg
     media_id: 287335065
     media_type: vimeo
-    caption: Doug Hall, *Chrysopylae*, 2012. Clip from Two-channel video installation with sound.
+    caption: Clip from Doug Hall, *Chrysopylae*, 2012. Two-channel video installation with sound.
     credit: San José Museum of Art. Gift in part of the Lipman Family Foundation with additional funds contributed by the Acquisitions Committee, 2012.09. Courtesy of Doug Hall.
   - id: "mullicanbanner"
     src: figures/mullican/mullicanbanner.jpg
@@ -288,7 +285,7 @@ figure_list:
   - id: "steyerlbanner"
     src: figures/steyerl/steyerlbanner.jpg
     caption: >-
-      Still from "Hito Steyerl, *How Not to Be Seen: A Fucking Didactic Educational .MOV File*, 2013. Video, 15:53 minutes."
+      Still from  "Hito Steyerl, *How Not to Be Seen: A Fucking Didactic Educational .MOV File*, 2013. Video, 15:53 minutes."
     credit: Image courtesy of the artist; Andrew Kreps Gallery, New York; and Esther Schipper, Berlin.
   - id: "steyerl3a"
     src: figures/steyerl/steyerl3a.jpg
@@ -306,7 +303,7 @@ figure_list:
     credit: Photo by Kathryn Wade.
   - id: "villarealbanner"
     src: "figures/villareal/villarealbanner.jpg"
-    caption: Leo Villareal programing *The Bay Lights,* 2013.
+    caption: Leo Villareal programming *The Bay Lights*, 2013.
     credit: Photograph by Lucas Saugen.
   - id: "villareal2a"
     src: "figures/villareal/villareal2a.jpg"
@@ -314,13 +311,13 @@ figure_list:
     credit: Video by Tisha Carper Long.
   - id: "villareal4a"
     src: "figures/villareal/villareal4a.jpg"
-    caption: Leo *Villareal, Untitled (for San José)*, 2012. LED lights, custom software, and electrical hardware, 32 x 68 x 6 inches.
+    caption: Leo Villareal, Untitled (for San José)*, 2012. LED lights, custom software, and electrical hardware, 32 x 68 x 6 inches.
     credit: San José Museum of Art. Commissioned and purchased with funds contributed by the Acquisitions Committee, 2012.06.
   - id: "villareal5a"
     src: figures/villareal/villareal5a.jpg
     media_id: 411602946
     media_type: vimeo
-    caption: Leo *Villareal, The Bay Lights, 2013.* Video by James Ewing.
+    caption: Leo Villareal, *The Bay Lights*, 2013. Video by James Ewing.
     credit: Courtesy Leo Villareal.
   - id: "wileybanner"
     src: "figures/wiley/wileybanner.png"
@@ -328,11 +325,11 @@ figure_list:
     credit: Courtesy of the Madison Museum of Contemporary Art.
   - id: "wiley2a"
     src: "figures/wiley/wiley2a.jpg"
-    caption: William T. Wiley, Tantrum Art La Grande, 2001. Acrylic and mixed media on canvas, 96 x 60 inches.
-    credit: San José Museum of Art. Gift of the Lipman Family Foundation. 2004.41.03. Photo by Douglas Sandberg.
+    caption: William T. Wiley, *Tantrum Art La Grande*, 2001. Acrylic and mixed media on canvas, 96 x 60 inches.
+    credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2004.41.03. Photo by Douglas Sandberg.
   - id: "wiley5b"
     src: "figures/wiley/wiley5b.jpg"
-    caption: William T. Wiley, Punball Machine, 2008. Vintage pinball machine with artist illustrations, 70 x 22  x 52 inches.
+    caption: William T. Wiley, *Punball Machine*, 2008. Vintage pinball machine with artist illustrations, 70 x 22  x 52 inches.
     credit:  San José Museum of Art. Museum purchase with funds contributed by the Collection Committee, in honor of Peter Lipman, president, SJMA Board of Trustees 2007–2009, 2008.02. Photo by Douglas Sandberg.
   - id: "wiley3a"
     src: "figures/wiley/wiley3a.jpg"

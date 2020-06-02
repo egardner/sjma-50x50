@@ -32,7 +32,7 @@
                     <img src="/{{ $.Site.Params.imageDir }}/icons/{{ . }}.svg" alt="{{ . }}"> 
                     {{ end }}
                 </div>
-                {{ .Title }}
+                {{ .Title | markdownify }}
             </h6>
         </div>
     </figure>
