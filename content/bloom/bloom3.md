@@ -1,6 +1,7 @@
 ---
 label: Barbara Bloom
-title: *Shattered Parts*, from the series "Broken"
+title: >-
+  *Shattered Parts*, from the series "Broken"
 short_title:
 type: page
 weight: 293
