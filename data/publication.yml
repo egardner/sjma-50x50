@@ -176,4 +176,4 @@ repository_url:
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image:
+promo_image: "og.png"
