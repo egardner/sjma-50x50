@@ -11,17 +11,22 @@ This open-access publication is available for free online and in multiple format
 
 <br/>
 
-### 50X50 Project Advisors{.has-text-centered}
+### 50X50 Project Advisors
 
 Greg Albers, Digital Publications Manager, J. Paul Getty Trust
 Jill Sterrett, interim director, Smart Museum of Art, University of Chicago, and former assistant director for collections, San Francisco Museum of Modern Art
 Peter Samis, associate curator of interpretation, San Francisco Museum of Modern Art
 Maja Thomas, Chief Innovation Officer, Hachette Livre and Hachette Book Group USA
 
-### Citation Information{.has-text-centered}
 
-### Revision history{.has-text-centered}
+### Citation Information
+{{<q-citation-info>}}
 
-### Other format Links{.has-text-centered}
+### Revision history
+{{<q-revision-history>}}
 
-### Copyright{.has-text-centered}
+### Other formats
+{{<q-formats>}}
+
+### Copyright
+{{<q-copyright>}}
