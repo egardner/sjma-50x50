@@ -27,6 +27,7 @@ disableKinds:
 
 markup:
   goldmark:
+    typographer: true
     renderer:
       unsafe: true
 

@@ -20,6 +20,6 @@ There is a futuristic, otherworldly quality to much of Firelei Báez’s work, e
 
 {{<q-figure id="baez3b">}}
 
-[^1]: Firelei Báez, in “Art Talk: Firelei Báez in Conversation with María Elena Ortiz,” Pérez Art Museum, Miami, October 15, 2015 (posted November 12, 2015), video, 50:43 minutes, available at https://www.youtube.com/watch?v=-ko004S8Kv8.
+[^1]: Firelei Báez, in “Art Talk: Firelei Báez in Conversation with María Elena Ortiz,” Pérez Art Museum, Miami, October 15, 2015 (posted November 12, 2015), video, 50:43 minutes, available at [youtube.com/watch?v=-ko004S8Kv8.](https://www.youtube.com/watch?v=-ko004S8Kv8)
 
 [^2]: María Elena Ortiz, “A Future Yet to Be Unfolded,” in *Firelei Báez: Bloodlines*, ed. María Elena Ortiz (Miami: Pérez Art Museum, 2015), 17.

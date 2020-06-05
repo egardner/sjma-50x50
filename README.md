@@ -28,14 +28,14 @@ generating other formats for your publication.
 ### Manual setup
 
 Alternatively, you can clone this repository and begin using it directly. In
-that case you will probably want to "flatten" the starter kit and it's
+that case you will probably want to "flatten" the starter kit and it’s
 accompanying theme into a single repository so you can keep track of your work
 in your own Git repository. You only need to follow these steps if you *are not*
 using the `quire` command-line tool (it will take care of that for you).
 
 1. Clone the kit and its theme submodule: 
    `git clone --recursive https://github.com/gettypubs/quire-starter.git`
-2. Change into the kit directory and remove the submodule from the repo's tree: 
+2. Change into the kit directory and remove the submodule from the repo’s tree: 
    `git rm --cached themes/quire-starter-theme`
 3. Remove the `.gitmodules` file: `rm .gitmodules`
 4. Add the contents of the theme directory to the repo and commit them: 
