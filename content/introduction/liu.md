@@ -14,7 +14,7 @@ In fact, it looked better than it had in my studio. Called *A Tale of Two Women*
 
 But not the last.
 
-Since then, the museum has continued to collect my works, and now it maintains one of the largest collections in the nation. Of course, I am grateful. More than that, though, I am proud that such an institution has seen fit to collect my works in depth, since a museum is where an artist can see the full range of her practice. Paintings are produced in the studio as mostly a private matter. In a museum they come to life in relation to other art by other artists, and by engaging an increasingly diverse public audience. They find their place in the public imagination.
+Since then, the Museum has continued to collect my works, and now it maintains one of the largest collections in the nation. Of course, I am grateful. More than that, though, I am proud that such an institution has seen fit to collect my works in depth, since a museum is where an artist can see the full range of her practice. Paintings are produced in the studio as mostly a private matter. In a museum they come to life in relation to other art by other artists, and by engaging an increasingly diverse public audience. They find their place in the public imagination.
 
 They are home.
 
