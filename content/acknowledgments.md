@@ -3,8 +3,6 @@ label:
 title: Acknowledgments
 subtitle:
 weight: 703
-contributor:
-  - id: sayre
 ---
 
 We are very grateful to the generous donors, artists, and galleries who have gifted artwork to the San José Museum of Art (SJMA) over the last fifty years. The Board of Trustees, currently under the leadership of Co-Presidents Cheryl Kiddoo and Tad Freese, have been stalwart champions of SJMA’s ambitious exhibitions and acquisitions, along with the Acquisitions Committee, Council of 100, Docent Council, and many devoted donors. We especially acknowledge Trustee Peter Lipman and the Lipman Family Foundation, who established a dedicated endowment for acquisitions and provided visionary support for collections.

@@ -4,8 +4,6 @@ title: Foreword
 subtitle:
 weight: 3
 type: essay
-contributor:
-  - id: sayre
 ---
 
 Welcome to the digital present. We are glad you found us here. Maybe you are a longtime supporter of San José Museum of Art (SJMA). Or perhaps you are a scholar or student, a curious lover of art, or a Ruth Asawa devotee. What is certain is that you did not stumble upon this publication—which offers unique open access to SJMA’s permanent collection for the first time—in a bookstore or gift shop. However you discovered this catalog, we are glad you could join us.
