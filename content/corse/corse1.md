@@ -20,4 +20,4 @@ Mary Corse’s experiments in the phenomena of light and space emerged from her 
 
 [^2]: Mary Corse, in “Mary Corse,” interview by Julia Brown and Jacqueline Crist, in *Summer 1985* (Los Angeles: The Museum of Contemporary Art, 1985), n.p.
 
-[^3]: Mary Corse, in “Mary Corse Oral History,” interview with Rani Singh, Getty Research Institute, filmed in 2011 at Corse’s studio in Topanga Canyon, California, video, 1:02:12 hours, available at https://www.youtube.com/watch?v=gUzti\_LrFgg.
+[^3]: Mary Corse, in “Mary Corse Oral History,” interview with Rani Singh, Getty Research Institute, filmed in 2011 at Corse’s studio in Topanga Canyon, California, video, 1:02:12 hours, available at [youtube.com/watch?v=gUzti\_LrFgg](https://www.youtube.com/watch?v=gUzti\_LrFgg)
