@@ -19,4 +19,4 @@ In 1967 William T. Wiley sent an envelope of dust from his studio to mail artist
 ​
 [^1]: Joann Moser, “What’s It All Mean?” in *What’s It All Mean: William T. Wiley in Retrospect* (Berkeley: University of California Press; and Washington, DC: Smithsonian American Art Museum, 2009), 30.
 ​
-[^2]: Hilton Kramer, “Wiley of the West: ‘Dude Ranch Dada,’” *New York Times*, May 16, 1971, available at https://www.nytimes.com/1971/05/16/archives/wiley-of-the-west-dude-ranch-dada.html.
+[^2]: Hilton Kramer, “Wiley of the West: ‘Dude Ranch Dada,’” *New York Times*, May 16, 1971, available at [nytimes.com/1971/05/16/archives/wiley-of-the-west-dude-ranch-dada.html](https://www.nytimes.com/1971/05/16/archives/wiley-of-the-west-dude-ranch-dada.html)
