@@ -11,7 +11,7 @@ type: page
 
 <br/>
 
-<p>*Anamarie Alongi*, registrar <br>
+*Anamarie Alongi*, registrar <br>
 *Daniel Becker*, exhibitions preparator <br>
 *Lauren Dickens*, senior curator <br>
 *Jane Hyun*, copy editor <br>
@@ -21,4 +21,4 @@ type: page
 *Rory Padeken*, curator <br>
 *Karen Rapp*, assistant director, strategic initiatives <br>
 *Melanie Samay*, director of marketing and communications <br>
-*Holly Shen*, deputy director <p/>
+*Holly Shen*, deputy director 
