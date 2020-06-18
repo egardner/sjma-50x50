@@ -38,3 +38,6 @@ This publication is made possible in part by the Institute of Museum and Library
 Sponsored by the John S. and James L. Knight Foundation, the Lipman Family Foundation, the Richard A. Karp Charitable Foundation, Cheryl and Bruce Kiddoo, Yvonne and Mike Nevens, Peggy and Yogen Dalal, Evelyn and Rick Neely, Rita and Kent Norton, Elizabeth and Byron Ryono, Marge and Ken Nissly, Elaine Cardinale, George Crow in honor of Susan Crow, Toby and Barry Fernald, Tad Freese and Brook Hartzell, Elena Lebedeva and Alvin Smith, Marsha and Jon Witkin, and the SJMA Docent Council Alumni.  
 
 Programs at the San José Museum of Art are made possible by generous support from the Museum's Board of Trustees, a Cultural Affairs Grant from the City of San José, the Lipman Family Foundation, Yvonne and Mike Nevens, Facebook Art Department, the Richard A. Karp Charitable Foundation, The David and Lucile Packard Foundation, Adobe, Yellow Chair Foundation, the SJMA Director's Council and Council of 100, the San José Museum of Art Endowment Fund established by the John S. and James L. Knight Foundation at the Silicon Valley Community Foundation, and The William Randolph Hearst Foundation.
+
+<img src="/img/citysanjoselogo.jpg" width="200px" class="sjma-about-logo">
+<img src="/img/imlsogoblack.jpg" width="200px" class="sjma-about-logo">
