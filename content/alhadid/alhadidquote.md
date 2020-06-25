@@ -1,7 +1,7 @@
 ---
 title: Diana Al-Hadid
 subtitle: Syria/United States, b. 1981
-weight: 230
+weight: 200
 type: artist
 epub: false
 grid: type-c

@@ -340,18 +340,20 @@ figure_list:
     src: "figures/alhadid/alhadidbanner.jpg"
     caption: Diana Al-Hadid working on a plaster sculpture, ca. 2012.
     credit: © Rebecca Robertson.
-  - id:
-    src:
-    caption:
-    credit:
-  - id:
-    src:
-    caption:
-    credit:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "alhadid2a"
+    src: "figures/alhadid/alhadid2a.jpg"
+    media_id: 298615749
+    media_type: vimeo
+    caption: Excerpt from Diana Al-Hadid’s lecture “The Beginnings of an Idea,” part of Hyperallergic’s series “*The Lost Lectures*,” Brooklyn Navy Yard, New York, June 6, 2015.
+    credit: Courtesy of The Lost Lectures.
+  - id: "alhadid3a"
+    src: "figures/alhadid/alhadid3a.jpg"
+    caption: Diana Al-Hadid, *The Candle Clock in the Citadel*, 2017. Modified polymer gypsum, fiberglass, brass, copper, steel, concrete, polyurethane foam, plaster, metal leaf, and pigment, 117 x 90 x 71 inches.
+    credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2018.01.01. Photo by Object Studies. Courtesy of the artist and Marianne Boesky Gallery, New York and Aspen. © Diana Al-Hadid.
+  - id: "alhadid4a"
+    src: "figures/alhadid/alhadid4a.jpg"
+    caption: Diana Al-Hadid, *South East North West*, 2017. Polymer gypsum, fiberglass, steel, plaster, gold leaf, copper leaf, painter’s tape, and pigment, 130 x 168 x 5 inches.
+    credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2018.01.02. Photo by Object Studies. Courtesy of the artist and Marianne Boesky Gallery, New York and Aspen. © Diana Al-Hadid.
   - id:
     src:
     caption:
