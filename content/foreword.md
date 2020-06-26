@@ -17,3 +17,5 @@ The format of this publication—SJMA’s first devoted entirely to the permanen
 “Open scholarship”—an emerging framework of scholarly research and publishing that encompasses open access—is another critical element of digital publishing, which champions unrestricted access to knowledge, data, and resources and promotes the exchange of ideas. We are indebted to the generosity and vision of the Digital Publishing division at Getty Publications, in particular to Greg Albers and Kara Kirk for their invitation to execute this project with Quire, a new web-publishing platform that allows *50X50* to be optimized for discoverability, longevity, and flexibility in output format.
 
 We publish this catalog from prolonged and fraught physical isolation, as we shelter in place to fight the global Covid-19 pandemic. But we are not disconnected or alone. There has been no greater time to launch a digital publication—accessible to people all over the world and flexible enough to adapt to a rapidly changing artistic landscape.
+
+Susan Sayre Batton, Oshman Executive Director
