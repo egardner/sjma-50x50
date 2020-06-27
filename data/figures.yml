@@ -3,6 +3,7 @@ figure_list:
     src: figures/bloom/bloombannerimage.jpg
     caption: Portrait of Barbara Bloom.
     credit: Courtesy of the artist and David Lewis, New York.
+    alt: "woman standing in front of paintings in museum gallery"
   - id: "bloom3b"
     src: figures/bloom/bloom3b-espritdeescalier.jpg
     caption: >-
@@ -11,12 +12,14 @@ figure_list:
     credit: >-
       San José Museum of Art. Gift of Peter and Eileen Norton, 1991.01.
       Photo by Douglas Sandberg.
+    alt: "looking the tan archway are two other rooms the first having a lamp sitting in the center and the second room with a white table setting without chairs and a blue painting on the back wall"
   - id: "bloom4a"
     src: figures/bloom/bloom4a.jpg
     media_id: 284543777
     media_type: vimeo
     caption: Clip from Jo-ey Tang’s video *Borders of Fiction*, 2016.
     credit: Video courtesy of KADIST.
+    alt: ""
   - id: "bloom4b"
     src: figures/bloom/bloom4b-balanceno1purpleheadstackfromtheseriesbroken.jpg
     caption: >-
@@ -25,6 +28,7 @@ figure_list:
       inches.
     credit: >-
       Courtesy of the artist and David Lewis, New York.
+    alt: "a man in a suit balancing a tower of 10 teacups and saucers on his head in a frame with cracked glass"
   - id: "ourslerbannerimage"
     src: figures/oursler/ourslerbannerimage.jpg
     caption: >-
@@ -32,6 +36,7 @@ figure_list:
       Oursler, and John Miller,) Los Angeles, 1977.
     credit: >-
       Photo by Jim Shaw.
+    alt: "5 men with dramatic facial and physical poses"
   - id: "oursler3a"
     src: figures/oursler/oursler3a.jpg
     media_id: 293660704
@@ -39,22 +44,26 @@ figure_list:
     caption: >-
       *Tony Oursler: Video Projections*, number 59 in Paul Tschinkel’s video series "ART/New York," 2002.
     credit: Inner-Tude Video.
+    alt: ""
   - id: "oursler4a"
     src: figures/oursler/oursler4a-influencemachine7.jpg
     caption: >-
       Installation view of Tony Oursler, *The Influence Machine*, 2000. Video, multiple projections, sound, and smoke.
     credit: >-
       Commissioned and produced by Artangel. Photo by Dennis Crowley.
+    alt: "Two people watching the projection in a gallery of a blue ghostlike face against a darkend street as the background"
   - id: "oursler5a"
     src: figures/oursler/oursler5a-slip.jpg
     caption: Tony Oursler, *Slip*, 2003. Fiberglass sculpture, Sony VPL CS5 projector, DVD, DVD player, and speaker, 43 x 5 x 15 inches.
     credit: >-
       San José Museum of Art. Gift of the Lipman Family Foundation, in honor of the
       San José Museum of Art’s 35th anniversary, 2003.32. Photo by Douglas Sandberg.
+    alt: "backwards s shaped sculpture with two eyes and mouth distorted to the s shape by using projection"
   - id: "rathbannerimage"
     src: figures/rath/rathbannerimage.jpg
     caption: Alan Rath in his studio, Oakland, California. 
     credit: © Klaus Tilman, 2010.
+    alt: "Rath working on a piece in his studio"
   - id: "rath5a"
     src: figures/rath/rath5a-johnworleyjazz.png
     media_id: 294476061
@@ -62,19 +71,23 @@ figure_list:
     caption: >-
       Jazz musician John Worley improvising to Alan Rath’s kinetic sculpture *Absolutely* (2012),
     credit: San José Museum of Art, June 19, 2014. Courtesy of the San José Museum of Art.
+    alt: ""
   - id: "rath4a"
     src: figures/rath/rath4a-infoglut.jpg
     caption: Alan Rath, *Info Glut II*, 1997. Aluminum, acrylic, electronics, and three cathode-ray tubes, 50 x 50 x 18 inches.
     credit: >-
       San José Museum of Art. Museum purchase with funds contributed by Katie and Drew Gibson, 1997.12. Photo by Douglas Sandberg.
+    alt: "one monitor with a mouth and two monitors with hands to the bottom left and one to the top right"
   - id: "rath3a"
     src: figures/rath/rath3a-thumperV.jpg
     caption: Alan Rath, *Thumper V*, 1996. Aluminum, steel, plastic, and electronics on four speakers, 59  x 20  x 22 inches.
     credit: San José Museum of Art. Gift of Katie and Drew Gibson, 2014.05.04. Photo by Douglas Sandberg.
+    alt: "two speakers assembled in a wing shape with two telescoping arms that make for eyes"
   - id: "steinkampbannerimage"
     src: figures/steinkamp/steinkampbannerimage.jpg
     caption: Jennifer Steinkamp with *Bouquet 1*, 2013.
     credit: Photo by Jessica Hromas.
+    alt: "woman standing in a bouquet of orange red and pink flowers that wrap around her body with foliage in front of a black background"
   - id: "steinkamp3b"
     src: figures/steinkamp/steinkamp3b.jpg
     media_id: 362171352
@@ -83,23 +96,27 @@ figure_list:
     credit: >-
       San José Museum of Art. Gift of Linda Besemer, and the Museum’s Collection Committee, in honor of the San José Museum of Art’s 35th anniversary, 2004.12.
       Courtesy of the artist; Lehmann Maupin, New York, Hong Kong; and greengrassi, London.
+    alt: ""
   - id: "steinkamp4a"
     src: figures/steinkamp/steinkamp4a.jpg
     media_id: 260844161
     media_type: vimeo
     caption: Clip from Jennifer Steinkamp’s *Winter Fountains*, 2017. 
     credit: Video by Greenhouse Media, Philadephia.
+    alt: ""
   - id: "steinkamp5a"
     src: figures/steinkamp/steinkamp5a-onesawtheothersaw.jpg
     caption: Installation view of Jennifer Steinkamp, *One saw;the other saw*, 2001. Digital projection installation. 
     credit: >-
       Courtesy of Jennifer Steinkamp; Rice University, Houston, Texas; Lehmann
       Maupin, New York, Hong Kong; and greengrassi, London.
+    alt: "a red lit empty gallery behind a projected display of blue green red yellow and pink blocks of color"
   - id: "asawa1a"
     src: figures/asawa/asawa1a-asawaworking.jpg
     caption: >-
       Ruth Asawa works on a crocheted-wire sculpture in her living room, ca. 1976.
     credit: Photo by Allen Nomura.
+    alt: ""
   - id: "asawa2a"
     src: figures/asawa/asawa2a.jpg
     media_id: 411530047
@@ -107,6 +124,7 @@ figure_list:
     caption: >-
       Clip from Robert Snyder’s film *Ruth Asawa: Of Forms and Growth*, 1978.
     credit: © Masters & Masterworks Productions, Inc.
+    alt: ""
   - id: "asawa3a"
     src: figures/asawa/asawa3a-untitled035.jpg
     caption: >-
@@ -117,6 +135,7 @@ figure_list:
       San José Museum of Art. Gift of the artist in honor of
       the San José Museum of Art’s 35th anniversary, 2003.28.03. Photograph by Johnna
       Arnold.
+    alt: ""
   - id: "asawa3b"
     src: figures/asawa/asawa3b-untitled035detail.jpg
     caption: >-
@@ -124,6 +143,7 @@ figure_list:
       Continuous Form within a Form with Spheres in the Second, Fifth, and Sixth
       Lobes)*, ca. 1962.
     credit:
+    alt: ""
   - id: "asawa5d"
     src: figures/asawa/asawa5d-internmentmemorial.jpg
     caption: >-
@@ -131,6 +151,7 @@ figure_list:
       San José, California, March 5, 1994. Ruth Asawa Papers, M1585: Box X, Folder Y. Courtesy of the Department of Special Collections, Stanford Libraries.
     credit: >-
       Artwork © Estate of Ruth Asawa. Photo by Fay Royal Baxter.
+    alt: "Asawa and large crowd gathered awround sculpture wall"
   - id: "hawkinson3a"
     src: figures/hawkinson/hawkinson3a.jpg
     media_id: 303177095
@@ -138,18 +159,22 @@ figure_list:
     caption: Installation of Tim Hawkinson’s *Überorgan* (2000) at the Getty Museum, Los Angeles, 2007.
     credit: >-
       Video produced by the J. Paul Getty Museum. Andrea Nasher Collection.
+    alt: ""
   - id: "hawkinson4a"
     src: figures/hawkinson/hawkinson4a-scout.jpg
     caption: Tim Hawkinson, *Scout*, 2006–07. Cardboard, box strapping, and urethane foam, 69 1/2 x 103 x 68 inches.
     credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2013.12.
+    alt: "large humaan figure with no head and exxagerated hands and feet"
   - id: "hawkinson5d"
     src: figures/hawkinson/hawkinson5d-emoterdetail.jpg
     caption: Detail of Tim Hawkinson, *Emoter*, 2000. Mixed-media installation.
     credit: Courtesy of Ace Gallery, Los Angeles.
+    alt: "mechanisms like pulleys and tubes altering the face they lay on top of"
   - id: "hawkinsonbanner"
     src: "figures/hawkinson/hawkinsonbanner.jpg"
     caption: Portrait of Tim Hawkinson, 2005.
     credit: Photo by Frank Jackson.
+    alt: "portrait of man with glasses in a bricked room with bright windows"
   - id: "thater3a"
     src: figures/thater/thater3a-untitledbutterflyvideowall.jpg
     caption: >-
@@ -158,11 +183,13 @@ figure_list:
       San José Museum of Art. Museum purchase with funds provided by the
       Acquisitions Committee with additional funds provided by the Lipman
       Family Foundation, 2016.05.
+    alt: "installation of five tv monitors and 2 neon orange lights laid in a circle formation on floor with cords and outlets exposed"
   - id: "thater4d"
     src: figures/thater/thater4d-lacma.jpg
     caption: >-
       Installation view of Diana Thater’s *Delphine* (1999) in *Diana Thater: The Sympathetic Imagination*, Los Angeles County Museum of Art, 2015.
     credit: Diana Thater Studio/1301PE Gallery.
+    alt: "red illuminated room with four projections on the walls and floor in open space gallery"
   - id: "thater5a"
     src: figures/thater/thater5a.jpg
     media_id: 303544096
@@ -170,14 +197,17 @@ figure_list:
     caption: >-
       Clip from Diana Thater’s "Creative Minds" artist talk on the occasion of the exhibition *Beta Space: Diana Thater*, San José Museum of Art, April 23, 2015.
     credit: San José Museum of Art.
+    alt: ""
   - id: "thaterbannerimage"
     src: figures/thater/thaterbannerimage.jpg
     caption: Diana Thater with Sudan the Rhino, Ol Pejeta Conservancy, Kenya, 2016.
     credit: Diana Thater Studio. Photo by T. Kelly Mason.
+    alt: "rhino in the foreground to the left and person squating while taking a picture in the background to the right"
   - id: "baezbanner"
     src: figures/baez/baezbanner.png
     caption: Firelei Báez at her studio in Long Island City, New York, ca. 2017.
     credit: © antoinebootz. Photo courtesy of *Galerie Magazine*.
+    alt: "artist standing to the right of an artwork"
   - id: "baez2a"
     src: figures/baez/baez2a.jpg
     media_id: qfcV7OH6Wy8
@@ -187,12 +217,14 @@ figure_list:
       Museum, Pittsburgh, posted April 14, 2017, video, 5:18 minutes,
       available at https://www.youtube.com/watch?v=qfcV7OH6Wy8.
     credit: Courtesy of the Pérez Art Museum Miami.
+    alt: ""
   - id: "baez3a"
     src: figures/baez/baez3a.jpg
     caption: >-
       Firelei Báez, *To see beyond it and to access the places that we know
       outside its walls*, 2015. Gouache and ink on paper, 84 1/2 x 50 inches.
     credit: San José Museum of Art. Museum purchase with funds provided by Tad and Jackson Freese, 2016.04.
+    alt: "painting of a person using dillution to make orange and pink colors overlap under strong areas of color blocking"
   - id: "baez3b"
     src: figures/baez/baez3b.jpg
     media_id: 405553196
@@ -201,184 +233,246 @@ figure_list:
       “Firelei Báez,” James Cohan Gallery, New York, posted April 8, 2020,
       video, 4:28 minutes, available at https://vimeo.com/405553196.
     credit: Courtesy of the artist and James Cohan, New York.
+    alt: ""
   - id: "baez4a"
     src: figures/baez/baez4a.jpg
     caption: Firelei Báez, *DREAMer (a demand for opacity that weaves no boundaries)*, 2017. Acrylic and oil on canvas, 105 × 249 inches.
     credit: Bill and Christy Gautreaux Collection, Kansas City, Missouri. Courtesy of the artist and James Cohan, New York.
+    alt: "painting mounted in a large room at a distance to show the large scale work"
   - id: "corsebanner"
     src: figures/corse/corsebanner.jpg
     caption: Mary Corse in her Topanga Canyon studio, ca. 2018.
     credit: Photo courtesy of João Canziani.
+    alt: "Woman sitting on stool in a painting studio in front of large blank canvases"
   - id: "corse4a"
     src: figures/corse/corse4a.jpg
     caption: Mary Corse, *Grey Light Painting*, 1988. Glass microspheres in paint on canvas, 72 x 72 inches.
     credit: San José Museum of Art. Gift of Katherine and James Gentry, 1998.23.03. Photo by Douglas Sandberg.
+    alt: "painted grey squares in a grid composition with diagonal painting strokes"
   - id: "corse3a"
     src: figures/corse/corse3a.jpg
     media_id: 280843373
     media_type: vimeo
     caption: Clip from Andy Eason’s *White Light* video of Mary Corse in her studio, 1969.
     credit: Copyright Mary Corse. Courtesy of the artist and Kayne Griffin Corcoran.
+    alt: ""
   - id: "corse2a"
     src: figures/corse/corse2a.jpg
     caption: Mary Corse in her downtown Los Angeles studio, 1966. Copyright Mary Corse.
     credit: Courtesy of the artist and Kayne Griffin Corcoran.
+    alt: "Mary standing over a large canvas on a rolling transport cart"
   - id: "defeobanner"
     src: figures/defeo/defeobanner.jpeg
     caption: Jay DeFeo working on *Deathrose*, ca. 1958.
     credit: Photo by Jerry Burchard © Estate of Jerry Burchard. Used with permission.
+    alt: "defeo working on a 10 foot panel of work in her studio"
   - id: "defeo1a"
     src: figures/defeo/defeo1a.png
     caption: Portrait of Jay DeFeo, 1976.
     credit: Photo by Mimi Jacobs. Courtesy of the artist’s estate.
+    alt: ""
   - id: "defeo3b"
     src: figures/defeo/defeo3b.png
     caption: Audio clip from oral history interview of Jay DeFeo by Paul Karlstrom for the Archives of American Art, Smithsonian Institution, June 3, 1975–January 23, 1976.
     credit:  Archives of American Art, Smithsonian Institution.
+    alt: ""
   - id: "defeo4a"
     src: figures/defeo/defeo4a.jpg
     caption: Jay DeFeo, *Untitled*, from the series “Shoe Tree,” 1977. Gouache and ink on paper, 39 3/4 x 30 1/4 inches.
     credit: San José Museum of Art. Gift of Dixon and Barbara Farley, 2014.09.08.
+    alt: "painting of a shoe horn with lines showing exagerated lines in black"
   - id: "defeo5a"
     src: figures/defeo/defeo5a.jpg
     caption: Jay DeFeo, *Untitled* ,1971. Gelatin silver print, 4 7/8 x 4 3/4 inches.
     credit: San José Museum of Art. Gift of The Jay DeFeo Foundation in honor of the Museum’s 50th anniversary, 2019.07.
+    alt: "cauliflower in a silver vase is refelcted off mirrors placed behind to the left and right at angles towards the viewer"
   - id: "defeo5b"
     src: figures/defeo/defeo5b.jpg
     caption: "Installation view of *Undersoul: Jay DeFeo*, San José Museum of Art, March 8–July 7, 2019."
     credit: Photo by Phil Bond.
+    alt: "gallery view 5 artworks in the exhibition"
   - id: "hallbanner"
     src: figures/hall/hallbanner.png
     caption: Doug Hall and Jody Procter of the media art collective T. R. Uthco performing *Walking Mission Street* (1972) in San Francisco.
     credit: Photo by Diane Andrews Hall. Courtesy of T. R. Uthco.
+    alt: "two men painted white wearing white clothing on the medium of a busy street"
   - id: "hall1a"
     src: figures/hall/hall1a.jpg
     caption: Doug Hall in character for *Portrait of Artist-President* (1975), a performance by Hall and Jody Procter of the media art collective T. R. Uthco.
     credit: Courtesy of T. R. Uthco and Ant Farm.
+    alt: ""
   - id: "hall5a"
     src: figures/hall/hall5a.jpeg
     caption: Installation view of Doug Hall’s video *Chrysopylae* (2012) in the exhibition *International Orange* by FOR-SITE Foundation, Fort Point, San Francisco, 2012.
     credit: Photo by Ben Blackwell. Courtesy of FOR-SITE Foundation.
+    alt: "a two screen projected image of the Golden Gate Bridge"
   - id: "hall5b"
     src: figures/hall/hall5b.jpg
     media_id: 287335065
     media_type: vimeo
     caption: Clip from Doug Hall, *Chrysopylae*, 2012. Two-channel video installation with sound.
     credit: San José Museum of Art. Gift in part of the Lipman Family Foundation with additional funds contributed by the Acquisitions Committee, 2012.09. Courtesy of Doug Hall.
+    alt: ""
   - id: "mullicanbanner"
     src: figures/mullican/mullicanbanner.jpg
     caption: Lee Mullican in his studio, Venice, California, ca. 1966–67.
     credit: Photo courtesy of the Estate of Lee Mullican.
+    alt: "man sitting in the bottom right of a view into his studio of large canvases"
   - id: "mullican2b"
     src: figures/mullican/mullican2b.jpg
     caption: Installation view of *Dynaton*, San Francisco Museum of Modern Art, 1951.
     credit: Photo courtesy of the Estate of Lee Mullican.
+    alt: "veiw of gallery with arched skylight and a mix of sculptures and paintings"
   - id: "mullican4a"
     src: figures/mullican/mullican4a.jpg
     caption: Lee Mullican, *Nightshade*, 1958. Oil on canvas, 40 x 50 inches.
     credit: San José Museum of Art. Gift of Gertrud and Harold Parker with additional funds contributed by Tom and Polly Bredt, 2006.25.01. Photograph by Douglas Sandberg.
+    alt: "abstracted painting using warm red and orange colors and dark brown for contrast"
   - id: "mullican3a"
     src: figures/mullican/mullican3a.png
     media_id: 264702663
     media_type: vimeo
     caption: Lee Mullican at his studio in Venice, California, ca. 1950.
     credit: Courtesy of Betsy Drake and the Estate of Lee Mullican. Filmed by Betsy Drake.
+    alt: ""
   - id: "steyerlbanner"
     src: figures/steyerl/steyerlbanner.jpg
     caption: >-
       Still from Hito Steyerl, *How Not to Be Seen: A Fucking Didactic Educational .MOV File*, 2013. Video, 15:53 minutes.
     credit: Image courtesy of the artist; Andrew Kreps Gallery, New York; and Esther Schipper, Berlin.
+    alt: ""
   - id: "steyerl3a"
     src: figures/steyerl/steyerl3a.jpg
     media_id: 301115015
     media_type: vimeo
     caption: Hito Steyerl lecturing at “The Photographic Universe II” conference, The New School, New York, April 2013.
     credit: Courtesy of The New School.
+    alt: ""
   - id: "steyerl4a"
     src: figures/steyerl/steyerl4a.jpg
     caption: Installation view of Hito Steyerl, *Factory of the Sun*, 2015. Single-channel video and environment. San José Museum of Art. Purchased jointly by Museum of Contemporary Art, Chicago; San José Museum of Art; and Hammer Museum, Los Angeles, through the Board of Overseers Acquisitions Fund, 2017.08.
     credit: Courtesy of the artist and Andrew Kreps Gallery, New York. Photography by Manuel Reinhartz.
+    alt: "projection screen in a gallery with chairs for viewers in a darkened room with blue illumination"
   - id: "steyerl5a"
     src: figures/steyerl/steyerl5a.jpg
     caption: "Installation view of Hito Steyerl’s *City of Broken Windows* (2019) in *Uncanny Valley: Being Human in the Age of AI,* de Young Museum, San Francisco, 2020."
     credit: Photo by Kathryn Wade.
+    alt: "tv monitor with video displayed on easel in a gallery of works"
   - id: "villarealbanner"
     src: "figures/villareal/villarealbanner.jpg"
     caption: Leo Villareal programming *The Bay Lights*, 2013.
     credit: Photograph by Lucas Saugen.
+    alt: "Leo to the left with bridge illuminated at night in the background"
   - id: "villareal2a"
     src: "figures/villareal/villareal2a.jpg"
     caption: "*Interview with Leo Villareal*, created on the occasion of his solo exhibition at the San José Museum of Art, 2010."
     credit: Video by Tisha Carper Long.
+    alt: "rv bus wrapped in loose silver sheeting with five bicycles parked around the side of the van and background"
   - id: "villareal4a"
     src: "figures/villareal/villareal4a.jpg"
     caption: Leo Villareal, *Untitled (for San José)*, 2012. LED lights, custom software, and electrical hardware, 32 x 68 x 6 inches.
     credit: San José Museum of Art. Commissioned and purchased with funds contributed by the Acquisitions Committee, 2012.06.
+    alt: "lightbox with lanscape orientation and color gradation with light purple on top dark purple in the middle and orange at the bottom"
   - id: "villareal5a"
     src: figures/villareal/villareal5a.jpg
     media_id: 411602946
     media_type: vimeo
     caption: Leo Villareal, *The Bay Lights*, 2013. Video by James Ewing.
     credit: Courtesy of Leo Villareal.
+    alt: "ground level angle of bridge over water illuminated by lights at night"
   - id: "wileybanner"
     src: "figures/wiley/wileybanner.png"
     caption: William T. Wiley installing *Keel Over* at the Madison Art Center, Wisconsin, in 1970.
     credit: Courtesy of the Madison Museum of Contemporary Art.
+    alt: "person sketching while using a straightedge tool on a work"
   - id: "wiley2a"
     src: "figures/wiley/wiley2a.jpg"
     caption: William T. Wiley, *Tantrum Art La Grande*, 2001. Acrylic and mixed media on canvas, 96 x 60 inches.
     credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2004.41.03. Photo by Douglas Sandberg.
+    alt: "layered designs and sketches of animals and meditative positions in a collage format with text"
   - id: "wiley5b"
     src: "figures/wiley/wiley5b.jpg"
     caption: William T. Wiley, *Punball Machine*, 2008. Vintage pinball machine with artist illustrations, 70 x 22 x 52 inches.
     credit:  San José Museum of Art. Museum purchase with funds contributed by the Collection Committee, in honor of Peter Lipman, president, SJMA Board of Trustees 2007–2009, 2008.02. Photo by Douglas Sandberg.
+    alt: ""
   - id: "wiley3a"
     src: "figures/wiley/wiley3a.jpg"
     caption: William T. Wiley, *Gineric D.B.L. (Part A)*, 1989. Acrylic and pencil on canvas, 100 x 156 inches.
     credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2004.41.03.
+    alt: "an abstract painting fields of color in collaged swirls with fields of white with pencil and acrylic ovrelapping"
   - id: "alhadidbanner"
     src: "figures/alhadid/alhadidbanner.jpg"
     caption: Diana Al-Hadid working on a plaster sculpture, ca. 2012.
     credit: © Rebecca Robertson.
+    alt:
   - id: "alhadid2a"
     src: "figures/alhadid/alhadid2a.jpg"
     media_id: 298615749
     media_type: vimeo
     caption: Excerpt from Diana Al-Hadid’s lecture “The Beginnings of an Idea,” part of Hyperallergic’s series “*The Lost Lectures*,” Brooklyn Navy Yard, New York, June 6, 2015.
     credit: Courtesy of The Lost Lectures.
+    alt:
   - id: "alhadid3a"
     src: "figures/alhadid/alhadid3a.jpg"
     caption: Diana Al-Hadid, *The Candle Clock in the Citadel*, 2017. Modified polymer gypsum, fiberglass, brass, copper, steel, concrete, polyurethane foam, plaster, metal leaf, and pigment, 117 x 90 x 71 inches.
     credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2018.01.01. Photo by Object Studies. Courtesy of the artist and Marianne Boesky Gallery, New York and Aspen. © Diana Al-Hadid.
+    alt:
   - id: "alhadid4a"
     src: "figures/alhadid/alhadid4a.jpg"
     caption: Diana Al-Hadid, *South East North West*, 2017. Polymer gypsum, fiberglass, steel, plaster, gold leaf, copper leaf, painter’s tape, and pigment, 130 x 168 x 5 inches.
     credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2018.01.02. Photo by Object Studies. Courtesy of the artist and Marianne Boesky Gallery, New York and Aspen. © Diana Al-Hadid.
+    alt:
+  - id: "andrewsbanner"
+    src: "figures/andrews/andrewsbanner.jpg"
+    caption: Benny Andrews (center), with brother Raymond Andrews (left) and James Baldwin (right), celebrating the awarding of the first James Baldwin Prize for Fiction to Raymond’s *Appalachee Red* (1977), Dial Press headquarters, New York, 1979.
+    credit:
+    alt:
+  - id: "andrews2a"
+    src: "figures/andrews/andrews2a.jpg"
+    caption: Benny Andrews, *Shadows of the Land*, 1966. Oil and collage on canvas, 59 1/2 x 50 1/2 inches.
+    credit: San José Museum of Art. Gift of the Benny Andrews Estate, 2010.18. Photograph by Douglas Sandberg.
+    alt:
+  - id: "andrews2b"
+    src: "figures/andrews/andrews2b.jpg"
+    caption: Excerpt from *An Interview with Benny Andrews*, 2003.
+    media_id: 265786081
+    media_type: vimeo
+    credit: Video by Stanley J. Staniski. Courtesy Stanley J. Staniski/Staniski Media.
+    alt:
+  - id: "andrews3a"
+    src: "figures/andrews/andrews3a.jpg"
+    media_id: 265792734
+    media_type: vimeo
+    caption: Excerpt from *An Interview with Benny Andrews*, 2003.
+    credit: Video by Stanley J. Staniski. Courtesy Stanley J. Staniski/Staniski Media.
+    alt:
   - id:
     src:
     caption:
     credit:
+    alt:
   - id:
     src:
     caption:
     credit:
+    alt:
   - id:
     src:
     caption:
     credit:
+    alt:
   - id:
     src:
     caption:
     credit:
+    alt:
   - id:
     src:
     caption:
     credit:
+    alt:
   - id:
     src:
     caption:
     credit:
-  - id:
-    src:
-    caption:
-    credit:
+    alt:
