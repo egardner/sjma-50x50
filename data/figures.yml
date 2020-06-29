@@ -468,6 +468,48 @@ figure_list:
     caption: Ruth Bernhard interviewed by Bettina Gray, “Photographer Ruth Bernhard on Seeing Beyond the Usual,” 1991–92, *Creative Mind series*, KQED, San Francisco.
     credit: Video by Lonnie Porro.
     alt:
+  - id: "bischoffbanner"
+    src: "figures/bischoff/bischoffbanner.jpg"
+    caption: Studio 13 Jazz Band plays at the California School of Fine Arts, San Francisco, ca. 1951–52, with Jon Schueler (bass), David Park (piano), Elmer Bischoff (trumpet), and Jack Lowe (drums).
+    credit: Photo by Frederick W. Quandt, Jr. Courtesy of Jean C. Tickle; Eva Rivlin, George Adams Gallery.
+    alt:
+  - id: "bischoff2a"
+    src: "figures/bischoff/bischoff2a.jpg"
+    caption: Elmer Bischoff in studio class at the California School of Fine Arts, San Francisco, ca. 1958.
+    credit: Photo by William Heick. Courtesy of the Anne Bremer Memorial Library, San Francisco Art Institute Archives.
+    alt:
+  - id: "bischoff3a"
+    src: "figures/bischoff/bischoff3a.jpg"
+    caption: Elmer Bischoff, *Two Women in Vermillion Light*, 1959. Oil on canvas, 67 1/2 x 67 1/2 inches.
+    credit: San José Museum of Art. Gift of Ann-Marie and Averill Mix, in honor of the San José Museum of Art’s 35th anniversary, 2003.37.
+    alt:
+  - id: "bischoff5a"
+    src: "figures/bischoff/bischoff5a.jpg"
+    media_id: 95426121
+    media_type: vimeo
+    caption: Clip of Elmer Bischoff speaking in *The Berkeley Artists Breakfast Club, 1990.*
+    credit: Video by Guillermo Pulido.
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
   - id:
     src:
     caption:

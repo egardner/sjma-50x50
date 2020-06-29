@@ -1,10 +1,18 @@
-![](media/image1.png){width="1.6527766841644795in" height="1.427399387576553in"}
-
-\[BISCHOFF-2A\]
-
-Elmer Bischoff in studio class at the California School of Fine Arts, San Francisco, ca. 1958. Photo by William Heick. Courtesy of the Anne Bremer Memorial Library, San Francisco Art Institute Archives.
-
-**A Figurative Turn**
+---
+label: Elmer Bischoff
+title: A Figurative Turn
+short_title:
+type: page
+weight: 282
+menu: false
+toc: false
+class: artist-page
+object:
+  - id: "bischoff2a"
+media:
+  - "zoom"
+---
+{{<q-figure id="bischoff2a">}}
 
 In 1952 Elmer Bischoff introduced figures into his paintings, becoming legendary among fellow painters for his defection from Abstract Expressionism, along with artist David Park, who shocked the local art community in 1951 when he won a prize for a small figurative painting he submitted to a juried exhibition.[^1] Although the style peaked in New York in the early 1950s, as it came to be considered a national movement San Francisco abstract expressionists were becoming disillusioned. For Bischoff, whose work had never bowed to trends,[^2] the popularity of Abstract Expressionism culminated in stylistic rigidity and a loss of its original spirit. “As a veteran who had witnessed the hollowness of packaged ideologies first-hand, Bischoff was especially wary of mock-heroics . . . and turned to figuration in part to instill a comparative modesty in his work,” wrote San José Museum of Art curator Susan Landauer.[^3] For Bischoff, the figure was “humble” and “accessible,”[^4] an external subject that he responded to “as opposed to inventing a brand new language.”[^5]
 
