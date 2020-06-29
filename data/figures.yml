@@ -446,25 +446,27 @@ figure_list:
     caption: Excerpt from *An Interview with Benny Andrews*, 2003.
     credit: Video by Stanley J. Staniski. Courtesy Stanley J. Staniski/Staniski Media.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "bernhardbanner"
+    src: "figures/bernhard/bernhardbanner.jpg"
+    caption: Ruth Bernhard at the Chicago venue of Margaretta K. Mitchell’s traveling exhibition *Recollections: Ten Women of Photography*, 1981.
+    credit: Photo by Sophie Vogt. Courtesy of Jeff Wassmann.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "bernhard2a"
+    src: "figures/bernhard/bernhard2a.jpg"
+    caption: Ruth Bernhard, *Lifesavers*, 1930. Gelatin silver print on paper, 7 1/4 x 9 1/4 inches. San José Museum of Art. Gift of David Devine, San Francisco, 1982.45.
+    credit: Photo by Douglas Sandberg.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "bernhard4a"
+    src: "figures/bernhard/bernhard4a.jpg"
+    caption: Ruth Bernhard, *In the Box, Horizontal*, 1962 (printed 1992). Gelatin silver print on paper, 18 x 24 inches.
+    credit: San José Museum of Art. Gift from the Estate of Ruth Bernhard, 2007.25. Photo by Douglas Sandberg.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "bernhard5a"
+    src: "figures/bernhard/bernhard5a.jpg"
+    media_id: 264345141
+    media_type: vimeo
+    caption: Ruth Bernhard interviewed by Bettina Gray, “Photographer Ruth Bernhard on Seeing Beyond the Usual,” 1991–92, *Creative Mind series*, KQED, San Francisco.
+    credit: Video by Lonnie Porro.
     alt:
   - id:
     src:
