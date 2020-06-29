@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "bischoff5a"
 media:
-  - "zoom"
+  - "video"
 ---
 {{<q-figure id="bischoff5a">}}
 
