@@ -379,7 +379,7 @@ figure_list:
     media_type: vimeo
     caption: Leo Villareal, *The Bay Lights*, 2013. Video by James Ewing.
     credit: Courtesy of Leo Villareal.
-    alt: "ground level angle of bridge over water illuminated by lights at night"
+    alt: ""
   - id: "wileybanner"
     src: "figures/wiley/wileybanner.png"
     caption: William T. Wiley installing *Keel Over* at the Madison Art Center, Wisconsin, in 1970.
@@ -411,7 +411,7 @@ figure_list:
     media_type: vimeo
     caption: Excerpt from Diana Al-Hadid’s lecture “The Beginnings of an Idea,” part of Hyperallergic’s series “*The Lost Lectures*,” Brooklyn Navy Yard, New York, June 6, 2015.
     credit: Courtesy of The Lost Lectures.
-    alt:
+    alt: ""
   - id: "alhadid3a"
     src: "figures/alhadid/alhadid3a.jpg"
     caption: Diana Al-Hadid, *The Candle Clock in the Citadel*, 2017. Modified polymer gypsum, fiberglass, brass, copper, steel, concrete, polyurethane foam, plaster, metal leaf, and pigment, 117 x 90 x 71 inches.
@@ -438,14 +438,14 @@ figure_list:
     media_id: 265786081
     media_type: vimeo
     credit: Video by Stanley J. Staniski. Courtesy Stanley J. Staniski/Staniski Media.
-    alt:
+    alt: ""
   - id: "andrews3a"
     src: "figures/andrews/andrews3a.jpg"
     media_id: 265792734
     media_type: vimeo
     caption: Excerpt from *An Interview with Benny Andrews*, 2003.
     credit: Video by Stanley J. Staniski. Courtesy Stanley J. Staniski/Staniski Media.
-    alt:
+    alt: ""
   - id: "bernhardbanner"
     src: "figures/bernhard/bernhardbanner.jpg"
     caption: Ruth Bernhard at the Chicago venue of Margaretta K. Mitchell’s traveling exhibition *Recollections: Ten Women of Photography*, 1981.
@@ -467,7 +467,7 @@ figure_list:
     media_type: vimeo
     caption: Ruth Bernhard interviewed by Bettina Gray, “Photographer Ruth Bernhard on Seeing Beyond the Usual,” 1991–92, *Creative Mind series*, KQED, San Francisco.
     credit: Video by Lonnie Porro.
-    alt:
+    alt: ""
   - id: "bischoffbanner"
     src: "figures/bischoff/bischoffbanner.jpg"
     caption: Studio 13 Jazz Band plays at the California School of Fine Arts, San Francisco, ca. 1951–52, with Jon Schueler (bass), David Park (piano), Elmer Bischoff (trumpet), and Jack Lowe (drums).
@@ -489,7 +489,7 @@ figure_list:
     media_type: vimeo
     caption: Clip of Elmer Bischoff speaking in *The Berkeley Artists Breakfast Club, 1990.*
     credit: Video by Guillermo Pulido.
-    alt:
+    alt: ""
   - id: "brownbanner"
     src: "figures/brown/brownbanner.jpg"
     caption: Joan Brown (left) and Karen Folger Jacobs, New Year’s Day Alcatraz Swim, San Francisco, 1978.
@@ -511,6 +511,53 @@ figure_list:
     media_type: vimeo
     caption: Video of curator Jodi Throckmorton discussing Joan Brown on the occasion of the exhibition *This Kind of Bird Flies Backward: Paintings by Joan Brown* at the San José Museum of Art, October 14, 2011–March 11, 2012.
     credit: Video by San José Museum of Art.
+    alt: ""
+  - id:: "chagoyabanner"
+    src: "figures/chagoya/chagoyabanner.jpg"
+    caption: Enrique Chagoya in front of *Their Freedom of Expression . . . The Recovery of Their Economy*, 1984.
+    credit:
+    alt:
+  - id: "chagoya2a"
+    src: "figures/chagoya/chagoya2a.jpg"
+    caption: Enrique Chagoya, *Hand of Power (Mano Poderosa)*, 1992. Oil on steel, 60 1/4 x 48 1/4 x 3 5/8 in.
+    credit: San José Museum of Art. Gift of J. Michael Bewley, 2015.07.05. Photo by Douglas Sandberg.
+    alt:
+  - id: "chagoya3a"
+    src: "figures/chagoya/chagoya3a.jpg"
+    caption: Enrique Chagoya, *The Labyrinth of Liberty*, 2004. Acrylic and water-based oil on amate, 13 x 118 x 4 in.
+    credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2004.41.01. Photo by Douglas Sandberg.
+    alt:
+  - id: "chagoya4a"
+    src: "figures/chagoya/chagoya4a.jpg"
+    media_id: 433830368
+    media_type: vimeo
+    caption: “Enrique Chagoya” (2007), Mergatroid Films, posted March 18, 2010, video, 7:23 minutes.
+    credit: Courtesy Matt Bertles, Mergatroid Films.
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
     alt:
   - id:
     src:
