@@ -534,20 +534,20 @@ figure_list:
     caption: “Enrique Chagoya” (2007), Mergatroid Films, posted March 18, 2010, video, 7:23 minutes.
     credit: Courtesy Matt Bertles, Mergatroid Films.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "colescottbanner"
+    src: "figures/colescott/colescottbanner.jpg"
+    caption: Robert Colescott with his painting *Ode to Joy (European Anthem) (1997)*, 1997. Los Angeles Times.
+    credit: Los Angeles Times.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "colescott4a"
+    src: "figures/colescott/colescott4a.jpg"
+    caption: Exhibition postcard for *Robert Colescott: A Retrospective, 1975–1986*, 1987.
+    credit: San José Museum of Art.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "colescott5a"
+    src: "figures/colescott/colescott5a.jpg"
+    caption: Carrie Mae Weems, *Framed by Modernism*, 1996. Gelatin silver print, silkscreened mat, triptych, each: 31 1/8 x 31 1/8 inches.
+    credit: © Carrie Mae Weems. Courtesy of the artist and Jack Shainman Gallery, New York.
     alt:
   - id:
     src:
