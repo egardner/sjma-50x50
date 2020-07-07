@@ -592,7 +592,7 @@ figure_list:
     media_type: vimeo
     caption: Clip of Dinh Q. Lê installing *Crossing the Farther Shore* (2014) at Rice University Art Gallery, Houston, 2014.
     credit: Video by Walley Films and commissioned by Rice University Art Gallery, Houston, Texas.
-    alt:
+    alt: ""
   - id: "le2a"
     src: "figures/le/le2a.jpg"
     caption: Dinh Q. Lê, *Untitled (Man Carrying Person)*, 2003. Chromogenic print and linen tape, 38 x 72 inches.
@@ -602,6 +602,40 @@ figure_list:
     src: "figures/le/le3a.jpg"
     caption: Installation image of *Dinh Q. Lê: True Journey Is Return* at the San José Museum of Art, 2018.
     credit: Photo by Benjamin Blackwell.
+    alt:
+  - id: "liubanner"
+    src: "figures/liu/liubanner.jpg"
+    caption: Hung Liu was in high school when Mao Zedong launched China’s Cultural Revolution in 1966, and she heeded his order for ‘intellectual’ urban youth to resettle in the countryside to be ‘re-educated’ amongst peasants and farmers. For four years in the late 1960s and early 1970s, Liu worked year-round in the fields planting corn, wheat, paddy rice, and vegetables. She recalls the wheat harvest as the hardest time of year, walking in pitch darkness and racing to pull the grain by hand before day broke and the sun beat down.
+    credit: Courtesy of the artist’s photo archive
+    alt:
+  - id: "liu2b"
+    src: "figures/liu/liu2b.jpg"
+    media_id: 268437170
+    media_type: vimeo
+    caption: Time-lapse video of the making of Hung Liu’s *Silver River* at the San José Museum of Art, June 3–5, 2013.
+    credit: Video by San José Museum of Art.
+    alt: ""
+  - id: "liu3b"
+    src: "figures/liu/liu3b.jpg"
+    media_id: 268033427
+    media_type: vimeo
+    caption: Hung Liu’s *Four Cantos* performed at the San José Museum of Art, June 20, 2013, as part of the exhibition *Questions from the Sky: New Work by Hung Liu*.
+    credit: Video by KMVT 15, Silicon Valley Community Media.
+    alt:
+  - id: "liu5a"
+    src: "figures/liu/liu5a.jpg"
+    caption: Hung Liu, *Shoah*, 2006. Archival digital pigment print and hand painting cast in resin on silk and board, 60 x 120 x 2 in.
+    credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2006.19.01–.05.
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
     alt:
   - id:
     src:

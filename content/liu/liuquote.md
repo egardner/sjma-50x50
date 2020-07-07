@@ -1,7 +1,7 @@
 ---
 title: Hung Liu
 subtitle: China/United States, born 1948
-weight: 320
+weight: 480
 type: artist
 epub: false
 grid: type-a
