@@ -261,7 +261,7 @@ figure_list:
     caption: Mary Corse in her downtown Los Angeles studio, 1966. Copyright Mary Corse.
     credit: Courtesy of the artist and Kayne Griffin Corcoran.
     alt: "Mary standing over a large canvas on a rolling transport cart"
-  - id: "defeobanner"
+  - id: " banner"
     src: figures/defeo/defeobanner.jpeg
     caption: Jay DeFeo working on *Deathrose*, ca. 1958.
     credit: Photo by Jerry Burchard © Estate of Jerry Burchard. Used with permission.
@@ -548,6 +548,60 @@ figure_list:
     src: "figures/colescott/colescott5a.jpg"
     caption: Carrie Mae Weems, *Framed by Modernism*, 1996. Gelatin silver print, silkscreened mat, triptych, each: 31 1/8 x 31 1/8 inches.
     credit: © Carrie Mae Weems. Courtesy of the artist and Jack Shainman Gallery, New York.
+    alt:
+  - id: "colescott3a"
+    src: "figures/colescott/colescott3a.jpg"
+    caption: Robert Colescott, *The Dutiful Son*, 1979. Oil on canvas, 84 x 66 1/4 inches.
+    credit: San José Museum of Art. Gift of Robert Harshorn Shimshak and Marion Brenner with additional support from the Museum’s Collection Committee, 2000.07. Photograph by Douglas Sandberg.
+    alt:
+  - id: "colescott3b"
+    src: "figures/colescott/colescott3b.jpg"
+    caption: Audio clip from interview with Robert Colescott by Diana Krevsky at his Oakland studio for KUSF radio’s *Fine Arts Spectrum*, December 20, 1978.
+    credit: Courtesy of the Diana Krevsky Collection, Archive of Recorded Sound, Stanford University Libraries.
+    alt:
+  - id: "hatoumbanner"
+    src: "figures/hatoum/hatoum3b.jpg"
+    caption: Video still of Mona Hatoum’s *Variations on Discord and Divisions*, 1984. Live action with hood, knife, bucket, scrubbing brush, red paint, table, chairs, plates, raw beef kidneys, and newspapers. Performed at The Western Front, Vancouver, December 14, 1984.
+    credit: © Mona Hatoum. Courtesy the Western Front, Vancouver. Photo: Cornelia Wyngaarden.
+    alt:
+  - id: "hatoum3a"
+    src: "figures/hatoum/hatoum3a.jpg"
+    caption: Mona Hatoum, *Over my dead body,* 1988/2002. Inkjet on PVC with eyelets, 80 1/2 x 120 inches.
+    credit: © Mona Hatoum. Courtesy Galerie Max Hetzler, Berlin and Paris.
+    alt:
+  - id: "hatoum4b"
+    src: "figures/hatoum/hatoum4b.jpg"
+    media_id: H-xKU_v6Qc4
+    media_type: youtube
+    caption: *Mona Hatoum: Terra Infirma*, produced on the occasion of an exhibition at The Menil Collection, Houston, October 13, 2017–February 25, 2018, posted October 25, 2017, 5:39 minutes.
+    credit: Courtesy of The Menil Collection
+    alt:
+  - id: "hatoum5a"
+    src: "figures/hatoum/hatoum5a.jpg"
+    caption: Mona Hatoum, *Drowning Sorrows*, 2001–02. Glass, 4 1/2 x 98 1/2 x 98 1/2 inches.
+    credit: San José Museum of Art. Gift of Wanda Kownacki, 2017.16.05. © Mona Hatoum. Courtesy Galerie René Blouin, Montreal. Photo by Richard-Max Trembley.
+    alt:
+  - id: "lebanner"
+    src: "figures/le/lebanner.jpg"
+    caption: Dinh Q. Lê in his studio near Saigon, ca. 2013.
+    credit: Photo by Ruben Luong. Courtesy ArtAsiaPacific.
+    alt:
+  - id: "le1b"
+    src: "figures/le/le1b.jpg"
+    media_id: 304880104
+    media_type: vimeo
+    caption: Clip of Dinh Q. Lê installing *Crossing the Farther Shore* (2014) at Rice University Art Gallery, Houston, 2014.
+    credit: Video by Walley Films and commissioned by Rice University Art Gallery, Houston, Texas.
+    alt:
+  - id: "le2a"
+    src: "figures/le/le2a.jpg"
+    caption: Dinh Q. Lê, *Untitled (Man Carrying Person)*, 2003. Chromogenic print and linen tape, 38 x 72 inches.
+    credit: San José Museum of Art. Museum purchase with funds from the Lipman Acquisitions Fund, 2018.03. Courtesy of Dinh Q. Lê and P.P.O.W., New York.
+    alt:
+  - id: "le3a"
+    src: "figures/le/le3a.jpg"
+    caption: Installation image of *Dinh Q. Lê: True Journey Is Return* at the San José Museum of Art, 2018.
+    credit: Photo by Benjamin Blackwell.
     alt:
   - id:
     src:

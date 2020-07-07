@@ -3,7 +3,7 @@ label: Robert Colescott
 title: Counternarrative Daggers
 short_title:
 type: page
-weight: 331
+weight: 333
 menu: false
 toc: false
 class: artist-page
