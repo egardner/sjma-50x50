@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "liu5a"
 media:
-  - "video"
+  - "image"
 ---
 {{<q-figure id="liu5a">}}
 

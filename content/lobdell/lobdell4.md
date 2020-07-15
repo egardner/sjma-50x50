@@ -1,10 +1,18 @@
-![](media/image1.png){width="1.625080927384077in" height="1.1388888888888888in"}
-
-\[LOBDELL-5A\]
-
-Frank Lobdell, *2.22.93–4.8.93 Bleeker,* 1993. Oil on canvas, 84 x 120 inches. San José Museum of Art. Gift of Morgan and Betty Flagg, The Morgan Flagg Administrative Trust, 2010.02. Photo by Douglas Sandberg.
-
-**Sun Discs and Circuits**
+---
+label: Frank Lobdell
+title: Sun Discs and Circuits
+short_title:
+type: page
+weight: 494
+menu: false
+toc: false
+class: artist-page
+object:
+  - id: "lobdell5a"
+media:
+  - "image"
+---
+{{<q-figure id="lobdell5a">}}
 
 Frank Lobdell’s first paintings after returning from World War II made use of graphic symbols with ambiguous reference to paleolithic artifacts that art critic Thomas Albright likens to “boomerangs, rhombuses, sun discs surrounded by spinning rays, wing shapes, jaw-bones, and ragged claws.”[^1] He developed his own pictography that was influenced by prehistoric motifs—like the newly discovered Paleolithic cave paintings at Lascaux he learned of while studying in Paris in 1950 at the Académie de la Grande Chaumière—and by disturbing corporeal imagery (bones, tendons, intestines) he had seen on the frontlines of war.[^2] Biomorphic shapes dominated his painting but by the 1980s his forms shed their gloom and he opened up his scale and palette. In the monumental painting *2.22.93–4.8.93 Bleeker* (1993), orbs float freely; rather than embody nature, Lobdell’s forms take on a geometric, even mechanical, semblance. “The new structures resembled meanders, fences, circuits, and conduits,” wrote art historian Caroline A. Jones, “nature squared and trued with a carpenter’s rule.”[^3]
 

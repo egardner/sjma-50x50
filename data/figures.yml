@@ -627,6 +627,43 @@ figure_list:
     caption: Hung Liu, *Shoah*, 2006. Archival digital pigment print and hand painting cast in resin on silk and board, 60 x 120 x 2 in.
     credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2006.19.01–.05.
     alt:
+  - id: "lobdellbanner"
+    src: "figures/lobdell/lobdellbanner.jpg"
+    caption: Frank Lobdell teaching at Stanford University, October 19, 1966.
+    credit: Courtesy of Jose Mercado / Stanford News Service.
+    alt:
+  - id: "lobdell1a"
+    src: "figures/lobdell/lobdell1a.jpg"
+    caption: Frank Lobdell in his studio at the Académie Colarossi, Paris, 1951.
+    credit: Courtesy of the Estate of Frank Lobdell.
+    alt:
+  - id: "lobdell1b"
+    src: "figures/lobdell/lobdell1b.jpg"
+    media_id:
+    media_type:
+    caption: Audio clip from oral history interview of Frank Lobdell for the Archives of American Art, Smithsonian Institution, April 9–May 7, 1980.
+    credit:
+    alt:
+  - id: "lobdell3a"
+    src: "figures/lobdell/lobdell3a.jpg"
+    caption: Frank Lobdell, *February 1963*, 1963. Oil on canvas, 61 1/4 x 69 3/4 inches.
+    credit: San José Museum of Art. Gift of Michael Hackett, Hackett Mill Gallery, 2009.07. Photo by Douglas Sandberg.
+    alt:
+  - id: "lobdell5a"
+    src: "figures/lobdell/lobdell5a.jpg"
+    caption: Frank Lobdell, *2.22.93–4.8.93 Bleeker,* 1993. Oil on canvas, 84 x 120 inches.
+    credit: San José Museum of Art. Gift of Morgan and Betty Flagg, The Morgan Flagg Administrative Trust, 2010.02. Photo by Douglas Sandberg.
+    alt:
+  - id: "nevelsonbanner"
+    src: "figures/nevelson/nevelsonbanner.jpg"
+    caption: Louise Nevelson in front of a wall sculpture, ca. 1970.
+    credit: Photo by Geoffrey Clements. Louise Nevelson papers, ca. 1903–82. Archives of American Art, Smithsonian Institution.
+    alt:
+  - id: "nevelson2b"
+    src: "figures/nevelson/nevelson2b.jpg"
+    caption: Louise Nevelson, *Cascades-Perpendiculars II (Night Music)*, 1980–82. Painted wood, 82 x 33 x 38 in. San José Museum of Art. Gift of the Lipman Family Foundation, 2017.17.05.
+    credit: © Estate of Louise Nevelson / Artists Rights Society (ARS), New York. Photo by Tom Barratt, courtesy Pace Gallery.
+    alt:
   - id:
     src:
     caption:
