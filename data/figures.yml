@@ -701,25 +701,27 @@ figure_list:
     caption: Robert Arneson, *Untitled (Urinal)*, ca. 1963. Glazed ceramic, 46 3/4 x 23 x 13 1/2 inches.
     credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2006.20. Photo by Douglas Sandberg.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "bacabanner"
+    src: "figures/baca/bacabanner.jpg"
+    caption: Portrait of Judy Baca with *Triumph of the Hearts*, 1990. Acrylic on canvas, one of nine panels: each 10 x 30 feet.
+    credit: Judith F. Baca ©1990. Image courtesy of SPARC Archives sparcinla.org.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "baca4a"
+    src: "figures/baca/baca4a.jpg"
+    caption: Judy Baca, *Raspados Mojados*, 1994. Vendor cart, wood, acrylic, metal, and ceramic, 34 x 54 x 24 inches.
+    credit: San José Museum of Art. Museum purchase with funds contributed by Tom and Polly Bredt, in honor of the San José Museum of Art’s 35th anniversary, 2004.19. Photo by Douglas Sandberg.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "baca2a"
+    src: "figures/baca/baca2a.jpg"
+    media_id:
+    media_type: 
+    caption: Judy Baca talks about her experience painting *The Great Wall of Los Angeles (2011)*, “20 Innovators,” NBC Latino, online video, 2:10 minutes.
+    credit: Video by Joan Saab, Critical Commons.
     alt:
-  - id:
+  - id: "baca5e"
     src:
-    caption:
-    credit:
+    caption: Judy Baca’s *César E. Chávez Monument* (2008) at San José State University, 2019.
+    credit: Photo by Frederick Liang.
     alt:
   - id:
     src:
