@@ -664,20 +664,22 @@ figure_list:
     caption: Louise Nevelson, *Cascades-Perpendiculars II (Night Music)*, 1980–82. Painted wood, 82 x 33 x 38 in. San José Museum of Art. Gift of the Lipman Family Foundation, 2017.17.05.
     credit: © Estate of Louise Nevelson / Artists Rights Society (ARS), New York. Photo by Tom Barratt, courtesy Pace Gallery.
     alt:
-  - id:
-    src:
-    caption:
+  - id: "nevelson4a"
+    src: "figures/nevelson/nevelson2b.jpg"
+    caption: Louise Nevelson, *Sky Cathedral*, 1957. Painted wood, 57 x 149 x 16 in.
+    credit: San José Museum of Art. Gift of Beverly and Peter Lipman, 2010.16. Photo by Douglas Sandberg.
+    alt:
+  - id: "nevelson4d"
+    src: "figures/nevelson/nevelson4b.jpg"
+    caption: Installation image of Louise Nevelson’s *Sun Garden I* at the Whitney Museum of American Art, New York, 1980.
     credit:
     alt:
-  - id:
-    src:
-    caption:
-    credit:
-    alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: 'nevelson4f'
+    src: "figures/nevelson/nevelson4b.jpg"
+    media_id:
+    media_type: vimeo
+    caption: San José Museum of Art curatorial associate Marja van der Loo talking with collector Peter Lipman about Louise Nevelson’s *Sky Cathedral* (1957) at Lipman’s home in 2017.
+    credit: Video by Marja van der Loo.
     alt:
   - id:
     src:

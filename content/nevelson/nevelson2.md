@@ -18,6 +18,4 @@ During the Second World War, when materials like bronze were unavailable, Louise
 
 Nevelson cut, stacked, nailed, glued, and painted these found wood fragments to build monochromatic collage sculptures. In 1978, after a fire devastated the organ at St. Mark’s Church near her East 7th Street apartment in Manhattan, decorative remnants were rescued and given to Nevelson, who used the pieces in a series of sculptures during the early 1980s, including *Cascades-Perpendiculars II (Night Music)* (1980–82). With a monochromatic coat of paint, she united the shattered world to create a new harmony.
 
-[^1]: Louise Nevelson, oral history interview with Arnold Glimcher, Archives of American Art, Smithsonian Institution, January 30, 1972, transcript available at
-
-    https://www.aaa.si.edu/collections/interviews/oral-history-interview-louise-nevelson-13163\#transcript.
+[^1]: Louise Nevelson, oral history interview with Arnold Glimcher, Archives of American Art, Smithsonian Institution, January 30, 1972, transcript available at [aaa.si.edu/collections/interviews/oral-history-interview-louise-nevelson-13163\#transcript](https://www.aaa.si.edu/collections/interviews/oral-history-interview-louise-nevelson-13163\#transcript).
