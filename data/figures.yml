@@ -714,54 +714,56 @@ figure_list:
   - id: "baca2a"
     src: "figures/baca/baca2a.jpg"
     media_id:
-    media_type: 
+    media_type:
     caption: Judy Baca talks about her experience painting *The Great Wall of Los Angeles (2011)*, “20 Innovators,” NBC Latino, online video, 2:10 minutes.
     credit: Video by Joan Saab, Critical Commons.
     alt:
   - id: "baca5e"
-    src:
+    src: "figures/baca/baca5e.jpg"
     caption: Judy Baca’s *César E. Chávez Monument* (2008) at San José State University, 2019.
     credit: Photo by Frederick Liang.
     alt:
-  - id:
-    src:
-    caption:
+  - id: "gillbanner"
+    src: "figures/gill/gillbanner.jpg"
+    caption: Gauri Gill at her exhibition *The Mark on the Wall*, Galerie Mirchandani + Steinruecke, Mumbai, April 2016.
+    credit: Photo by Anil Rane. Courtesy of Galerie Mirchandani + Steinruecke.
+    alt:
+  - id: "gill2a"
+    src: "figures/gill/gill2a.jpg"
+    caption: Gauri Gill, *Jannat, Barmer*, from the series “Notes from the Desert,” 1999–2010. Gelatin silver print on paper, 30 x 24 inches.
+    credit: San José Museum of Art. Gift of Wanda Kownacki, the Lipman Family Foundation, and Dipti and Rakesh Mathur, 2013.01.01.
+    alt:
+  - id: "gill2d"
+    src: "figures/gill/gill2d.jpg"
+    media_id:
+    media_type:
+    caption: Clip of Gauri Gill, interviewed by Sherrill Ingalls for *The Kamla Show,* filmed on May 21, 2015, on the occasion of the exhibition *Postdate: Photography and Inherited History in India* at the San José Museum of Art, February 5–August 2, 2015.
     credit:
     alt:
-  - id:
-    src:
-    caption:
+  - id: "gill3a"
+    src: "figures/gill/gill3a.jpg"
+    caption: Gauri Gill, *U.S. Mailman/Men in Park. Yuba City 2001*, 2001, from the series “The Americans,”** 2000–07. Archival pigment print, 16 1/2 x 50 inches.
+    credit: Copyright Gauri Gill.
+    alt:
+  - id: "levinthalbanner"
+    src: "figures/levinthal/levinthalbanner.jpg"
+    caption: David Levinthal in his studio working on the “Wild West” series.
+    credit: Courtesy of David Levinthal.
+    alt:
+  - id: "levinthal4a"
+    src: "figures/levinthal/levinthal4a.jpg"
+    caption: Clip of David Levinthal interviewed by Lyn Kienholz and Rohini Talalla, Interview with David Levinthal, Netropolitan Artsconversations, 2013.
     credit:
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "levinthal2a"
+    src: "figures/levinthal/levinthal2a.jpg"
+    caption: David Levinthal, *Untitled (No. 65 vertical)*, from the series “Hitler Moves East,” 1975. Vintage Kodalith gelatin silver print on paper, 10 3/4 x 7 1/4 inches.
+    credit: San José Museum of Art. Gift of Katie and Drew Gibson, 2011.12.04.06. Photograph by Douglas Sandberg.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
-    alt:
-  - id:
-    src:
-    caption:
-    credit:
-    alt:
-  - id:
-    src:
-    caption:
-    credit:
-    alt:
-  - id:
-    src:
-    caption:
-    credit:
-    alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "levinthal5a"
+    src: "figures/levinthal/levinthal5a.jpg"
+    caption: David Levinthal, *Untitled (No. 25)*, from the series “Desire,” 1996. Vintage Polaroid Polacolor ER Land film, 29 1/2 x 22 inches.
+    credit: San José Museum of Art. Gift of Katie and Drew Gibson, 2011.12.04.11. Photo by Douglas Sandberg.
     alt:
   - id:
     src:
