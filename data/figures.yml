@@ -765,6 +765,83 @@ figure_list:
     caption: David Levinthal, *Untitled (No. 25)*, from the series “Desire,” 1996. Vintage Polaroid Polacolor ER Land film, 29 1/2 x 22 inches.
     credit: San José Museum of Art. Gift of Katie and Drew Gibson, 2011.12.04.11. Photo by Douglas Sandberg.
     alt:
+  - id: "oliveirabanner"
+    src: "figures/oliveira/oliveirabanner.jpg"
+    caption: Nathan Oliveira giving a studio demonstration during a residence at Fullerton College, California, 1973.
+    credit: Courtesy of Fullerton College.
+    alt:
+  - id: "oliveira2b"
+    src: "figures/oliveira/oliveira2b.jpg"
+    caption: Nathan Oliveira, *lmi l*, 1989. Oil on canvas, 50 x 42 inches.
+    credit: San José Museum of Art. Gift of Katie and Drew Gibson, in honor of the San José Museum of Art’s 35th anniversary, 2011.12.01. Photograph by Douglas Sandberg.
+    alt:
+  - id: "oliveira2c"
+    src: "figures/oliveira/oliveira2c.jpg"
+    media_id:
+    media_type:
+    caption: Clip from *Nathan Oliveira at Crown Point Press*, ca. 2007.
+    credit: Video courtesy of Crown Point Press, San Francisco.
+    alt:
+  - id: "oliveira4a"
+    src: "figures/oliveira/oliveira4a.jpg"
+    caption: Nathan Oliveira, *Raptor I*, 1986. Oil on canvas, 60 x 52 inches.
+    credit: San José Museum of Art. Gift of Deedee and Burton McMurtry, in honor of the San José Museum of Art’s 35th anniversary, 2004.10.
+    alt:
+  - id: "oliveira5a"
+    src: "figures/oliveira/oliveira5a.jpg"
+    caption: “Stanford and the Windhover Paintings,” clip from Nathan Oliveira Oral History (2009), Stanford Historical Society Oral History Program Interviews (SC0932).
+    credit: Department of Special Collections & University Archives, Stanford University Libraries & Academic Information Resources, Stanford, CA.
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
   - id:
     src:
     caption:
