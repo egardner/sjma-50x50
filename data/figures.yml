@@ -792,25 +792,27 @@ figure_list:
     caption: “Stanford and the Windhover Paintings,” clip from Nathan Oliveira Oral History (2009), Stanford Historical Society Oral History Program Interviews (SC0932).
     credit: Department of Special Collections & University Archives, Stanford University Libraries & Academic Information Resources, Stanford, CA.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "saarbanner"
+    src: "figures/saar/saarbanner.jpg"
+    caption: Alison Saar with *Deluge (2016)*, ca. 2016. Courtesy of LA Louver, Venice, California.
+    credit: Photo by Jeff McLane.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "saar4a"
+    src: "figures/saar/saar4a.jpg"
+    caption: Alison Saar, *Coup*, 2006. Wood, wire, tin, and found objects, 52 x 168 x 52 inches.
+    credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2011.11.01. Photo by Douglas Sandberg.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "saar2a"
+    src: "figures/saar/saar2a.jpg"
+    media_id:
+    media_type:
+    caption: Video clip from *Alison Saar at VMFA / Tangible Spirit Part 1 and 2*, 1994.
+    credit: Video by Ruth Twiggs and Bruce Berryhill.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "saar4c"
+    src: "figures/saar/saar4c.jpg"
+    caption: Alison Saar, *Delta Doo*, 2002. Monoprint, woodcut, and chine collé, 33 7/8 x 24 3/8 inches.
+    credit: © Alison Saar, Courtesy of LA Louver, Venice, California.
     alt:
   - id:
     src:
