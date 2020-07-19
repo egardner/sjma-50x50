@@ -829,6 +829,33 @@ figure_list:
     caption: Video still from Bill Viola, *Memoria*, 2000. Projection on silk, 24 x 30 x 60 inches.
     credit: San José Museum of Art. Museum purchase with funds contributed by Ann Marie and Averill Mix and from the Lipman Family Foundation, 2001.17. © Bill Viola.
     alt:
+  - id: "howardbanner"
+    src: "figures/howard/howardbanner.jpg"
+    caption: Mildred Howard in her studio in South Berkeley, California, ca. 2017.
+    credit: Photo by Michael M. Santiago. Courtesy of Michael M. Santiago / San Francisco Chronicle / Polaris.
+    alt:
+  - id: "howard2b"
+    src: "figures/howard/howard2b.jpg"
+    caption: Mildred Howard, *Broken Bow*, 1993. Mixed media on artist-made frame, 30 x 9 x 1 3/4 inches.
+    credit: San José Museum of Art. Museum purchase with funds contributed by the Collection Committee, 1999.15.01 Photo by Douglas Sandberg.
+    alt:
+  - id: "howard3a"
+    src: "figures/howard/howard3a.jpg"
+    media_id: 281092051
+    media_type: vimeo
+    caption: Clip from an interview with Mildred Howard regarding her work *Abode: Sanctuary of the Familia(r)* (1994) at the San José Museum of Art, 2009. Video by San José Museum of Art.
+    credit: Video by San José Museum of Art.
+    alt:
+  - id: "howard4a"
+    src: "figures/howard/howard4a.jpg"
+    caption: Mildred Howard, *Switchin’ in the Kitchen: From Dakar to Detroit & the Mississippi Delta*, 2013. Mixed media, 12 x 60 x 10 inches.
+    credit: Photo by John Wehrle. Courtesy the artist and Anglim Gilbert Gallery.
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
   - id:
     src:
     caption:
