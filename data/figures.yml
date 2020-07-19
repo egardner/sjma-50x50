@@ -920,6 +920,28 @@ figure_list:
     caption: Betty Woodman with students in the studio, Boulder, undated.
     credit: Photo by Rodman Reilly. Courtesy of American Craft Council Library & Archives.
     alt:
+  - id: "foulkesbanner"
+    src: "figures/foulkes/foulkesbanner.jpg"
+    caption: Dennis Hopper, *Llyn Foulkes*, 1964.
+    credit: © Dennis Hopper, Courtesy of The Hopper Art Trust.
+    alt:
+  - id: "foulkes2a"
+    src: "figures/foulkes/foulkes2a.jpg"
+    caption: Llyn Foulkes and the Rubber Band, 1974.
+    credit:
+    alt:
+  - id: "foulkes3a"
+    src: "figures/foulkes/foulkes3a.jpg"
+    caption: Llyn Foulkes, *The Corporate Kiss*, 2001. Oil, acrylic, and mixed media on panel, 31 1/2 x 26 1/4 inches.
+    credit: San José Museum of Art. Gift of the Lipman Family Foundation, in honor of the San Jose Museum of Art’s 35 anniversary, 2003.03. Photograph by Douglas Sandberg.
+    alt:
+  - id: "foulkes5a"
+    src: "figures/foulkes/foulkes5a.jpg"
+    media_id: 276953549
+    media_type: vimeo
+    caption: Video clip from documentary *The Lost Frontier* (2009).
+    credit: Produced and directed by Tamar Halpern and Chris Quilty.
+    alt:
   - id:
     src:
     caption:
