@@ -735,8 +735,8 @@ figure_list:
     alt:
   - id: "gill2d"
     src: "figures/gill/gill2d.jpg"
-    media_id:
-    media_type:
+    media_id: 298262656
+    media_type: vimeo
     caption: Clip of Gauri Gill, interviewed by Sherrill Ingalls for *The Kamla Show,* filmed on May 21, 2015, on the occasion of the exhibition *Postdate: Photography and Inherited History in India* at the San José Museum of Art, February 5–August 2, 2015.
     credit:
     alt:
@@ -804,8 +804,8 @@ figure_list:
     alt:
   - id: "saar2a"
     src: "figures/saar/saar2a.jpg"
-    media_id:
-    media_type:
+    media_id: 293248356
+    media_type: vimeo
     caption: Video clip from *Alison Saar at VMFA / Tangible Spirit Part 1 and 2*, 1994.
     credit: Video by Ruth Twiggs and Bruce Berryhill.
     alt:
@@ -814,20 +814,20 @@ figure_list:
     caption: Alison Saar, *Delta Doo*, 2002. Monoprint, woodcut, and chine collé, 33 7/8 x 24 3/8 inches.
     credit: © Alison Saar, Courtesy of LA Louver, Venice, California.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "violabanner"
+    src: "figures/viola/violabanner.jpg"
+    caption: Bill Viola performing *The Talking Drum* (1979), Buffalo, New York, July 1982.
+    credit: © Bill Viola. Photograph © Kira Perov, courtesy Bill Viola Studio.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "viola2a"
+    src: "figures/viola/viola2a.jpg"
+    caption: Bill Viola, *The Sleep of Reason*, 1988. Wooden chest, vase and artificial roses, alarm clock, lamp, and video (black-and-white and color, sound), 169 x 230 x 264 inches overall.
+    credit: Carnegie Museum of Art, Pittsburgh. Purchased with funds provided by Milton Fine and the A. W. Mellon Acquisition Endowment Fund, 88.33. © Bill Viola.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "viola4a"
+    src: "figures/viola/viola4a.jpg"
+    caption: Video still from Bill Viola, *Memoria*, 2000. Projection on silk, 24 x 30 x 60 inches.
+    credit: San José Museum of Art. Museum purchase with funds contributed by Ann Marie and Averill Mix and from the Lipman Family Foundation, 2001.17. © Bill Viola.
     alt:
   - id:
     src:
