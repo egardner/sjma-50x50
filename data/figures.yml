@@ -889,34 +889,36 @@ figure_list:
     credit: Photo by Paolo Luca, from the Philippine Arts in Venice Biennale, National Commission for Culture and the Arts.
     alt:
   - id: "ocampo3a"
-    src:
+    src: "figures/ocampo/ocampo3a.jpg"
     caption: Video clip from *God Is My Copilot*, 1999. Directed by Phillip Rodriguez.
     credit: Produced by Tom Patchett.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "woodman1a"
+    src: "figures/woodman/woodman1a.jpg"
+    caption: Betty Woodman working on *Polka Dot Skirt* (2011) at Shark’s Ink, Lyons, Colorado.
+    credit: Photo by Bud Shark. Courtesy of Shark’s Ink, Lyons, Colorado.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "woodman2a"
+    src: "figures/woodman/woodman2a.jpg"
+    caption: Betty Woodman in her studio, Boulder, Colorado, 1961.
+    credit: Photo by George Woodman. Courtesy of Charles Woodman.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "woodman3a"
+    src: "figures/woodman/woodman2a.jpg"
+    media_id: 276142168
+    media_type: vimeo
+    caption: Clip from *Betty Woodman: Thinking Out Loud*, 1990.
+    credit: Filmed in New York by Charles Woodman.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "woodman4a"
+    src: "figures/woodman/woodman4a.jpg"
+    caption: Betty Woodman, *His/Hers Vases, Young Lovers*, 2002. Glazed earthenware, epoxy resin, lacquer and paint, 31 x 64 x 10 inches.
+    credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2005.08 a–b. Photo by Douglas Sandberg.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "woodman1b"
+    src: "figures/woodman/woodman1b.jpg"
+    caption: Betty Woodman with students in the studio, Boulder, undated.
+    credit: Photo by Rodman Reilly. Courtesy of American Craft Council Library & Archives.
     alt:
   - id:
     src:
