@@ -942,8 +942,28 @@ figure_list:
     caption: Video clip from documentary *The Lost Frontier* (2009).
     credit: Produced and directed by Tamar Halpern and Chris Quilty.
     alt:
-  - id:
-    src:
-    caption:
+  - id: "kallatbanner"
+    src: "figures/kallat/kallatbanner.jpg"
+    caption: Jitish Kallat in his Mumbai studio, ca. 2013.
+    credit: Photo by Abhinit Khanna. Courtesy of Jitish Kallat Studio.
+    alt:
+  - id: "kallat4d"
+    src: "figures/kallat/kallat4d.jpg"
+    caption: Installation view of Jitish Kallat’s *Epilogue* (2010–11) at San José Museum of Art, September 6, 2013–April 20, 2014.
+    credit: Photo by Richard Karson.
+    alt:
+  - id: "kallat4c"
+    src: "figures/kallat/kallat4c.jpg"
+    caption: Detail of Jitish Kallat, *Epilogue*, 2010–11. Pigment print on archival paper; 753 prints: 11 3/16 x 14 3/8 inches each.
+    credit: Photo by Richard Karson. Courtesy Jitish Kallat Studio.
+    alt:
+  - id: "kallat3a"
+    src: "figures/kallat/kallat4c.jpg"
+    caption: Video clip of Jitish Kallat discussing his work *Public Notice 2* (2007) at the John F. Kennedy Center for the Performing Arts, Washington, DC, March 2011.
     credit:
+    alt:
+  - id: "kallat5a"
+    src: "figures/kallat/kallat5a.jpg"
+    caption: Jitish Kallat, *Event Horizon (the hour of the day of the month of the season)*, 2014. Lenticular photographic print, 45 x 45 x 1 inches.
+    credit: San José Museum of Art. Gift of the Lipman Family Foundation, Peggy and Yogan Dalal, Kaushie Adiseshan and Anand Rajaraman, Virinda and Vasudev Bhandarkar, Tad Freese, and Dipti and Rakesh Mathur, 2017.02a–g. Photo by Richard Karson.
     alt:
