@@ -851,25 +851,27 @@ figure_list:
     caption: Mildred Howard, *Switchin’ in the Kitchen: From Dakar to Detroit & the Mississippi Delta*, 2013. Mixed media, 12 x 60 x 10 inches.
     credit: Photo by John Wehrle. Courtesy the artist and Anglim Gilbert Gallery.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "misrachbanner"
+    src: "figures/misrach/misrachbanner.jpg"
+    caption: Richard Misrach, working along the US–Mexico border near Nogales, Arizona, 2016.
+    credit: © Richard Misrach, 2016. Courtesy Jake Bloomfield-Misrach.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "misrach3a"
+    src: "figures/misrach/misrach3a.jpg"
+    caption: Richard Misrach, *Normandy Wall Near Ocotillo, California*, 2015. Pigment print, 60 x 80 inches. San José Museum of Art.** Museum purchase with funds contributed by the Lipman Family Foundation, 2017.11.01.
+    credit: ©Richard Misrach, courtesy Fraenkel Gallery, San Francisco; Pace/MacGill Gallery, New York; and Marc Selwyn Fine Art, Los Angeles.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "misrach5a"
+    src: "figures/misrach/misrach5a.jpg"
+    caption: Richard Misrach, *Untitled*, 2003, from the series “On the Beach,” 2002–05. Chromogenic print on paper, 71 x 113 1/2 inches.
+    credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2006.13. Photo by Douglas Sandberg.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "misrach4a"
+    src: "figures/misrach/misrach4a.jpg"
+    media_id:
+    media_type: 
+    caption: Video clip from “Photographer Spotlight: Richard Misrach,” Los Angeles Review of Books online, July 6, 2015.
+    credit: Produced by Michael Kurcfeld.
     alt:
   - id:
     src:
