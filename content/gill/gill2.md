@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "gill2a"
 media:
-  - "image"
+  - "zoom"
 ---
 {{<q-figure id="gill2a">}}
 

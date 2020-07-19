@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "howard2b"
 media:
-  - "image"
+  - "zoom"
 ---
 {{<q-figure id="howard2b">}}
 

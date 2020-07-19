@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "gillbanner"
 media:
-  - "image"
+  - "zoom"
 ---
 {{<q-figure id="gillbanner">}}
 

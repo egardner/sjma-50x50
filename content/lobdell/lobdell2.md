@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "lobdell1a"
 media:
-  - "image"
+  - "zoom"
 ---
 
 {{<q-figure-group id="lobdell1a, lobdell1b" grid="2">}}

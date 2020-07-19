@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "oliveirabanner"
 media:
-  - "image"
+  - "zoom"
 ---
 {{<q-figure id="oliveirabanner">}}
 

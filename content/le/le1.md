@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "lebanner"
 media:
-  - "image"
+  - "zoom"
 ---
 {{<q-figure id="lebanner">}}
 

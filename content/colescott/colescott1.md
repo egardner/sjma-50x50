@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "colescottbanner"
 media:
-  - "image"
+  - "zoom"
 ---
 {{<q-figure id="colescottbanner">}}
 

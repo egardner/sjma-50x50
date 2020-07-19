@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "le3a"
 media:
-  - "image"
+  - "zoom"
 ---
 {{<q-figure id="le3a">}}
 

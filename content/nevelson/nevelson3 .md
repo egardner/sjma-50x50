@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "nevelson4a"
 media:
-  - "image"
+  - "zoom"
 ---
 {{<q-figure id="nevelson4a">}}
 

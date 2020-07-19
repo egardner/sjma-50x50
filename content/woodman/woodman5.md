@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "woodman1b"
 media:
-  - "image"
+  - "zoom"
 ---
 {{<q-figure id="woodman1b">}} 
 

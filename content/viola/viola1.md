@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "violabanner"
 media:
-  - "image"
+  - "zoom"
 ---
 {{<q-figure id="violabanner">}}
 

@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "saar4a"
 media:
-  - "image"
+  - "zoom"
 ---
 {{<q-figure id="saar4a">}}
 

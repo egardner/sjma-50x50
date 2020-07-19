@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "lobdell5a"
 media:
-  - "image"
+  - "zoom"
 ---
 {{<q-figure id="lobdell5a">}}
 

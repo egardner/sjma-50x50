@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "hatoumbanner"
 media:
-  - "image"
+  - "zoom"
 ---
 {{<q-figure id="hatoumbanner">}}
 

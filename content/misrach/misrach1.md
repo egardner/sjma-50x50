@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "misrachbanner"
 media:
-  - "image"
+  - "zoom"
 ---
 {{<q-figure id="misrachbanner">}}
 
