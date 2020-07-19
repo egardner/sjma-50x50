@@ -989,6 +989,55 @@ figure_list:
     caption: Jim Campbell, *Home Movies 300–3*, 2006. LED lights, custom electronics, and wire on metal wall brackets, 51 x 60 x 2 inches.
     credit: San José Museum of Art. Gift of Deborah and Andy Rappaport and the Lipman Family Foundation, 2007.19. Photo by Douglas Sandberg.
     alt:
+  - id: "goldsworthybanner"
+    src: "figures/goldsworthy/goldsworthybanner.jpg"
+    caption: Video still from Thomas Riedelsheimer, *Rivers and Tides: Andy Goldsworthy Working with Time* (Burlington, VT: Docurama, 2001), video.
+    credit: Courtesy Skyline Productions Ltd.
+    alt:
+  - id: "goldsworthy5a"
+    src: "figures/goldsworthy/goldsworthy5a.jpg"
+    caption: Installation view of Andy Goldsworthy’s *Clay Holes* (1994), *Snowball Drawings* (1994–95), and Bracken/Fern wall drawing (1995) in the exhibition *Breath of Earth*, San José Museum of Art, February 4–April 23, 1995.
+    credit: © Sue Tallon Photography.
+    alt:
+  - id: "goldsworthy2a"
+    src: "figures/goldsworthy/goldsworthy2a.jpg"
+    media_id: 290962718
+    media_type: vimeo
+    caption: Clip from Thomas Riedelsheimer, *Rivers and Tides: Andy Goldsworthy Working with Time* (Burlington, VT: Docurama, 2001), video.
+    credit: Courtesy Skyline Productions Ltd.
+    alt:
+  - id: "goldsworthy4c"
+    src: "figures/goldsworthy/goldsworthy4c.jpg"
+    media_id: 291173943
+    media_type: vimeo
+    caption: Installation video of Andy Goldsworthy’s *Burnt Patch* (2005) at San José Museum of Art, 2014.
+    credit: Video by San José Museum of Art.
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
   - id:
     src:
     caption:
