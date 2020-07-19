@@ -869,9 +869,54 @@ figure_list:
   - id: "misrach4a"
     src: "figures/misrach/misrach4a.jpg"
     media_id:
-    media_type: 
+    media_type:
     caption: Video clip from “Photographer Spotlight: Richard Misrach,” Los Angeles Review of Books online, July 6, 2015.
     credit: Produced by Michael Kurcfeld.
+    alt:
+  - id: "ocampobanner"
+    src: "figures/ocampo/ocampobanner.jpg"
+    caption: Manuel Ocampo at *Manila Vice*, the exhibition he curated for Musée International des Arts Modestes, Sète, France**, April 13–September 22, 2013.
+    credit: Courtesy of the artist.
+    alt:
+  - id: "ocampo2a"
+    src: "figures/ocampo/ocampo2a.jpg"
+    caption: Manuel Ocampo, *Untitled (Burnt Out Europe)*, 1992. Oil and decal on canvas, 72 x 108 inches.
+    credit: San José Museum of Art. Museum purchase with funds from the Collection Committee, 2001.20. Photograph by Douglas Sandberg.
+    alt:
+  - id: "ocampo5a"
+    src: "figures/ocampo/ocampo5a.jpg"
+    caption: Installation view of Manuel Ocampo’s *Torta Imperiales* (2017) in the Philippine Pavilion at the 57th Venice Biennale, May 13–November 26, 2017.
+    credit: Photo by Paolo Luca, from the Philippine Arts in Venice Biennale, National Commission for Culture and the Arts.
+    alt:
+  - id: "ocampo3a"
+    src:
+    caption: Video clip from *God Is My Copilot*, 1999. Directed by Phillip Rodriguez.
+    credit: Produced by Tom Patchett.
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
     alt:
   - id:
     src:

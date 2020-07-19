@@ -1,10 +1,18 @@
-![](media/image1.png){width="1.6029593175853019in" height="1.0744794400699913in"}
-
-**\[**OCAMPO-2A\]
-
-Manuel Ocampo, ***Untitled (Burnt Out Europe)*, 1992.** Oil and decal on canvas, 72 x 108 inches. San José Museum of Art. Museum purchase with funds from the Collection Committee, 2001.20. Photograph by Douglas Sandberg.
-
-**Virtue and Vice**
+---
+label: Manuel Ocampo
+title: Virtue and Vice
+short_title:
+type: page
+weight: 532
+menu: false
+toc: false
+class: artist-page
+object:
+  - id: "ocampo2a"
+media:
+  - "image"
+---
+{{<q-figure id="ocampo2a">}}
 
 The San José Museum of Art acquired Manuel Ocampo’s *Untitled (Burnt Out Europe)* (1992) in 2001, ten years after the controversial work was censored from the main gallery of *Documenta IX* for its use of swastikas. In the painting, anachronisms and disparate signs appear on a common plane.[^1] The crucified head of Jesus on the body of a bird of prey, whose wings are adorned with swastikas, hovers over the courtyard of what could be a Spanish colony’s Catholic mission or a Holocaust concentration camp; perhaps a hybrid combination of the two, the barracks are run by demons.
 
