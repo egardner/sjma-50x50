@@ -967,3 +967,40 @@ figure_list:
     caption: Jitish Kallat, *Event Horizon (the hour of the day of the month of the season)*, 2014. Lenticular photographic print, 45 x 45 x 1 inches.
     credit: San José Museum of Art. Gift of the Lipman Family Foundation, Peggy and Yogan Dalal, Kaushie Adiseshan and Anand Rajaraman, Virinda and Vasudev Bhandarkar, Tad Freese, and Dipti and Rakesh Mathur, 2017.02a–g. Photo by Richard Karson.
     alt:
+  - id: "campbellbanner"
+    src: "figures/campbell/campbellbanner.jpg"
+    caption: Jim Campbell standing inside *Scattered Light* (2010), an installation at Madison Square Park, New York, October 21, 2010.
+    credit: Photo by Joe Kohen.
+    alt:
+  - id: "campbell2a"
+    src: "figures/campbell/campbell2a.jpg"
+    caption: Jim Campbell, *Self Portrait (with Disturbances)*, 1991–92.** Video monitor, camera, and custom electronics, 15 1/2 x 20 1/2 x 18 inches.
+    credit: San José Museum of Art. Gift of Scott W. Horton, 1998.18.08. Photo by Douglas Sandberg.
+    alt:
+  - id: "campbell2b"
+    src: "figures/campbell/campbell2b.jpg"
+    media_id: 290947074
+    media_type: vimeo
+    caption: Video clip from “Jim Campbell,” *Spark*, KQED, San Francisco, May 2003.
+    credit: ©2003 KQED, Inc.
+    alt:
+  - id: "campbell4a"
+    src: "figures/campbell/campbell2b.jpg"
+    caption: Jim Campbell, *Home Movies 300–3*, 2006. LED lights, custom electronics, and wire on metal wall brackets, 51 x 60 x 2 inches.
+    credit: San José Museum of Art. Gift of Deborah and Andy Rappaport and the Lipman Family Foundation, 2007.19. Photo by Douglas Sandberg.
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
