@@ -1124,25 +1124,27 @@ figure_list:
     caption: Clip of Raymond Saunders, San Francisco Museum of Modern Art interview at Wirtz Gallery, San Francisco, December 6, 1994.
     credit: © Raymond Saunders. Courtesy of the CCAC Archives at California College of the Arts Libraries, San Francisco, California.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "syjucobanner"
+    src: "figures/syjuco/syjucobanner.jpg"
+    caption: Stephanie Syjuco at the exhibition *International Orange*, Fort Point, San Francisco, May 25–October 28, 2012.
+    credit: Photo by Mike Kepka. Courtesy of Mike Kepka / San Francisco Chronicle / Polaris.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "syjuco4a"
+    src: "figures/syjuco/syjucob4a.jpg"
+    media_id: 298478251
+    media_type: vimeo
+    caption: Video clip from “In the Gallery with Stephanie Syjuco,” *75th Anniversary of the Golden Gate Bridge*, KQED, San Francisco, 2012.
+    credit: Video by Matthew Williams and Kristin Farr. ©2012 KQED, Inc.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "syjuco4b"
+    src: "figures/syjuco/syjucob4b.jpg"
+    caption: Stephanie Syjuco, *The International Orange Commemorative Store (A Proposition)*, 2012. Mixed-media installation, dimensions variable.
+    credit: San José Museum of Art. Commissioned by the FOR-SITE Foundation as part of the exhibition *International Orange* and on the occasion of the Golden Gate Bridge’s 75 Year Anniversary. Gift of the artist and the Catharine Clark Gallery, San Francisco, 2013.04.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "syjuco5a"
+    src: "figures/syjuco/syjucob5a.jpg"
+    caption: Installation view of Stephanie Syjuco, *I am an . . .* (2017) in the exhibition *Stephanie Syjuco: Citizen[,]{.underline}* Ryan Lee Gallery, New York, September 7–October 14, 2017.
+    credit: © Stephanie Syjuco. Courtesy of the artist and Ryan Lee Gallery, New York.
     alt:
   - id:
     src:
