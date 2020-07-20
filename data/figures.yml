@@ -1092,15 +1092,17 @@ figure_list:
     caption: Roy De Forest, *Off the Patagonian Coast*, 1962. Wood, acrylic, polyvinyl acetate, and polyester resin on wood panel, 30 x 30 x 6 inches.
     credit: San José Museum of Art. Museum purchase with funds contributed by Tom and Polly Bredt, 2006.17.
     alt:
-  - id:
-    src:
-    caption:
+  - id: "deforest4a"
+    src: "figures/deforest/deforest4a.jpg"
+    caption: Robert Arneson poster for *Bob and Roy Ware Show* at Candy Store Gallery, Folsom, California, April 12–May 9, 1970.
     credit:
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "deforest5a"
+    src: "figures/deforest/deforest5a.jpg"
+    media_id: 266419268
+    media_type: vimeo
+    caption: Video clip from Suzanne Simpson*, Roy De Forest: You Can Make Art Out of Anything*, 1974. Digitally restored by Pentimenti Productions, 2017.
+    credit: Courtesy of Suzanne Simpson.
     alt:
   - id:
     src:

@@ -3,7 +3,7 @@ label: Roy De Forest
 title: Boardism: A One-Man Movement
 short_title:
 type: page
-weight: 352
+weight: 353
 menu: false
 toc: false
 class: artist-page
