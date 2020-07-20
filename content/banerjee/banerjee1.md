@@ -1,10 +1,18 @@
-![](media/image1.png){width="1.556816491688539in" height="1.0290409011373578in"}
-
-\[BANERJEE-BANNER\]
-
-Rina Banerjee in her studio, New York, ca. 2013. Photo by Jeanette May. Courtesy of the artist.
-
-**Of and Between Worlds**
+---
+label: Rina Banerjee
+title: Of and Between Worlds
+short_title:
+type: page
+weight: 261
+menu: false
+toc: false
+class: artist-page
+object:
+  - id: "banerjeebanner"
+media:
+  - "zoom"
+---
+{{<q-figure id="banerjeebanner">}}
 
 Migration defines Rina Banerjee’s personal history. Born in 1963 in Kolkata, India, she moved with her parents to London at the age of five and then to Queens, New York, at age seven. Banerjee’s artwork is rooted in global movement and exchange between places and cultures. She initially studied polymer engineering at Case Western Reserve University in Cleveland (the use of uncommon materials in her art practice would evolve from this early study of plastics), then took a job at Pennsylvania State University as a research engineer. Painting and drawing in her free time eventually led the artist to earn an MFA from Yale School of Art in 1995.[^1]
 

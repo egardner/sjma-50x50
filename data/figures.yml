@@ -1013,25 +1013,27 @@ figure_list:
     caption: Installation video of Andy Goldsworthy’s *Burnt Patch* (2005) at San José Museum of Art, 2014.
     credit: Video by San José Museum of Art.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "banerjeebanner"
+    src: "figures/banerjee/banerjeebanner.jpg"
+    caption: Rina Banerjee in her studio, New York, ca. 2013.
+    credit: Photo by Jeanette May. Courtesy of the artist.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "banerjee3a"
+    src: "figures/banerjee/banerjee3a.jpg"
+    caption: Installation view of Rina Banerjee’s *Take me, take me, take me . . . to the Palace of love* (2003) in the exhibition *Rina Banerjee: Make Me a Summary of the World*, San José Museum of Art, May 16–October 2, 2019.
+    credit: Photo by Johnna Arnold / JKA Photography.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "banerjee4a"
+    src: "figures/banerjee/banerjee4a.jpg"
+    media_id: 301042790
+    media_type: vimeo
+    caption: Time-lapse video of Rina Banerjee installing *A World Lost: after the original island, single land mass fractured, after populations migrated, after pollution revealed itself and as cultural locations once separated merged, after the splitting of Adam and Eve, Shiva and Shakti, of race black and white, of culture East and West, after animals diminished, after the seas’ corals did exterminate, after this and at last imagine all water evaporated . . . this after Columbus found it we lost it imagine this* (2013) at the Sackler Gallery, Smithsonian Institution, Washington, DC, July 13, 2013–June 8, 2014.
+    credit: Video by Hutomo Wicaksono.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "banerjee5a"
+    src: "figures/banerjee/banerjee5a.jpg"
+    caption: Rina Banerjee, *Winter’s Flower—Raw materials from sea and from foul and even from some exotic mice was eaten by a world hungry for commerce made these into flower, disguised could be savoured alongside whitened rice*, 2010. MEDIUM, DIMENSIONS.
+    credit: Photo by Johnna Arnold / JKA Photography.
     alt:
   - id:
     src:
