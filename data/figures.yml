@@ -404,7 +404,7 @@ figure_list:
     src: "figures/alhadid/alhadidbanner.jpg"
     caption: Diana Al-Hadid working on a plaster sculpture, ca. 2012.
     credit: © Rebecca Robertson.
-    alt:
+    alt: "artist working on life size sculpture in studio"
   - id: "alhadid2a"
     src: "figures/alhadid/alhadid2a.jpg"
     media_id: 298615749
@@ -1076,6 +1076,41 @@ figure_list:
     src: "figures/teraoka/teraoka5a.jpg"
     caption: Masami Teraoka, *Semana Santa/Cloning Eve and Geisha*, 2002–03. Oil on canvas, 89 1/2 x 175 x 2 inches.
     credit: San José Museum of Art. Museum purchase with funds contributed by the Lipman Family Foundation, Brian Pawlowski and Aki Ueno, and David Soward, in honor of the San José Museum of Art’s 35th anniversary, 2003.13. Photo by Douglas Sandberg.
+    alt:
+  - id: "deforestbanner"
+    src: "figures/deforest/deforestbanner.jpg"
+    caption: Roy De Forest in his studio with his dogs, Port Costa, California, 1980.
+    credit: Photo by Kurt Fishback. Smithsonian Archives of American Art.
+    alt:
+  - id: "deforest5b"
+    src: "figures/deforest/deforest5b.jpg"
+    caption: Roy De Forest, *Slow Time in Arcadia*, 1977. Acrylic polymer on canvas, 60 x 72 inches.
+    credit: San José Museum of Art. Museum purchase with funds contributed by Polly and Tom Bredt and the Lipman Family Foundation, 2002.09.
+    alt:
+  - id: "deforest2a"
+    src: "figures/deforest/deforest2a.jpg"
+    caption: Roy De Forest, *Off the Patagonian Coast*, 1962. Wood, acrylic, polyvinyl acetate, and polyester resin on wood panel, 30 x 30 x 6 inches.
+    credit: San José Museum of Art. Museum purchase with funds contributed by Tom and Polly Bredt, 2006.17.
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
     alt:
   - id:
     src:
