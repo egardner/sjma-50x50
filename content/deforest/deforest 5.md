@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "deforest5a"
 media:
-  - "zoom"
+  - "video"
 ---
 {{<q-figure id="deforest5a">}}
 

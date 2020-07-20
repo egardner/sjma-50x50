@@ -1104,6 +1104,56 @@ figure_list:
     caption: Video clip from Suzanne Simpson*, Roy De Forest: You Can Make Art Out of Anything*, 1974. Digitally restored by Pentimenti Productions, 2017.
     credit: Courtesy of Suzanne Simpson.
     alt:
+  - id: "saundersbanner"
+    src: "figures/saunders/saundersbanner.jpg"
+    caption: Charles “Teenie” Harris, *Raymond Saunders looking toward Downtown Pittsburgh*, 1955. Black-and-white Kodak safety film, 4 x 5 inches. Carnegie Museum of Art, Pittsburgh. Heinz Family Fund, 2001.35.1264
+    credit: © Carnegie Museum of Art, Charles “Teenie” Harris Archive.
+    alt:
+  - id: "saunders4a"
+    src: "figures/saunders/saunders4a.jpg"
+    caption: Raymond Saunders, *Not Real But Wanting To Be*, 1999. Mixed-media on slate, 72 x 48 inches. San José Museum of Art. Museum purchase with funds from the Board of Trustees and Friends of Josi Callan in honor of former director Josi Callan (1992–99), 1999.20.
+    credit: Photo by Douglas Sandberg.
+    alt:
+  - id: "saunders1a"
+    src: "figures/saunders/saunders1a.jpg"
+    caption: Portrait of Raymond Saunders, 1981. Archives of American Art, Smithsonian Institution.
+    credit: Photo by Mimi Jacobs.
+    alt:
+  - id: "saunders5a"
+    src: "figures/saunders/saunders5a.jpg"
+    caption: Clip of Raymond Saunders, San Francisco Museum of Modern Art interview at Wirtz Gallery, San Francisco, December 6, 1994.
+    credit: © Raymond Saunders. Courtesy of the CCAC Archives at California College of the Arts Libraries, San Francisco, California.
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
   - id:
     src:
     caption:
