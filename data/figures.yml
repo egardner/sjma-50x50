@@ -1035,20 +1035,27 @@ figure_list:
     caption: Rina Banerjee, *Winter’s Flower—Raw materials from sea and from foul and even from some exotic mice was eaten by a world hungry for commerce made these into flower, disguised could be savoured alongside whitened rice*, 2010. MEDIUM, DIMENSIONS.
     credit: Photo by Johnna Arnold / JKA Photography.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: tabaimo1a
+    src: "figures/banerjee/banerjee1a.jpg"
+    caption: Portrait of Tabaimo, 2011.
+    credit: Photo by Paola Ferrario.
     alt:
-  - id:
-    src:
-    caption:
-    credit:
+  - id: "tabaimo3a"
+    src: "figures/banerjee/banerjee3a.jpg"
+    caption: Installation view of Tabaimo, *dolefullhouse*, 2007. Single-channel video installation with panoramic screen, 276 x 84 inches. San José Museum of Art. Museum purchase with funds contributed by the Acquisitions Committee with additional funds provided by the Lipman Family Foundation, 2017.07.
+    credit: © Tabaimo. Courtesy of Gallery Koyanagi and James Cohan Gallery.
     alt:
-  - id:
+  - id: "tabaimo4b"
+    src: "figures/banerjee/banerjee4b.jpg"
+    media_id: WiA3fOEBVi4
+    media_type: youtube
+    caption: Tabaimo interviewed on the occasion of the exhibition *Moderna Museet Nu: Tabaimo* at Moderna Museet, Stockholm, January 31–April 19, 2009.
+    credit: Courtesy Moderna Museet.
+    alt:
+  - id: "tabaimo5b"
     src:
-    caption:
-    credit:
+    caption: Installation view of *Tabaimo: Her Room* at the San José Museum of Art, February 6–August 21, 2016.
+    credit: Photo by San José Museum of Art.
     alt:
   - id:
     src:
