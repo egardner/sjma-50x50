@@ -1036,26 +1036,51 @@ figure_list:
     credit: Photo by Johnna Arnold / JKA Photography.
     alt:
   - id: tabaimo1a
-    src: "figures/banerjee/banerjee1a.jpg"
+    src: "figures/tabaimo/tabaimo1a.jpg"
     caption: Portrait of Tabaimo, 2011.
     credit: Photo by Paola Ferrario.
     alt:
   - id: "tabaimo3a"
-    src: "figures/banerjee/banerjee3a.jpg"
+    src: "figures/tabaimo/tabaimo3a.jpg"
     caption: Installation view of Tabaimo, *dolefullhouse*, 2007. Single-channel video installation with panoramic screen, 276 x 84 inches. San José Museum of Art. Museum purchase with funds contributed by the Acquisitions Committee with additional funds provided by the Lipman Family Foundation, 2017.07.
     credit: © Tabaimo. Courtesy of Gallery Koyanagi and James Cohan Gallery.
     alt:
   - id: "tabaimo4b"
-    src: "figures/banerjee/banerjee4b.jpg"
+    src: "figures/tabaimo/tabaimo4b.jpg"
     media_id: WiA3fOEBVi4
     media_type: youtube
     caption: Tabaimo interviewed on the occasion of the exhibition *Moderna Museet Nu: Tabaimo* at Moderna Museet, Stockholm, January 31–April 19, 2009.
     credit: Courtesy Moderna Museet.
     alt:
   - id: "tabaimo5b"
-    src:
+    src: "figures/tabaimo/tabaimo5b.jpg"
     caption: Installation view of *Tabaimo: Her Room* at the San José Museum of Art, February 6–August 21, 2016.
     credit: Photo by San José Museum of Art.
+    alt:
+  - id: "teraoka1a"
+    src: "figures/teraoka/teraoka1a.jpg"
+    caption: Portrait of Masami Teraoka, ca. 1980.
+    credit: Photo by Marva Marrow.
+    alt:
+  - id: "teraoka3a"
+    src: "figures/teraoka/teraoka3a.jpg"
+    caption: Masami Teraoka, *Geisha and Ghost Cat*, from the “*AIDS Series,”* 1989–2002. Aquatint and sugar lift etching, spit bite, and direct gravure on paper, 44 x 32 inches.
+    credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2002.04. Photograph by Douglas Sandberg.
+    alt:
+  - id: "teraoka4a"
+    src: "figures/teraoka/teraoka4a.jpg"
+    caption: Clip from Masami Teraoka in conversation with Quin Matthews on the occasion of *Masami Teraoka:* *Inversion of the Sacred*, McKinney Avenue Contemporary, Dallas, March 15–May 3, 2014.
+    credit: Video by ArtMatters Radio TV.
+    alt:
+  - id: "teraoka5a"
+    src: "figures/teraoka/teraoka5a.jpg"
+    caption: Masami Teraoka, *Semana Santa/Cloning Eve and Geisha*, 2002–03. Oil on canvas, 89 1/2 x 175 x 2 inches.
+    credit: San José Museum of Art. Museum purchase with funds contributed by the Lipman Family Foundation, Brian Pawlowski and Aki Ueno, and David Soward, in honor of the San José Museum of Art’s 35th anniversary, 2003.13. Photo by Douglas Sandberg.
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
     alt:
   - id:
     src:
