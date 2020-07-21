@@ -1168,7 +1168,44 @@ figure_list:
     caption:
     credit:
     alt:
-  - id: 
+  - id: "wagnerbanner"
+    src: "figures/wagner/wagnerbanner.jpg"
+    caption: Catherine Wagner in her San Francisco studio next to her series “Frankenstein” (2003), 2017. Photo by Phil Bond.
+    credit:
+    alt:
+  - id: "wagner4a"
+    src: "figures/wagner/wagner4a.jpg"
+    caption: Catherine Wagner, *Pomegranate Wall*, 2000. Ten light boxes with printed duratrans, fluorescent lights, and metal frame, 96 x 480 inches.
+    credit: San José Museum of Art. Acquired from the artist upon the completion of the San José Museum of Art Artist Residency Fellowship, awarded to the artist in 1997, 2001.40. © Phil Bond Photography.
+    alt:
+  - id: "wagner4c"
+    src: "figures/wagner/wagner4c.jpg"
+    caption: Catherine Wagner, *Shark’s Tooth*, 2000. Iris print on paper, 44 x 32 inches. San José Museum of Art. Acquired from the artist upon the completion of the San José Museum of Art Artist Residency Fellowship, awarded to the artist in 1997, 2002.03.02.
+    credit: San José Museum of Art. Acquired from the artist upon the completion of the San José Museum of Art Artist Residency Fellowship, awarded to the artist in 1997, 2002.03.02.
+    alt:
+  - id: "wagner4b"
+    src: "figures/wagner/wagner4b.jpg"
+    media_id:
+    media_type: vimeo
+    caption: Video clip of Catherine Wagner on the occasion of the exhibition *Catherine Wagner: Paradox Observed*, San José Museum of Art, April 5­–August 18, 2019 and the Museum’s 50th Anniversary Gala.
+    credit: Video by Justin Tran, No Friends Productions, August 2019.
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
+    src:
+    caption:
+    credit:
+    alt:
+  - id:
     src:
     caption:
     credit:
