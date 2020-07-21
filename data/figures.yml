@@ -529,8 +529,6 @@ figure_list:
     alt:
   - id: "chagoya4a"
     src: "figures/chagoya/chagoya4a.jpg"
-    media_id: 433830368
-    media_type: vimeo
     caption: “Enrique Chagoya” (2007), Mergatroid Films, posted March 18, 2010, video, 7:23 minutes.
     credit: Courtesy Matt Bertles, Mergatroid Films.
     alt:
@@ -556,6 +554,8 @@ figure_list:
     alt:
   - id: "colescott3b"
     src: "figures/colescott/colescott3b.jpg"
+    media_id: 436249824
+    media_type: vimeo
     caption: Audio clip from interview with Robert Colescott by Diana Krevsky at his Oakland studio for KUSF radio’s *Fine Arts Spectrum*, December 20, 1978.
     credit: Courtesy of the Diana Krevsky Collection, Archive of Recorded Sound, Stanford University Libraries.
     alt:
@@ -752,6 +752,8 @@ figure_list:
     alt:
   - id: "levinthal4a"
     src: "figures/levinthal/levinthal4a.jpg"
+    media_id: 283544804
+    media_type: vimeo
     caption: Clip of David Levinthal interviewed by Lyn Kienholz and Rohini Talalla, Interview with David Levinthal, Netropolitan Artsconversations, 2013.
     credit:
     alt:
@@ -789,6 +791,8 @@ figure_list:
     alt:
   - id: "oliveira5a"
     src: "figures/oliveira/oliveira5a.jpg"
+    media_id: 265503567
+    media_type: vimeo
     caption: “Stanford and the Windhover Paintings,” clip from Nathan Oliveira Oral History (2009), Stanford Historical Society Oral History Program Interviews (SC0932).
     credit: Department of Special Collections & University Archives, Stanford University Libraries & Academic Information Resources, Stanford, CA.
     alt:
@@ -868,8 +872,8 @@ figure_list:
     alt:
   - id: "misrach4a"
     src: "figures/misrach/misrach4a.jpg"
-    media_id:
-    media_type:
+    media_id: Z238JPc154w
+    media_type: youtube
     caption: Video clip from “Photographer Spotlight: Richard Misrach,” Los Angeles Review of Books online, July 6, 2015.
     credit: Produced by Michael Kurcfeld.
     alt:
@@ -1170,8 +1174,8 @@ figure_list:
     alt:
   - id: "wagnerbanner"
     src: "figures/wagner/wagnerbanner.jpg"
-    caption: Catherine Wagner in her San Francisco studio next to her series “Frankenstein” (2003), 2017. Photo by Phil Bond.
-    credit:
+    caption: Catherine Wagner in her San Francisco studio next to her series “Frankenstein” (2003), 2017.
+    credit: Photo by Phil Bond.
     alt:
   - id: "wagner4a"
     src: "figures/wagner/wagner4a.jpg"
