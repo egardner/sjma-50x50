@@ -1146,27 +1146,29 @@ figure_list:
     caption: Installation view of Stephanie Syjuco, *I am an . . .* (2017) in the exhibition *Stephanie Syjuco: Citizen[,]{.underline}* Ryan Lee Gallery, New York, September 7–October 14, 2017.
     credit: © Stephanie Syjuco. Courtesy of the artist and Ryan Lee Gallery, New York.
     alt:
-  - id:
+  - id: "hershmanleesonbanner"
+    src: "figures/hershmanleeson/hershmanleesonbanner.jpg"
+    caption: Video still from Lynn Hershman Leeson, *A Commercial for Myself,* 1978. Video, 1:34 minutes.
+    credit:
+    alt:
+  - id: "hershmanleeson2a"
+    src: "figures/hershmanleeson/hershmanleeson2a.jpg"
+    media_id:
+    media_type:
+    caption: Clip from Lynn Hershman Leeson, interview with Jan Zivic, Davis, California, March 4, 2005, for *Women Art Revolution: Voices of a Movement*.
+    credit: Video by Lynn Hershman Leeson.
+    alt:
+  - id: "hershmanleeson4a"
+    src: "figures/hershmanleeson/hershmanleeson4a.jpg"
+    caption: Video still from Lynn Hershman Leeson, *Lorna*, 1983–84. Interactive DVD installation, 78 1/2 x 128 x 52 inches.
+    credit: San José Museum of Art. Museum purchase with funds contributed by the Museum’s Collection Committee, 2010.29.
+    alt:
+  - id: additional hershmanleeson asset goes here
     src:
     caption:
     credit:
     alt:
-  - id:
-    src:
-    caption:
-    credit:
-    alt:
-  - id:
-    src:
-    caption:
-    credit:
-    alt:
-  - id:
-    src:
-    caption:
-    credit:
-    alt:
-  - id:
+  - id: 
     src:
     caption:
     credit:
