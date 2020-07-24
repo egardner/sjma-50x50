@@ -1,6 +1,6 @@
 ---
 label: Robert Arneson
-title: Five Times for Harvey: From Personal to Political
+title: "Five Times for Harvey: From Personal to Political"
 short_title:
 type: page
 weight: 223

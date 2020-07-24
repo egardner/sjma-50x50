@@ -1,6 +1,6 @@
 ---
 label: Ruth Bernhard
-title: Female Nudes: Sculpting with Light
+title: "Female Nudes: Sculpting with Light"
 short_title:
 type: page
 weight: 273

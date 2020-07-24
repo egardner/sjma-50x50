@@ -1,6 +1,6 @@
 ---
 label: Roy De Forest
-title: Boardism: A One-Man Movement
+title: "Boardism: A One-Man Movement"
 short_title:
 type: page
 weight: 353

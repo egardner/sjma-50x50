@@ -448,7 +448,8 @@ figure_list:
     alt: ""
   - id: "bernhardbanner"
     src: "figures/bernhard/bernhardbanner.jpg"
-    caption: Ruth Bernhard at the Chicago venue of Margaretta K. Mitchell’s traveling exhibition *Recollections: Ten Women of Photography*, 1981.
+    caption: >
+      Ruth Bernhard at the Chicago venue of Margaretta K. Mitchell’s traveling exhibition *Recollections: Ten Women of Photography*, 1981.
     credit: Photo by Sophie Vogt. Courtesy of Jeff Wassmann.
     alt:
   - id: "bernhard2a"
@@ -509,10 +510,11 @@ figure_list:
     src: "figures/brown/brown5a.jpg"
     media_id: 433805853
     media_type: vimeo
-    caption: Video of curator Jodi Throckmorton discussing Joan Brown on the occasion of the exhibition *This Kind of Bird Flies Backward: Paintings by Joan Brown* at the San José Museum of Art, October 14, 2011–March 11, 2012.
+    caption: >
+      Video of curator Jodi Throckmorton discussing Joan Brown on the occasion of the exhibition *This Kind of Bird Flies Backward: Paintings by Joan Brown* at the San José Museum of Art, October 14, 2011–March 11, 2012.
     credit: Video by San José Museum of Art.
-    alt: ""
-  - id:: "chagoyabanner"
+    alt:
+  - id: "chagoyabanner"
     src: "figures/chagoya/chagoyabanner.jpg"
     caption: Enrique Chagoya in front of *Their Freedom of Expression . . . The Recovery of Their Economy*, 1984.
     credit:
@@ -539,12 +541,14 @@ figure_list:
     alt:
   - id: "colescott4a"
     src: "figures/colescott/colescott4a.jpg"
-    caption: Exhibition postcard for *Robert Colescott: A Retrospective, 1975–1986*, 1987.
+    caption: >
+      Exhibition postcard for *Robert Colescott: A Retrospective, 1975–1986*, 1987.
     credit: San José Museum of Art.
     alt:
   - id: "colescott5a"
     src: "figures/colescott/colescott5a.jpg"
-    caption: Carrie Mae Weems, *Framed by Modernism*, 1996. Gelatin silver print, silkscreened mat, triptych, each: 31 1/8 x 31 1/8 inches.
+    caption: >
+      Carrie Mae Weems, *Framed by Modernism*, 1996. Gelatin silver print, silkscreened mat, triptych, each: 31 1/8 x 31 1/8 inches.
     credit: © Carrie Mae Weems. Courtesy of the artist and Jack Shainman Gallery, New York.
     alt:
   - id: "colescott3a"
@@ -562,7 +566,8 @@ figure_list:
   - id: "hatoumbanner"
     src: "figures/hatoum/hatoum3b.jpg"
     caption: Video still of Mona Hatoum’s *Variations on Discord and Divisions*, 1984. Live action with hood, knife, bucket, scrubbing brush, red paint, table, chairs, plates, raw beef kidneys, and newspapers. Performed at The Western Front, Vancouver, December 14, 1984.
-    credit: © Mona Hatoum. Courtesy the Western Front, Vancouver. Photo: Cornelia Wyngaarden.
+    credit: >
+      © Mona Hatoum. Courtesy the Western Front, Vancouver. Photo: Cornelia Wyngaarden.
     alt:
   - id: "hatoum3a"
     src: "figures/hatoum/hatoum3a.jpg"
@@ -573,7 +578,8 @@ figure_list:
     src: "figures/hatoum/hatoum4b.jpg"
     media_id: H-xKU_v6Qc4
     media_type: youtube
-    caption: *Mona Hatoum: Terra Infirma*, produced on the occasion of an exhibition at The Menil Collection, Houston, October 13, 2017–February 25, 2018, posted October 25, 2017, 5:39 minutes.
+    caption: >
+      *Mona Hatoum: Terra Infirma*, produced on the occasion of an exhibition at The Menil Collection, Houston, October 13, 2017–February 25, 2018, posted October 25, 2017, 5:39 minutes.
     credit: Courtesy of The Menil Collection
     alt:
   - id: "hatoum5a"
@@ -600,7 +606,8 @@ figure_list:
     alt:
   - id: "le3a"
     src: "figures/le/le3a.jpg"
-    caption: Installation image of *Dinh Q. Lê: True Journey Is Return* at the San José Museum of Art, 2018.
+    caption: >
+      Installation image of *Dinh Q. Lê: True Journey Is Return* at the San José Museum of Art, 2018.
     credit: Photo by Benjamin Blackwell.
     alt:
   - id: "liubanner"
@@ -619,7 +626,8 @@ figure_list:
     src: "figures/liu/liu3b.jpg"
     media_id: 268033427
     media_type: vimeo
-    caption: Hung Liu’s *Four Cantos* performed at the San José Museum of Art, June 20, 2013, as part of the exhibition *Questions from the Sky: New Work by Hung Liu*.
+    caption: >
+      Hung Liu’s *Four Cantos* performed at the San José Museum of Art, June 20, 2013, as part of the exhibition *Questions from the Sky: New Work by Hung Liu*.
     credit: Video by KMVT 15, Silicon Valley Community Media.
     alt:
   - id: "liu5a"
@@ -688,12 +696,14 @@ figure_list:
     alt:
   - id: "arneson3a"
     src: "figures/arneson/arneson3a.jpg"
-    caption: Clockwise from left: Roy De Forest, Robert Arneson, David Gilhooly, Peter VandenBerge, Adeliza McHugh, and Maija Peeples-Bright at the Candy Store Gallery, Folsom, California, 1981.
+    caption: >
+      Clockwise from left: Roy De Forest, Robert Arneson, David Gilhooly, Peter VandenBerge, Adeliza McHugh, and Maija Peeples-Bright at the Candy Store Gallery, Folsom, California, 1981.
     credit: Photo courtesy of Maija Peeples-Bright and The Transmission Gallery.
     alt:
   - id: "arneson5a"
     src: "figures/arneson/arneson5a.jpg"
-    caption: Robert Arneson, *Five Times for Harvey*, 1982. Mixed media on paper, five sheets: each 30 x 24 inches.
+    caption: >
+      Robert Arneson, *Five Times for Harvey*, 1982. Mixed media on paper, five sheets: each 30 x 24 inches.
     credit: San José Museum of Art. Gift of J. Michael Bewley, 2015.07.01a–e. Photograph by Douglas Sandberg.
     alt:
   - id: "arneson2a"
@@ -703,7 +713,8 @@ figure_list:
     alt:
   - id: "bacabanner"
     src: "figures/baca/bacabanner.jpg"
-    caption: Portrait of Judy Baca with *Triumph of the Hearts*, 1990. Acrylic on canvas, one of nine panels: each 10 x 30 feet.
+    caption: >
+      Portrait of Judy Baca with *Triumph of the Hearts*, 1990. Acrylic on canvas, one of nine panels: each 10 x 30 feet.
     credit: Judith F. Baca ©1990. Image courtesy of SPARC Archives sparcinla.org.
     alt:
   - id: "baca4a"
@@ -737,7 +748,8 @@ figure_list:
     src: "figures/gill/gill2d.jpg"
     media_id: 298262656
     media_type: vimeo
-    caption: Clip of Gauri Gill, interviewed by Sherrill Ingalls for *The Kamla Show,* filmed on May 21, 2015, on the occasion of the exhibition *Postdate: Photography and Inherited History in India* at the San José Museum of Art, February 5–August 2, 2015.
+    caption: >
+      Clip of Gauri Gill, interviewed by Sherrill Ingalls for *The Kamla Show,* filmed on May 21, 2015, on the occasion of the exhibition *Postdate: Photography and Inherited History in India* at the San José Museum of Art, February 5–August 2, 2015.
     credit:
     alt:
   - id: "gill3a"
@@ -847,12 +859,14 @@ figure_list:
     src: "figures/howard/howard3a.jpg"
     media_id: 281092051
     media_type: vimeo
-    caption: Clip from an interview with Mildred Howard regarding her work *Abode: Sanctuary of the Familia(r)* (1994) at the San José Museum of Art, 2009. Video by San José Museum of Art.
+    caption: >
+      Clip from an interview with Mildred Howard regarding her work *Abode: Sanctuary of the Familia(r)* (1994) at the San José Museum of Art, 2009. Video by San José Museum of Art.
     credit: Video by San José Museum of Art.
     alt:
   - id: "howard4a"
     src: "figures/howard/howard4a.jpg"
-    caption: Mildred Howard, *Switchin’ in the Kitchen: From Dakar to Detroit & the Mississippi Delta*, 2013. Mixed media, 12 x 60 x 10 inches.
+    caption: >
+      Mildred Howard, *Switchin’ in the Kitchen: From Dakar to Detroit & the Mississippi Delta*, 2013. Mixed media, 12 x 60 x 10 inches.
     credit: Photo by John Wehrle. Courtesy the artist and Anglim Gilbert Gallery.
     alt:
   - id: "misrachbanner"
@@ -874,7 +888,8 @@ figure_list:
     src: "figures/misrach/misrach4a.jpg"
     media_id: Z238JPc154w
     media_type: youtube
-    caption: Video clip from “Photographer Spotlight: Richard Misrach,” Los Angeles Review of Books online, July 6, 2015.
+    caption: >
+      Video clip from “Photographer Spotlight: Richard Misrach,” Los Angeles Review of Books online, July 6, 2015.
     credit: Produced by Michael Kurcfeld.
     alt:
   - id: "ocampobanner"
@@ -911,7 +926,8 @@ figure_list:
     src: "figures/woodman/woodman2a.jpg"
     media_id: 276142168
     media_type: vimeo
-    caption: Clip from *Betty Woodman: Thinking Out Loud*, 1990.
+    caption: >
+      Clip from *Betty Woodman: Thinking Out Loud*, 1990.
     credit: Filmed in New York by Charles Woodman.
     alt:
   - id: "woodman4a"
@@ -958,7 +974,8 @@ figure_list:
     alt:
   - id: "kallat4c"
     src: "figures/kallat/kallat4c.jpg"
-    caption: Detail of Jitish Kallat, *Epilogue*, 2010–11. Pigment print on archival paper; 753 prints: 11 3/16 x 14 3/8 inches each.
+    caption: >
+      Detail of Jitish Kallat, *Epilogue*, 2010–11. Pigment print on archival paper; 753 prints: 11 3/16 x 14 3/8 inches each.
     credit: Photo by Richard Karson. Courtesy Jitish Kallat Studio.
     alt:
   - id: "kallat3a"
@@ -995,7 +1012,8 @@ figure_list:
     alt:
   - id: "goldsworthybanner"
     src: "figures/goldsworthy/goldsworthybanner.jpg"
-    caption: Video still from Thomas Riedelsheimer, *Rivers and Tides: Andy Goldsworthy Working with Time* (Burlington, VT: Docurama, 2001), video.
+    caption: >
+      Video still from Thomas Riedelsheimer, *Rivers and Tides: Andy Goldsworthy Working with Time* (Burlington, VT: Docurama, 2001), video.
     credit: Courtesy Skyline Productions Ltd.
     alt:
   - id: "goldsworthy5a"
@@ -1007,7 +1025,8 @@ figure_list:
     src: "figures/goldsworthy/goldsworthy2a.jpg"
     media_id: 290962718
     media_type: vimeo
-    caption: Clip from Thomas Riedelsheimer, *Rivers and Tides: Andy Goldsworthy Working with Time* (Burlington, VT: Docurama, 2001), video.
+    caption: >
+      Clip from Thomas Riedelsheimer, *Rivers and Tides: Andy Goldsworthy Working with Time* (Burlington, VT: Docurama, 2001), video.
     credit: Courtesy Skyline Productions Ltd.
     alt:
   - id: "goldsworthy4c"
@@ -1024,14 +1043,16 @@ figure_list:
     alt:
   - id: "banerjee3a"
     src: "figures/banerjee/banerjee3a.jpg"
-    caption: Installation view of Rina Banerjee’s *Take me, take me, take me . . . to the Palace of love* (2003) in the exhibition *Rina Banerjee: Make Me a Summary of the World*, San José Museum of Art, May 16–October 2, 2019.
+    caption: >
+      Installation view of Rina Banerjee’s *Take me, take me, take me . . . to the Palace of love* (2003) in the exhibition *Rina Banerjee: Make Me a Summary of the World*, San José Museum of Art, May 16–October 2, 2019.
     credit: Photo by Johnna Arnold / JKA Photography.
     alt:
   - id: "banerjee4a"
     src: "figures/banerjee/banerjee4a.jpg"
     media_id: 301042790
     media_type: vimeo
-    caption: Time-lapse video of Rina Banerjee installing *A World Lost: after the original island, single land mass fractured, after populations migrated, after pollution revealed itself and as cultural locations once separated merged, after the splitting of Adam and Eve, Shiva and Shakti, of race black and white, of culture East and West, after animals diminished, after the seas’ corals did exterminate, after this and at last imagine all water evaporated . . . this after Columbus found it we lost it imagine this* (2013) at the Sackler Gallery, Smithsonian Institution, Washington, DC, July 13, 2013–June 8, 2014.
+    caption: >
+      Time-lapse video of Rina Banerjee installing *A World Lost: after the original island, single land mass fractured, after populations migrated, after pollution revealed itself and as cultural locations once separated merged, after the splitting of Adam and Eve, Shiva and Shakti, of race black and white, of culture East and West, after animals diminished, after the seas’ corals did exterminate, after this and at last imagine all water evaporated . . . this after Columbus found it we lost it imagine this* (2013) at the Sackler Gallery, Smithsonian Institution, Washington, DC, July 13, 2013–June 8, 2014.
     credit: Video by Hutomo Wicaksono.
     alt:
   - id: "banerjee5a"
@@ -1053,12 +1074,14 @@ figure_list:
     src: "figures/tabaimo/tabaimo4b.jpg"
     media_id: WiA3fOEBVi4
     media_type: youtube
-    caption: Tabaimo interviewed on the occasion of the exhibition *Moderna Museet Nu: Tabaimo* at Moderna Museet, Stockholm, January 31–April 19, 2009.
+    caption: >
+      Tabaimo interviewed on the occasion of the exhibition *Moderna Museet Nu: Tabaimo* at Moderna Museet, Stockholm, January 31–April 19, 2009.
     credit: Courtesy Moderna Museet.
     alt:
   - id: "tabaimo5b"
     src: "figures/tabaimo/tabaimo5b.jpg"
-    caption: Installation view of *Tabaimo: Her Room* at the San José Museum of Art, February 6–August 21, 2016.
+    caption: >
+      Installation view of *Tabaimo: Her Room* at the San José Museum of Art, February 6–August 21, 2016.
     credit: Photo by San José Museum of Art.
     alt:
   - id: "teraoka1a"
@@ -1107,7 +1130,8 @@ figure_list:
     src: "figures/deforest/deforest5a.jpg"
     media_id: 266419268
     media_type: vimeo
-    caption: Video clip from Suzanne Simpson*, Roy De Forest: You Can Make Art Out of Anything*, 1974. Digitally restored by Pentimenti Productions, 2017.
+    caption: >
+      Video clip from Suzanne Simpson*, Roy De Forest: You Can Make Art Out of Anything*, 1974. Digitally restored by Pentimenti Productions, 2017.
     credit: Courtesy of Suzanne Simpson.
     alt:
   - id: "saundersbanner"
@@ -1151,7 +1175,8 @@ figure_list:
     alt:
   - id: "syjuco5a"
     src: "figures/syjuco/syjucob5a.jpg"
-    caption: Installation view of Stephanie Syjuco, *I am an . . .* (2017) in the exhibition *Stephanie Syjuco: Citizen[,]{.underline}* Ryan Lee Gallery, New York, September 7–October 14, 2017.
+    caption: >
+      Installation view of Stephanie Syjuco, *I am an . . .* (2017) in the exhibition *Stephanie Syjuco: Citizen[,]{.underline}* Ryan Lee Gallery, New York, September 7–October 14, 2017.
     credit: © Stephanie Syjuco. Courtesy of the artist and Ryan Lee Gallery, New York.
     alt:
   - id: "hershmanleesonbanner"
@@ -1163,7 +1188,8 @@ figure_list:
     src: "figures/hershmanleeson/hershmanleeson2a.jpg"
     media_id:
     media_type:
-    caption: Clip from Lynn Hershman Leeson, interview with Jan Zivic, Davis, California, March 4, 2005, for *Women Art Revolution: Voices of a Movement*.
+    caption: >
+      Clip from Lynn Hershman Leeson, interview with Jan Zivic, Davis, California, March 4, 2005, for *Women Art Revolution: Voices of a Movement*.
     credit: Video by Lynn Hershman Leeson.
     alt:
   - id: "hershmanleeson4a"
@@ -1195,7 +1221,8 @@ figure_list:
     src: "figures/wagner/wagner4b.jpg"
     media_id: 441180699
     media_type: vimeo
-    caption: Video clip of Catherine Wagner on the occasion of the exhibition *Catherine Wagner: Paradox Observed*, San José Museum of Art, April 5­–August 18, 2019 and the Museum’s 50th Anniversary Gala.
+    caption: >
+      Video clip of Catherine Wagner on the occasion of the exhibition *Catherine Wagner: Paradox Observed*, San José Museum of Art, April 5­–August 18, 2019 and the Museum’s 50th Anniversary Gala.
     credit: Video by Justin Tran, No Friends Productions, August 2019.
     alt:
   - id:

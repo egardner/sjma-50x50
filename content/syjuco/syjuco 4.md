@@ -1,6 +1,6 @@
 ---
 label: Stephanie Syjuco
-title: Protests: Politics and Aesthetics
+title: "Protests: Politics and Aesthetics"
 short_title:
 type: page
 weight: 614

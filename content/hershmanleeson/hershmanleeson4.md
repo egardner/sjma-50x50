@@ -1,7 +1,7 @@
 ---
 label: Lynn Hershman Leeson
 title: Performance Dinners
-short_title: !Women Art Revolution
+short_title: "!Women Art Revolution"
 type: page
 weight: 433
 menu: false

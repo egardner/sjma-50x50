@@ -1,7 +1,7 @@
 ---
 label: Lynn Hershman Leeson
 title: How We Construct Identity
-short_title: !Women Art Revolution
+short_title: "!Women Art Revolution"
 type: page
 weight: 432
 menu: false
