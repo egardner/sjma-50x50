@@ -1125,6 +1125,8 @@ figure_list:
     alt:
   - id: "saunders5a"
     src: "figures/saunders/saunders5a.jpg"
+    media_id: 277354239
+    media_type: vimeo
     caption: Clip of Raymond Saunders, San Francisco Museum of Modern Art interview at Wirtz Gallery, San Francisco, December 6, 1994.
     credit: © Raymond Saunders. Courtesy of the CCAC Archives at California College of the Arts Libraries, San Francisco, California.
     alt:
@@ -1189,7 +1191,7 @@ figure_list:
     alt:
   - id: "wagner4b"
     src: "figures/wagner/wagner4b.jpg"
-    media_id:
+    media_id: 441180699
     media_type: vimeo
     caption: Video clip of Catherine Wagner on the occasion of the exhibition *Catherine Wagner: Paradox Observed*, San José Museum of Art, April 5­–August 18, 2019 and the Museum’s 50th Anniversary Gala.
     credit: Video by Justin Tran, No Friends Productions, August 2019.
