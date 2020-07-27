@@ -673,12 +673,12 @@ figure_list:
     credit: © Estate of Louise Nevelson / Artists Rights Society (ARS), New York. Photo by Tom Barratt, courtesy Pace Gallery.
     alt:
   - id: "nevelson4a"
-    src: "figures/nevelson/nevelson2b.jpg"
+    src: "figures/nevelson/nevelson4a.jpg"
     caption: Louise Nevelson, *Sky Cathedral*, 1957. Painted wood, 57 x 149 x 16 in.
     credit: San José Museum of Art. Gift of Beverly and Peter Lipman, 2010.16. Photo by Douglas Sandberg.
     alt:
   - id: "nevelson4d"
-    src: "figures/nevelson/nevelson4b.jpg"
+    src: "figures/nevelson/nevelson4d.jpg"
     caption: Installation image of Louise Nevelson’s *Sun Garden I* at the Whitney Museum of American Art, New York, 1980.
     credit:
     alt:
@@ -1186,8 +1186,8 @@ figure_list:
     alt:
   - id: "hershmanleeson2a"
     src: "figures/hershmanleeson/hershmanleeson2a.jpg"
-    media_id:
-    media_type:
+    media_id: 279155307
+    media_type: vimeo
     caption: >
       Clip from Lynn Hershman Leeson, interview with Jan Zivic, Davis, California, March 4, 2005, for *Women Art Revolution: Voices of a Movement*.
     credit: Video by Lynn Hershman Leeson.
