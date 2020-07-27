@@ -4,7 +4,7 @@ subtitle: United States, 1930–1992
 weight: 220
 type: artist
 epub: false
-grid: type-a
+grid: type-c
 slug: .
 ---
 

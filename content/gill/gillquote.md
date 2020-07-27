@@ -4,7 +4,7 @@ subtitle: India, b. 1970
 weight: 380
 type: artist
 epub: false
-grid: type-a
+grid: type-d
 slug: .
 ---
 >I wished to make portraits of individuals—the taxi driver and shopkeeper and IT professional, also the magician, NYPD officer, DJ, rapper, farmer, drag queen, pharmacist, gas station attendant . . . remarkable people that may have their roots in one particular community, but represent only themselves.
