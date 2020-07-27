@@ -1,6 +1,6 @@
 ---
 label: Louise Nevelson
-title: Origins of *Sky Cathedral
+title: Origins of *Sky Cathedral*
 short_title:
 type: page
 weight: 524

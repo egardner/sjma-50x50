@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "arnesonbanner"
 media:
-  - "image"
+  - "zoom"
 ---
 {{<q-figure id="arnesonbanner">}}
 
