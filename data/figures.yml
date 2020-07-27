@@ -261,8 +261,8 @@ figure_list:
     caption: Mary Corse in her downtown Los Angeles studio, 1966. Copyright Mary Corse.
     credit: Courtesy of the artist and Kayne Griffin Corcoran.
     alt: "Mary standing over a large canvas on a rolling transport cart"
-  - id: " banner"
-    src: figures/defeo/defeobanner.jpeg
+  - id: "defeobanner"
+    src: figures/defeo/defeobanner.jpg
     caption: Jay DeFeo working on *Deathrose*, ca. 1958.
     credit: Photo by Jerry Burchard © Estate of Jerry Burchard. Used with permission.
     alt: "defeo working on a 10 foot panel of work in her studio"
@@ -564,7 +564,7 @@ figure_list:
     credit: Courtesy of the Diana Krevsky Collection, Archive of Recorded Sound, Stanford University Libraries.
     alt:
   - id: "hatoumbanner"
-    src: "figures/hatoum/hatoum3b.jpg"
+    src: "figures/hatoum/hatoumbanner.jpg"
     caption: Video still of Mona Hatoum’s *Variations on Discord and Divisions*, 1984. Live action with hood, knife, bucket, scrubbing brush, red paint, table, chairs, plates, raw beef kidneys, and newspapers. Performed at The Western Front, Vancouver, December 14, 1984.
     credit: >
       © Mona Hatoum. Courtesy the Western Front, Vancouver. Photo: Cornelia Wyngaarden.
@@ -683,7 +683,7 @@ figure_list:
     credit:
     alt:
   - id: 'nevelson4f'
-    src: "figures/nevelson/nevelson4b.jpg"
+    src: "figures/nevelson/nevelson4f.jpg"
     media_id:
     media_type: vimeo
     caption: San José Museum of Art curatorial associate Marja van der Loo talking with collector Peter Lipman about Louise Nevelson’s *Sky Cathedral* (1957) at Lipman’s home in 2017.
@@ -923,7 +923,7 @@ figure_list:
     credit: Photo by George Woodman. Courtesy of Charles Woodman.
     alt:
   - id: "woodman3a"
-    src: "figures/woodman/woodman2a.jpg"
+    src: "figures/woodman/woodman3a.jpg"
     media_id: 276142168
     media_type: vimeo
     caption: >
@@ -946,7 +946,7 @@ figure_list:
     credit: © Dennis Hopper, Courtesy of The Hopper Art Trust.
     alt:
   - id: "foulkes2a"
-    src: "figures/foulkes/foulkes2a.jpg"
+    src: "figures/foulkes/foulkes2c.jpg"
     caption: Llyn Foulkes and the Rubber Band, 1974.
     credit:
     alt:
@@ -1162,19 +1162,19 @@ figure_list:
     credit: Photo by Mike Kepka. Courtesy of Mike Kepka / San Francisco Chronicle / Polaris.
     alt:
   - id: "syjuco4a"
-    src: "figures/syjuco/syjucob4a.jpg"
+    src: "figures/syjuco/syjuco4a.jpg"
     media_id: 298478251
     media_type: vimeo
     caption: Video clip from “In the Gallery with Stephanie Syjuco,” *75th Anniversary of the Golden Gate Bridge*, KQED, San Francisco, 2012.
     credit: Video by Matthew Williams and Kristin Farr. ©2012 KQED, Inc.
     alt:
   - id: "syjuco4b"
-    src: "figures/syjuco/syjucob4b.jpg"
+    src: "figures/syjuco/syjuco4b.jpg"
     caption: Stephanie Syjuco, *The International Orange Commemorative Store (A Proposition)*, 2012. Mixed-media installation, dimensions variable.
     credit: San José Museum of Art. Commissioned by the FOR-SITE Foundation as part of the exhibition *International Orange* and on the occasion of the Golden Gate Bridge’s 75 Year Anniversary. Gift of the artist and the Catharine Clark Gallery, San Francisco, 2013.04.
     alt:
   - id: "syjuco5a"
-    src: "figures/syjuco/syjucob5a.jpg"
+    src: "figures/syjuco/syjuco5a.jpg"
     caption: >
       Installation view of Stephanie Syjuco, *I am an . . .* (2017) in the exhibition *Stephanie Syjuco: Citizen[,]{.underline}* Ryan Lee Gallery, New York, September 7–October 14, 2017.
     credit: © Stephanie Syjuco. Courtesy of the artist and Ryan Lee Gallery, New York.
