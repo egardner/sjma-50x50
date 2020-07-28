@@ -4,7 +4,7 @@ subtitle: United States, 1928–2010
 weight: 540
 type: artist
 epub: false
-grid: type-e
+grid: type-f
 slug: .
 ---
 >Figures must have their own light, it wasn’t light that struck the figure in a certain way—the light itself, the luminosity was in the figure. It emanated from the paint itself.

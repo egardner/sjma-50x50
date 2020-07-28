@@ -4,7 +4,7 @@ subtitle: Russia/United States, 1899–1988
 weight: 520
 type: artist
 epub: false
-grid: type-e
+grid: type-f
 slug: .
 ---
 

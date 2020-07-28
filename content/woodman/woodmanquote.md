@@ -4,7 +4,7 @@ subtitle: United States, 1930–2018
 weight: 690
 type: artist
 epub: false
-grid: type-e
+grid: type-f
 slug: .
 ---
 
