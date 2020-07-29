@@ -100,6 +100,7 @@ figure_list:
     caption: >-
       Ruth Asawa works on a crocheted-wire sculpture in her living room, ca. 1976.
     credit: Photo by Allen Nomura.
+    alt: ""
   - id: "asawa2a"
     src: figures/asawa/asawa2a.jpg
     media_id: 411530047
@@ -107,16 +108,18 @@ figure_list:
     caption: >-
       Clip from Robert Snyder’s film *Ruth Asawa: Of Forms and Growth*, 1978.
     credit: © Masters & Masterworks Productions, Inc.
+    alt: ""
   - id: "asawa3a"
     src: figures/asawa/asawa3a-untitled035.jpg
     caption: >-
       Ruth Asawa, *Untitled (S.035, Hanging Six-Lobed, Multilayered Interlocking
       Continuous Form within a Form with Spheres in the Second, Fifth, and Sixth
-      Lobes)*, from "Group of Architectural Works," ca. 1962. Brass and copper wire, 88 x 15 1/2 x 15 1/2 inches.
+      Lobes)*, ca. 1962. Brass and copper wire, 88 x 15 1/2 x 15 1/2 inches.
     credit: >-
       San José Museum of Art. Gift of the artist in honor of
       the San José Museum of Art’s 35th anniversary, 2003.28.03. Photograph by Johnna
-      Arnold.
+      Arnold. Artwork © The Estate of Ruth Asawa/ Artists Rights Society (ARS), New York. Courtesy of The Estate of Ruth Asawa and David Zwirner.
+    alt: ""
   - id: "asawa3b"
     src: figures/asawa/asawa3b-untitled035detail.jpg
     caption: >-
@@ -124,6 +127,7 @@ figure_list:
       Continuous Form within a Form with Spheres in the Second, Fifth, and Sixth
       Lobes)*, ca. 1962.
     credit:
+    alt: ""
   - id: "asawa5d"
     src: figures/asawa/asawa5d-internmentmemorial.jpg
     caption: >-
@@ -131,6 +135,7 @@ figure_list:
       San José, California, March 5, 1994. Ruth Asawa Papers, M1585: Box X, Folder Y. Courtesy of the Department of Special Collections, Stanford Libraries.
     credit: >-
       Artwork © Estate of Ruth Asawa. Photo by Fay Royal Baxter.
+    alt: "Asawa and large crowd gathered awround sculpture wall"
   - id: "hawkinson3a"
     src: figures/hawkinson/hawkinson3a.jpg
     media_id: 303177095
