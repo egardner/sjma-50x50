@@ -715,7 +715,7 @@ figure_list:
     src: "figures/baca/bacabanner.jpg"
     caption: >
       Portrait of Judy Baca with *Triumph of the Hearts*, 1990. Acrylic on canvas, one of nine panels: each 10 x 30 feet.
-    credit: Judith F. Baca ©1990. Image courtesy of SPARC Archives sparcinla.org.
+    credit: Judith F. Baca © 1990. Image courtesy of SPARC Archives sparcinla.org.
     alt:
   - id: "baca4a"
     src: "figures/baca/baca4a.jpg"
@@ -726,7 +726,7 @@ figure_list:
     src: "figures/baca/baca2a.jpg"
     media_id: xLukeHvmc
     media_type: vimeo
-    caption: Judy Baca talks about her experience painting *The Great Wall of Los Angeles (2011)*, “20 Innovators,” NBC Latino, online video, 2:10 minutes.
+    caption: Judy Baca talks about her experience painting *The Great Wall of Los Angeles*, “20 Innovators,” (2011) NBC Latino, online video, 2:10 minutes.
     credit: Video by Joan Saab, Critical Commons.
     alt:
   - id: "baca5e"
