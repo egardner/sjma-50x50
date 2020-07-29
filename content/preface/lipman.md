@@ -1,6 +1,6 @@
 ---
-title: "Why a Permanent Collection for a Twenty-First-Century Museum of Contemporary Art"
-subtitle: "A Fifty-Year Perspective"
+title: "A Fifty-Year Perspective: Why a Permanent Collection for a Twenty-First-Century Museum of Contemporary Art"
+subtitle: 
 short_title: A Fifty-Year Perspective
 weight: 5
 type: essay
