@@ -692,7 +692,7 @@ figure_list:
   - id: "arnesonbanner"
     src: "figures/arneson/arnesonbanner.jpg"
     caption: Portrait of Robert Arneson at the University of California, Davis, 1979.
-    credit: Portrait by Kurt Edward Fishback ©1979.
+    credit: Portrait by Kurt Edward Fishback © 1979.
     alt:
   - id: "arneson3a"
     src: "figures/arneson/arneson3a.jpg"
