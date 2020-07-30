@@ -18,6 +18,6 @@ While artists often project film and video work in a black box—a theater-like 
 
 >It’s something that needs to be navigated and it’s something that needs to be survived. But to a fish, water is an invisibility the same way space is to us. I wanted to figure out a way to make people aware of the space they occupy while they’re occupying it, and to see a space like an object . . . and when you go into it, you’re in the glowing light and you see, you sense, you feel this kind of fizzle of color, this intensity.[^2]
 
-[^1]: Diana Thater, in Creative Minds artist talk on the occasion of the exhibition *Beta Space: Diana Thater*, San José Museum of Art, April 23, 2015, video, 2:45 minutes, available at [youtube.com/watch?v=cSUL\_uPfinE](https://www.youtube.com/watch?v=cSUL\_uPfinE)
+[^1]: Diana Thater, in Creative Minds artist talk on the occasion of the exhibition *Beta Space: Diana Thater*, San José Museum of Art, April 23, 2015, video, 2:45 minutes, available at [youtube.com/watch?v=cSUL\_uPfinE](https://www.youtube.com/watch?v=cSUL\_uPfinE).
 
-[^2]: Diana Thater, in Creative Minds artist talk on the occasion of the exhibition *Beta Space: Diana Thater*, San José Museum of Art, April 23, 2015, video, 2:45 minutes, available at [youtube.com/watch?v=cSUL\_uPfinE](https://www.youtube.com/watch?v=cSUL\_uPfinE)
+[^2]: Diana Thater, in Creative Minds artist talk on the occasion of the exhibition *Beta Space: Diana Thater*, San José Museum of Art, April 23, 2015, video, 2:45 minutes, available at [youtube.com/watch?v=cSUL\_uPfinE](https://www.youtube.com/watch?v=cSUL\_uPfinE).

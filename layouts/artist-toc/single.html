@@ -1,0 +1,53 @@
+{{ define "main" }}
+<article class="{{ partial "page-class.html" . }} quire-page" id="main" role="main">
+	{{ partial "page-header.html" . }}
+	
+	{{ $pages := $.Site.Pages }}
+	{{ $artists := where $pages ".Type" "artist" }}
+
+	<div class="sjma-artist-toc-grid">
+	{{ range $artists }}
+	{{ $scratch := newScratch }}
+	{{ $subPages :=  where (where .Site.Pages "Section" .Section) "Title" "ne" .Page.Title }}
+	{{ $firstPage := index $subPages 0 }}
+	{{ $object := index $firstPage.Params.object 0 }}
+	{{ $scratch.Set "objectId" $object.id }}
+
+	{{ range where $.Site.Data.figures.figure_list "id" ( $scratch.Get "objectId" ) }}
+	{{ $scratch.Set "banner" .src }}
+	{{ end }}
+
+	{{ $banner := $scratch.Get "banner" }}
+
+		<a class="sjma-artist-toc-grid__item" href="{{ .RelPermalink }}">
+			<div class="sjma-artist-toc-grid__item__label">
+				<h6 class="sjma-artist-toc-grid__item__title">
+					{{ .Title }}
+				</h6>
+			</div>
+
+			<img class="sjma-artist-toc-grid__item__image"
+				src="{{ printf "/%s/%s" $.Site.Params.imageDir $banner  }}?nf_resize=fit&h=400"
+				alt="{{ .Title }}"
+			/>
+		</a>
+	{{ end }}
+	</div>
+
+    {{ if .Content }}
+    <section class="section quire-page__content" id="content">
+        <div class="container">
+            <div class="content">
+                {{ .Content }}
+                {{ partial "page-bibliography.html" . }}
+            </div>
+        </div>
+    </section>
+    {{ end }}
+    <section class="section quire-page__content">
+        <div class="container">
+            {{ partial "footer-buttons.html" . }}
+        </div>
+    </section>
+</article>
+{{ end }}

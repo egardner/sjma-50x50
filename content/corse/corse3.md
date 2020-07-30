@@ -18,6 +18,6 @@ Mary Corse stripped painting bare. In pursuit of moving beyond representation to
 
 [^1]: Robin Clark, *Phenomenal: California Light, Space, Surface* (Berkeley: University of California Press; and San Diego: Museum of Contemporary Art San Diego, 2011), 55.
 
-[^2]: Mary Corse, in Andy Eason’s *White Light*, filmed in 1969, video, 9:11 minutes, available at [vimeo.com/195141784](https://vimeo.com/195141784)
+[^2]: Mary Corse, in Andy Eason’s *White Light*, filmed in 1969, video, 9:11 minutes, available at [vimeo.com/195141784](https://vimeo.com/195141784).
 
-[^3]: Mary Corse, in “Mary Corse Oral History,” interview with Rani Singh, Getty Research Institute, filmed in 2011 at Corse’s studio in Topanga Canyon, California, video, 1:02:12 hours, available at [https://www.youtube.com/watch?v=gUzti\_LrFgg](https://www.youtube.com/watch?v=gUzti\_LrFgg)
+[^3]: Mary Corse, in “Mary Corse Oral History,” interview with Rani Singh, Getty Research Institute, filmed in 2011 at Corse’s studio in Topanga Canyon, California, video, 1:02:12 hours, available at [https://www.youtube.com/watch?v=gUzti\_LrFgg](https://www.youtube.com/watch?v=gUzti\_LrFgg).
