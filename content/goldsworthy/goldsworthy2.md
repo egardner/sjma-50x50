@@ -18,4 +18,4 @@ Soft, iron-rich red stones hide under hard rocks along the Scaur Water, a river 
 
 [^1]: Andy Goldsworthy, *Wood*, ed. Terry Friedman (London: Viking, 1996), 8.
 
-[^2]: “Andy Goldsworthy: Faultline: On Site,” *Spark*, KQED, San Francisco, aired June 2005 (posted September 10, 2010), video, 5:39 minutes, available at [youtube.com/watch?time\_continue=17&v=g1UpH5-5JJ4&feature=emb\_logo](https://www.youtube.com/watch?time\_continue=17&v=g1UpH5-5JJ4&feature=emb\_logo){.underline}.
+[^2]: “Andy Goldsworthy: Faultline: On Site,” *Spark*, KQED, San Francisco, aired June 2005 (posted September 10, 2010), video, 5:39 minutes, available at [youtube.com/watch?time\_continue=17&v=g1UpH5-5JJ4&feature=emb\_logo](https://www.youtube.com/watch?time\_continue=17&v=g1UpH5-5JJ4&feature=emb\_logo).
