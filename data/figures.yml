@@ -848,9 +848,9 @@ figure_list:
     alt:
   - id: "viola4b"
     src: "figures/viola/viola4b.jpg"
-    caption:   - id: "viola4a"
-    src: "figures/viola/viola4a.jpg"
-    caption: Clip from Mark Kidel, *Bill Viola: The Eye of the Heart*, 2003.
+    media_id: 443147078
+    media_type: vimeo
+    caption: "Clip from Mark Kidel, *Bill Viola: The Eye of the Heart*, 2003."
     credit: Calliope Media and BBC with ARTE France, video, 59 minutes.
     alt:
   - id: "howardbanner"
