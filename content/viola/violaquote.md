@@ -4,7 +4,7 @@ subtitle: United States, b. 1951
 weight: 660
 type: artist
 epub: false
-grid: type-g
+grid: type-a
 slug: .
 ---
 
