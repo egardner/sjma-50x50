@@ -364,6 +364,8 @@ figure_list:
     alt: "Leo to the left with bridge illuminated at night in the background"
   - id: "villareal2a"
     src: "figures/villareal/villareal2a.jpg"
+    media_id: 411602892
+    media_type: vimeo
     caption: "*Interview with Leo Villareal*, created on the occasion of his solo exhibition at the San José Museum of Art, 2010."
     credit: Video by Tisha Carper Long.
     alt: "rv bus wrapped in loose silver sheeting with five bicycles parked around the side of the van and background"
@@ -557,8 +559,8 @@ figure_list:
     alt:
   - id: "colescott3b"
     src: "figures/colescott/colescott3b.jpg"
-    media_id: H_U2VyVGOYA
-    media_type: youtube
+    media_id:
+    media_type: vimeo
     caption: Audio clip from interview with Robert Colescott by Diana Krevsky at his Oakland studio for KUSF radio’s *Fine Arts Spectrum*, December 20, 1978.
     credit: Courtesy of the Diana Krevsky Collection, Archive of Recorded Sound, Stanford University Libraries.
     alt:
@@ -915,6 +917,8 @@ figure_list:
     alt:
   - id: "ocampo3a"
     src: "figures/ocampo/ocampo3a.jpg"
+    media_id: 297191141/
+    media_type: vimeo
     caption: Video clip from *God Is My Copilot*, 1999. Directed by Phillip Rodriguez.
     credit: Produced by Tom Patchett.
     alt:

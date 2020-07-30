@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "tabaimo4b"
 media:
-  - "zoom"
+  - "video"
 ---
 {{<q-figure id="tabaimo4b">}}
 

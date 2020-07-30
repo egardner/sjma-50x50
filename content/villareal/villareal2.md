@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "villareal2a"
 media:
-  - "zoom"
+  - "video"
 ---
 
 {{<q-figure id="villareal2a" >}}

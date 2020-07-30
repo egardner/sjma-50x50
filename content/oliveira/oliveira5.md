@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "oliveira5a"
 media:
-  - "zoom"
+  - "video"
 ---
 {{<q-figure id="oliveira5a">}}
 

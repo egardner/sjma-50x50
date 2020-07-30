@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "wagner4b"
 media:
-  - "zoom"
+  - "video"
 ---
 {{<q-figure id="wagner4b">}}
 
