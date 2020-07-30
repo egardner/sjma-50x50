@@ -852,14 +852,14 @@ figure_list:
   - id: "howard2b"
     src: "figures/howard/howard2b.jpg"
     caption: Mildred Howard, *Broken Bow*, 1993. Mixed media on artist-made frame, 30 x 9 x 1 3/4 inches.
-    credit: San José Museum of Art. Museum purchase with funds contributed by the Collection Committee, 1999.15.01 Photo by Douglas Sandberg.
+    credit: San José Museum of Art. Museum purchase with funds contributed by the Collection Committee, 1999.15.01. Photo by Douglas Sandberg.
     alt:
   - id: "howard3a"
     src: "figures/howard/howard3a.jpg"
     media_id: 281092051
     media_type: vimeo
     caption: >
-      Clip from an interview with Mildred Howard regarding her work *Abode: Sanctuary of the Familia(r)* (1994) at the San José Museum of Art, 2009. Video by San José Museum of Art.
+      Clip from an interview with Mildred Howard regarding her work *Abode: Sanctuary for the Familia(r)* (1994) at the San José Museum of Art, 2009.
     credit: Video by San José Museum of Art.
     alt:
   - id: "howard4a"
