@@ -18,4 +18,4 @@ Dinh Q. Lê has amassed an archive including some “200 kilos”[^1] of found p
 
 [^1]: Dinh Q. Lê, in an interview with Moira Roth, October 28, 2017–March 9, 2018, in *Dinh Q. Lê: True Journey Is Return,* ed. Rory Padeken (San José, CA: San José Museum of Art, 2019), 23.
 
-[^2]: Dinh Q. Lê, in an interview with Carolyn Christov-Bakargiev, in *Dinh Q. Le* (Ostfildern, Germany: Hatje Cantz, 2012), 3.
+[^2]: Dinh Q. Lê, in an interview with Carolyn Christov-Bakargiev, in *Dinh Q. Lê* (Ostfildern, Germany: Hatje Cantz, 2012), 3.
