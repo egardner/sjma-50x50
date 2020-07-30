@@ -18,6 +18,6 @@ Hair is an important personal and cultural symbol in Alison Saar’s work. For t
 
 [^1]: Alison Saar, in interview “Alison Saar: Otis Alumna 1981,” *Otis Legacy Project: Interviews of Distinguished Otis Alumni*, Otis College of Art and Design, Los Angeles, March 13, 2008, video, 5:24 minutes, available at [otis.edu/video/alison-saar](https://www.otis.edu/video/alison-saar).
 
-[^2]: Linda Tesner, *Alison Saar: Bound for Glory* (Portland, Oregon: Ronna and Eric Hoffman Gallery of Contemporary Art Lewis and Clark College, 2010), 17.
+[^2]: Linda Tesner, *Alison Saar: Bound for Glory* (Portland, OR: Ronna and Eric Hoffman Gallery of Contemporary Art Lewis and Clark College, 2010), 17.
 
-[^3]: Alison Saar, artist lecture, “Duped,” at College of Fine Arts, Boston University, September 22, 2010 (posted November 1, 2010, video, 57:18 minutes, available at [youtube.com/watch?v=S5sLwN64m9k](https://www.youtube.com/watch?v=S5sLwN64m9k).
+[^3]: Alison Saar, artist lecture, “Duped,” at College of Fine Arts, Boston University, September 22, 2010 (posted November 1, 2010), video, 57:18 minutes, available at [youtube.com/watch?v=S5sLwN64m9k](https://www.youtube.com/watch?v=S5sLwN64m9k).
