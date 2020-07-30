@@ -1165,7 +1165,7 @@ figure_list:
     media_id: 298478251
     media_type: vimeo
     caption: Video clip from “In the Gallery with Stephanie Syjuco,” *75th Anniversary of the Golden Gate Bridge*, KQED, San Francisco, 2012.
-    credit: Video by Matthew Williams and Kristin Farr. ©2012 KQED, Inc.
+    credit: Video by Matthew Williams and Kristin Farr. © 2012 KQED, Inc.
     alt:
   - id: "syjuco4b"
     src: "figures/syjuco/syjuco4b.jpg"
@@ -1175,7 +1175,7 @@ figure_list:
   - id: "syjuco5a"
     src: "figures/syjuco/syjuco5a.jpg"
     caption: >
-      Installation view of Stephanie Syjuco, *I am an . . .* (2017) in the exhibition *Stephanie Syjuco: Citizen[,]{.underline}* Ryan Lee Gallery, New York, September 7–October 14, 2017.
+      Installation view of Stephanie Syjuco's, *I am an . . .* (2017) in the exhibition *Stephanie Syjuco: Citizen*, Ryan Lee Gallery, New York, September 7–October 14, 2017.
     credit: © Stephanie Syjuco. Courtesy of the artist and Ryan Lee Gallery, New York.
     alt:
   - id: "hershmanleesonbanner"
