@@ -18,6 +18,6 @@ Be it a shell, a leaf, or a body, Ruth Bernhard approached each photographic sub
 
 [^1]: Ruth Bernhard, “San Francisco,” in *Ruth Bernhard: Between Art & Life*, ed. Margaretta K. Mitchell (San Francisco: Chronicle Books, 2000), 99.
 
-[^2]: Ruth Bernhard, in interview with Bettina Gray, “Photographer Ruth Bernhard on Seeing Beyond the Usual,” 1991–92, *Creative Mind series*, KQED, San Francisco, posted April 11, 2017, video by Lonnie Porro, 5:34 minutes, available at [youtube.com/watch?v=DTaAKJMCOKg](https://www.youtube.com/watch?v=DTaAKJMCOKg){.underline}.
+[^2]: Ruth Bernhard, in interview with Bettina Gray, “Photographer Ruth Bernhard on Seeing Beyond the Usual,” 1991–92, *Creative Minds* series, KQED, San Francisco, posted April 11, 2017, video by Lonnie Porro, 5:34 minutes, available at [youtube.com/watch?v=DTaAKJMCOKg](https://www.youtube.com/watch?v=DTaAKJMCOKg).
 
 [^3]: Ruth Bernhard, “Teaching,” in *Ruth Bernhard: Between Art & Life*, ed. Margaretta K. Mitchell (San Francisco: Chronicle Books, 2000), 120.
