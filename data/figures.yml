@@ -559,7 +559,7 @@ figure_list:
     alt:
   - id: "colescott3b"
     src: "figures/colescott/colescott3b.jpg"
-    media_id:
+    media_id: 443143566
     media_type: vimeo
     caption: Audio clip from interview with Robert Colescott by Diana Krevsky at his Oakland studio for KUSF radio’s *Fine Arts Spectrum*, December 20, 1978.
     credit: Courtesy of the Diana Krevsky Collection, Archive of Recorded Sound, Stanford University Libraries.

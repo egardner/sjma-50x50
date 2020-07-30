@@ -3,7 +3,7 @@ label: Catherine Wagner
 title: Seeing Through Matter
 short_title:
 type: page
-weight: 671
+weight: 672
 menu: false
 toc: false
 class: artist-page

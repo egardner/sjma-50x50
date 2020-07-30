@@ -3,7 +3,7 @@ label: Catherine Wagner
 title: Hyperrealism
 short_title:
 type: page
-weight: 672
+weight: 673
 menu: false
 toc: false
 class: artist-page

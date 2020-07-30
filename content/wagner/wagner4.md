@@ -3,7 +3,7 @@ label: Catherine Wagner
 title: Going Deeper
 short_title:
 type: page
-weight: 673
+weight: 674
 menu: false
 toc: false
 class: artist-page
