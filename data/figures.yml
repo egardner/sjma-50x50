@@ -875,8 +875,8 @@ figure_list:
     alt:
   - id: "misrach3a"
     src: "figures/misrach/misrach3a.jpg"
-    caption: Richard Misrach, *Normandy Wall Near Ocotillo, California*, 2015. Pigment print, 60 x 80 inches. San José Museum of Art.** Museum purchase with funds contributed by the Lipman Family Foundation, 2017.11.01.
-    credit: ©Richard Misrach, courtesy Fraenkel Gallery, San Francisco; Pace/MacGill Gallery, New York; and Marc Selwyn Fine Art, Los Angeles.
+    caption: Richard Misrach, *Normandy Wall Near Ocotillo, California*, 2015. Pigment print, 60 x 80 inches. San José Museum of Art. Museum purchase with funds contributed by the Lipman Family Foundation, 2017.11.01.
+    credit: © Richard Misrach, courtesy Fraenkel Gallery, San Francisco; Pace/MacGill Gallery, New York; and Marc Selwyn Fine Art, Los Angeles.
     alt:
   - id: "misrach5a"
     src: "figures/misrach/misrach5a.jpg"
@@ -888,7 +888,7 @@ figure_list:
     media_id: Z238JPc154w
     media_type: youtube
     caption: >
-      Video clip from “Photographer Spotlight: Richard Misrach,” Los Angeles Review of Books online, July 6, 2015.
+      Video clip from “Photographer Spotlight: Richard Misrach,” *Los Angeles Review of Books* online, July 6, 2015.
     credit: Produced by Michael Kurcfeld.
     alt:
   - id: "ocampobanner"
