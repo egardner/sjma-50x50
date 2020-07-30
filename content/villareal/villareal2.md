@@ -19,6 +19,6 @@ On his first trip to Burning Man in 1994, Leo Villareal found himself profoundly
 
 [^1]: Elizabeth Manchester, “Leo Villareal,” in *Light Show,* ed. Cliff Lauson (London: Hayward Publishing; and New York: Distributed Art Publishers, 2013), 163–65.
 
-[^2]: Leo Villareal, “Light and Code as a Medium in the 21st Century,” lecture given at TEDx Talks, Orient Harbor, New York, September 2017, video, 15:13 minutes, available at [youtube.com/watch?v=aQWYvzwXkkM](https://www.youtube.com/watch?v=aQWYvzwXkkM)
+[^2]: Leo Villareal, “Light and Code as a Medium in the 21st Century,” lecture given at TEDx Talks, Orient Harbor, New York, September 2017, video, 15:13 minutes, available at [youtube.com/watch?v=aQWYvzwXkkM](https://www.youtube.com/watch?v=aQWYvzwXkkM).
 
 [^3]: Elizabeth Manchester, “Leo Villareal,” in *Light Show*, ed. Cliff Lauson (London: Hayward Publishing; and New York: Distributed Art Publishers, 2013), 165.

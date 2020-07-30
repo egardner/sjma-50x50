@@ -19,6 +19,6 @@ Leo Villareal is an “artist-as-programmer.”[^1] He starts with a simple set 
 
 [^1]: Steven B. Johnson, in “Introduction: The Work of Art in the Age of Algorithms,” in Leo Villareal, ed. JoAnne Northrup (Ostfildern, Germany: Hatje Cantz, 2010), 12.
 
-[^2]: Leo Villareal, in “Leo Villareal: 1. Programming,” National Gallery of Art, Washington, DC, filmed 2008, video, 3:53 minutes, available at [youtube.com/watch?v=ygIKBc9gaUQ](https://www.youtube.com/watch?v=ygIKBc9gaUQ)
+[^2]: Leo Villareal, in “Leo Villareal: 1. Programming,” National Gallery of Art, Washington, DC, filmed 2008, video, 3:53 minutes, available at [youtube.com/watch?v=ygIKBc9gaUQ](https://www.youtube.com/watch?v=ygIKBc9gaUQ).
 
 [^3]: Leo Villareal, in Steven B. Johnson in “Introduction: The Work of Art in the Age of Algorithms,” in Leo Villareal, ed. JoAnne Northrup (Ostfildern, Germany: Hatje Cantz, 2010), 11.

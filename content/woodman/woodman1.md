@@ -1,6 +1,6 @@
 ---
 label: Betty Woodman
-title: Painting in 3D
+title: Painting in Three Dimensions
 short_title:
 type: page
 weight: 691
@@ -18,4 +18,4 @@ Though she practiced ceramics throughout her artistic career, Betty Woodman migh
 
 [^1]: Betty Woodman, in Charles Woodman, *Betty Woodman:* *Thinking Out Loud*, filmed in New York, April 1990, video, 19:31 minutes, available at [vimeo.com/209317503](https://vimeo.com/209317503).
 
-[^2]: Arthur C. Danto, “The Vase as Form and Subject: Craft and Meaning in the Work of Betty Woodman,” in *Betty Woodman *(Amsterdam: Stedelijk Museum, 1996), 16.
+[^2]: Arthur C. Danto, “The Vase as Form and Subject: Craft and Meaning in the Work of Betty Woodman,”in *Betty Woodman*(Amsterdam: Stedelijk Museum, 1996), 16.
