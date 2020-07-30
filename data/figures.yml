@@ -535,7 +535,7 @@ figure_list:
     alt:
   - id: "colescottbanner"
     src: "figures/colescott/colescottbanner.jpg"
-    caption: Robert Colescott with his painting *Ode to Joy (European Anthem) (1997)*, 1997. Los Angeles Times.
+    caption: Robert Colescott with his painting *Ode to Joy (European Anthem)* (1997), 1997.
     credit: Los Angeles Times.
     alt:
   - id: "colescott4a"
