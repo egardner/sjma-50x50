@@ -1,7 +1,7 @@
 ---
 label: Lynn Hershman Leeson
 title: Remote Control
-short_title: "!Women Art Revolution"
+short_title:
 type: page
 weight: 433
 menu: false
@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "hershmanleeson4a"
 media:
-  - "video"
+  - "zoom"
 ---
 {{<q-figure id="hershmanleeson4a">}}
 

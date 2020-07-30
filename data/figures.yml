@@ -649,7 +649,7 @@ figure_list:
     media_id:
     media_type:
     caption: Audio clip from oral history interview of Frank Lobdell for the Archives of American Art, Smithsonian Institution, April 9–May 7, 1980.
-    credit:
+    credit: Archives of American Art, Smithsonian Institution.
     alt:
   - id: "lobdell3a"
     src: "figures/lobdell/lobdell3a.jpg"
@@ -790,8 +790,8 @@ figure_list:
     alt:
   - id: "oliveira2c"
     src: "figures/oliveira/oliveira2c.jpg"
-    media_id:
-    media_type:
+    media_id: 440477880
+    media_type: vimeo
     caption: Clip from *Nathan Oliveira at Crown Point Press*, ca. 2007.
     credit: Video courtesy of Crown Point Press, San Francisco.
     alt:

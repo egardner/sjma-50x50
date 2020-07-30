@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "hershmanleeson3d"
 media:
-  - "video"
+  - "zoom"
 ---
 {{<q-figure id="hershmanleeson3d">}}
 
