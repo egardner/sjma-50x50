@@ -844,6 +844,13 @@ figure_list:
     caption: Video still from Bill Viola, *Memoria*, 2000. Projection on silk, 24 x 30 x 60 inches.
     credit: San José Museum of Art. Museum purchase with funds contributed by Ann Marie and Averill Mix and from the Lipman Family Foundation, 2001.17. © Bill Viola.
     alt:
+  - id: "viola4b"
+    src: "figures/viola/viola4b.jpg"
+    caption:   - id: "viola4a"
+    src: "figures/viola/viola4a.jpg"
+    caption: Clip from Mark Kidel, *Bill Viola: The Eye of the Heart*, 2003.
+    credit: Calliope Media and BBC with ARTE France, video, 59 minutes.
+    alt:
   - id: "howardbanner"
     src: "figures/howard/howardbanner.jpg"
     caption: Mildred Howard in her studio in South Berkeley, California, ca. 2017.
