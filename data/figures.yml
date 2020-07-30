@@ -470,7 +470,7 @@ figure_list:
     alt: ""
   - id: "bischoffbanner"
     src: "figures/bischoff/bischoffbanner.jpg"
-    caption: Studio 13 Jazz Band plays at the California School of Fine Arts, San Francisco, ca. 1951–52, with Jon Schueler (bass), David Park (piano), Elmer Bischoff (trumpet), and Jack Lowe (drums).
+    caption: The Studio 13 Jazz Band playing at the California School of Fine Arts, San Francisco, ca. 1951–52, with Jon Schueler (bass), David Park (piano), Elmer Bischoff (trumpet), and Jack Lowe (drums).
     credit: Photo by Frederick W. Quandt, Jr. Courtesy of Jean C. Tickle; Eva Rivlin, George Adams Gallery.
     alt:
   - id: "bischoff2a"
@@ -487,7 +487,7 @@ figure_list:
     src: "figures/bischoff/bischoff5a.jpg"
     media_id: 95426121
     media_type: vimeo
-    caption: Clip of Elmer Bischoff speaking in *The Berkeley Artists Breakfast Club, 1990.*
+    caption: Clip of Elmer Bischoff speaking in *The Berkeley Artists Breakfast Club*, 1990.
     credit: Video by Guillermo Pulido.
     alt: ""
   - id: "brownbanner"
