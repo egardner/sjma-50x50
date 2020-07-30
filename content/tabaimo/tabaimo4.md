@@ -1,6 +1,6 @@
 ---
 label: Tabaimo
-title: Tabaimo: Her Room
+title: "Tabaimo: Her Room"
 short_title:
 type: page
 weight: 623
