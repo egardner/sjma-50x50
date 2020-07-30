@@ -1,5 +1,5 @@
 ---
-label: David Levinthal
+label: Nathan Oliveira
 title: Retreat to the Printshop
 short_title:
 type: page

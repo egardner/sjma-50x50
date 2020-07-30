@@ -1,5 +1,5 @@
 ---
-label: David Levinthal
+label: Nathan Oliveira
 title: A Part of Nature
 short_title:
 type: page

@@ -1,5 +1,5 @@
 ---
-label: David Levinthal
+label: Nathan Oliveira
 title: Wings of Consciousness
 short_title:
 type: page

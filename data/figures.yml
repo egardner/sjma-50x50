@@ -679,7 +679,7 @@ figure_list:
   - id: "nevelson4d"
     src: "figures/nevelson/nevelson4d.jpg"
     caption: Installation image of Louise Nevelson’s *Sun Garden I* at the Whitney Museum of American Art, New York, 1980.
-    credit: 
+    credit:
     alt:
   - id: 'nevelson4f'
     src: "figures/nevelson/nevelson4f.jpg"
@@ -785,7 +785,7 @@ figure_list:
     alt:
   - id: "oliveira2b"
     src: "figures/oliveira/oliveira2b.jpg"
-    caption: Nathan Oliveira, *lmi l*, 1989. Oil on canvas, 50 x 42 inches.
+    caption: Nathan Oliveira, *lmi 1*, 1989. Oil on canvas, 50 x 42 inches.
     credit: San José Museum of Art. Gift of Katie and Drew Gibson, in honor of the San José Museum of Art’s 35th anniversary, 2011.12.01. Photograph by Douglas Sandberg.
     alt:
   - id: "oliveira2c"
@@ -804,7 +804,7 @@ figure_list:
     src: "figures/oliveira/oliveira5a.jpg"
     media_id: 265503567
     media_type: vimeo
-    caption: “Stanford and the Windhover Paintings,” clip from Nathan Oliveira Oral History (2009), Stanford Historical Society Oral History Program Interviews (SC0932).
+    caption: “Stanford and the Windhover Paintings,” clip from *Nathan Oliveira Oral History* (2009), Stanford Historical Society Oral History Program Interviews (SC0932).
     credit: Department of Special Collections & University Archives, Stanford University Libraries & Academic Information Resources, Stanford, CA.
     alt:
   - id: "saarbanner"
@@ -893,7 +893,7 @@ figure_list:
     alt:
   - id: "ocampobanner"
     src: "figures/ocampo/ocampobanner.jpg"
-    caption: Manuel Ocampo at *Manila Vice*, the exhibition he curated for Musée International des Arts Modestes, Sète, France**, April 13–September 22, 2013.
+    caption: Manuel Ocampo at *Manila Vice*, the exhibition he curated for Musée International des Arts Modestes, Sète, France, April 13–September 22, 2013.
     credit: Courtesy of the artist.
     alt:
   - id: "ocampo2a"
