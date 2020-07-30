@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "syjuco4a"
 media:
-  - "zoom"
+  - "video"
 ---
 {{<q-figure id="syjuco4a">}}
 

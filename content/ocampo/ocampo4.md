@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "ocampo3a"
 media:
-  - "zoom"
+  - "video"
 ---
 {{<q-figure id="ocampo3a">}}
 

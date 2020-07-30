@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "kallat3a"
 media:
-  - "zoom"
+  - "video"
 ---
 {{<q-figure id="kallat3a">}}
 

@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "hatoum4b"
 media:
-  - "zoom"
+  - "video"
 ---
 {{<q-figure id="hatoum4b">}}
 

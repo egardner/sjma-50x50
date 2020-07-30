@@ -487,7 +487,7 @@ figure_list:
     alt:
   - id: "bischoff5a"
     src: "figures/bischoff/bischoff5a.jpg"
-    media_id: 95426121
+    media_id: 254008619
     media_type: vimeo
     caption: Clip of Elmer Bischoff speaking in *The Berkeley Artists Breakfast Club*, 1990. Full length version available at https://vimeo.com/95426121
     credit: Video by Guillermo Pulido.
@@ -532,6 +532,8 @@ figure_list:
     alt:
   - id: "chagoya4a"
     src: "figures/chagoya/chagoya4a.jpg"
+    media_id: 433830368
+    media_type: vimeo
     caption: “Enrique Chagoya” (2007), Mergatroid Films, posted March 18, 2010, video, 7:23 minutes.
     credit: Courtesy Matt Bertles, Mergatroid Films.
     alt:
@@ -685,7 +687,7 @@ figure_list:
     alt:
   - id: 'nevelson4f'
     src: "figures/nevelson/nevelson4f.jpg"
-    media_id:
+    media_id: 268458351
     media_type: vimeo
     caption: San José Museum of Art curatorial associate Marja van der Loo talking with collector Peter Lipman about Louise Nevelson’s *Sky Cathedral* (1957) at Lipman’s home in 2017.
     credit: Video by Marja van der Loo.
@@ -725,7 +727,7 @@ figure_list:
     alt:
   - id: "baca2a"
     src: "figures/baca/baca2a.jpg"
-    media_id: xLukeHvmc
+    media_id: 442130431
     media_type: vimeo
     caption: Judy Baca talks about her experience painting *The Great Wall of Los Angeles*, “20 Innovators,” (2011) NBC Latino, online video, 2:10 minutes.
     credit: Video by Joan Saab, Critical Commons.
@@ -990,6 +992,8 @@ figure_list:
     alt:
   - id: "kallat3a"
     src: "figures/kallat/kallat3a.jpg"
+    media_id: 442102096
+    media_type: vimeo
     caption: Video clip of Jitish Kallat discussing his work *Public Notice 2* (2007) at the John F. Kennedy Center for the Performing Arts, Washington, DC, March 2011.
     credit:
     alt:

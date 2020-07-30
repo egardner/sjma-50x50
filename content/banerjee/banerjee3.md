@@ -10,7 +10,7 @@ class: artist-page
 object:
   - id: "banerjee4a"
 media:
-  - "zoom"
+  - "video"
 ---
 {{<q-figure id="banerjee4a">}}
 
