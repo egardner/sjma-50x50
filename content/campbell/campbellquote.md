@@ -10,4 +10,4 @@ slug: .
 
 >I use rhythm to describe a lot of things . . . rhythm is really just a way of describing time or the flow of time. . . . \[By\] using a truly minimal amount of information, an event can be evoked as opposed to described. . . . Rhythm is perceived time that bypasses the analytical part of the mind . . . what’s left when you’re staring at something that you’re not looking at.
 
-<cite>Jim Campbell, in conversation with Steve Dietz, *Jim Campbell: Material Light,* ed. Dietz (Ostfildern, Germany: Hatje Cantz, 2010), 148.</cite>
+<cite>Jim Campbell, in conversation with Steve Dietz, in *Jim Campbell: Material Light,* ed. Dietz (Ostfildern, Germany: Hatje Cantz, 2010), 148.</cite>

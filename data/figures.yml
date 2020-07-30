@@ -994,7 +994,7 @@ figure_list:
     alt:
   - id: "campbell2a"
     src: "figures/campbell/campbell2a.jpg"
-    caption: Jim Campbell, *Self Portrait (with Disturbances)*, 1991–92.** Video monitor, camera, and custom electronics, 15 1/2 x 20 1/2 x 18 inches.
+    caption: Jim Campbell, *Self Portrait (with Disturbances)*, 1991–92. Video monitor, camera, and custom electronics, 15 1/2 x 20 1/2 x 18 inches.
     credit: San José Museum of Art. Gift of Scott W. Horton, 1998.18.08. Photo by Douglas Sandberg.
     alt:
   - id: "campbell2b"
@@ -1002,7 +1002,7 @@ figure_list:
     media_id: 290947074
     media_type: vimeo
     caption: Video clip from “Jim Campbell,” *Spark*, KQED, San Francisco, May 2003.
-    credit: ©2003 KQED, Inc.
+    credit: © 2003 KQED, Inc.
     alt:
   - id: "campbell4a"
     src: "figures/campbell/campbell4a.jpg"
