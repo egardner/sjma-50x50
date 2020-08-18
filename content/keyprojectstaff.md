@@ -13,11 +13,12 @@ type: page
 
 *Anamarie Alongi*, registrar <br>
 *Daniel Becker*, associate exhibition designer <br>
+*Aquiles de la Torre*, digital content and graphic design specialist <br>
 *Lauren Schell Dickens*, senior curator <br>
 *Jane Hyun*, copy editor <br>
-*Aaron Lee*, preparator <br>
 *Richard J. Karson*, director of design and operations <br>
-*Fredrick Liang*, social media and communications associate <br>
+*Aaron Lee*, preparator <br>
+*Frederick Liang*, social media and communications associate <br>
 *Rory Padeken*, curator <br>
 *Karen Rapp*, assistant director, strategic initiatives <br>
 *Melanie Samay*, director of marketing and communications <br>
