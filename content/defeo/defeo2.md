@@ -33,6 +33,6 @@ Jay DeFeo’s legendary painting *The Rose* (1958–66) is a 2,300-pound existen
 <script type="text/javascript" id="embedWellcomePlayer" src="https://www.aaa.si.edu/viewer/build/wellcomeplayer/js/embed.js"></script>
 
 <figcaption class="quire-figure__caption">
-Jay DeFeo, oral history interview with Paul Karlstrom for the Archives of American Art, Smithsonian Institution, recorded June 3, 1975– January 23, 1976, audio file, excerpt available at https://www.aaa.si.edu/collections/interviews/oral-history-interview-jay-defeo-13246.
+Jay DeFeo, oral history interview with Paul Karlstrom for the Archives of American Art, Smithsonian Institution, recorded June 3, 1975– January 23, 1976, audio file, excerpt available at [aaa.si.edu/collections/interviews/oral-history-interview-jay-defeo-13246](https://www.aaa.si.edu/collections/interviews/oral-history-interview-jay-defeo-13246).
 </figcaption>
 </figure>

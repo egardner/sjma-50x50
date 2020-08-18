@@ -20,7 +20,7 @@ The Candy Store Gallery in Folsom, California, started in 1962 when the health d
 
 [^2]: Hilarie Faberman, *Fired at Davis: Figurative Ceramic Sculpture* (Stanford, CA: Cantor Center for Visual Arts, 2005), 4. 
 
-[^3]: Peter Selz, in Museum of Contemporary Art Chicago, “The Candy Store Gallery”, *West By Midwest*, June 20, 2020, available at [mcachicago.org/Publications/Websites/West-By-Midwest/Stories/The-Candy-Store-Gallery](https://mcachicago.org/Publications/Websites/West-By-Midwest/Stories/The-Candy-Store-Gallery).
+[^3]: Peter Selz, in Museum of Contemporary Art Chicago, “The Candy Store Gallery,” *West By Midwest*, June 20, 2020, available at [mcachicago.org/Publications/Websites/West-By-Midwest/Stories/The-Candy-Store-Gallery](https://mcachicago.org/Publications/Websites/West-By-Midwest/Stories/The-Candy-Store-Gallery).
 
 [^4]: Jonathan Fineberg, *A Troublesome Subject: The Art of Robert Arneson*(Berkeley: University of California Press, 2013), 40.
 

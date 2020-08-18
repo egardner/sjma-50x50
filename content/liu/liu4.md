@@ -18,4 +18,4 @@ Working from photographic images of China often taken by outsiders — whether W
 
 [^1]: Hung Liu, quoted in Bill Berkson, “Hung Liu: Action Painter,” in *Summoning Ghosts: The Art of Hung Liu*, ed. Rene De Guzman (Berkeley: University of California Press, 2013), 128.
 
-[^2]: “Hung Liu,” Artist of the Week podcast, San José Museum of Art, posted February 22, 2007, 8:30 minutes, available at [https://www.youtube.com/watch?v=Lg5Esb7Bcec](https://www.youtube.com/watch?v=Lg5Esb7Bcec).
+[^2]: “Hung Liu,” Artist of the Week podcast, San José Museum of Art, posted February 22, 2007, 8:30 minutes, available at [youtube.com/watch?v=Lg5Esb7Bcec](https://www.youtube.com/watch?v=Lg5Esb7Bcec).

@@ -18,7 +18,7 @@ On an evening drive through Malibu, the sun at her back, Mary Corse noticed the 
 
 [^1]: “Mary Corse Interview with Alex Beacon,” *Brooklyn Rail*, June 2015, available at [brooklynrail.org/2015/06/art/mary-corse-with-alex-bacon](https://brooklynrail.org/2015/06/art/mary-corse-with-alex-bacon).
 
-[^2]: Mary Corse, in “Mary Corse Oral History,” interview with Rani Singh, Getty Research Institute, filmed in 2011 at Corse’s studio in Topanga Canyon, California, video, 1:02:12 hours, available at [https://www.youtube.com/watch?v=gUzti\_LrFgg](https://www.youtube.com/watch?v=gUzti\_LrFgg).
+[^2]: Mary Corse, in “Mary Corse Oral History,” interview with Rani Singh, Getty Research Institute, filmed in 2011 at Corse’s studio in Topanga Canyon, California, video, 1:02:12 hours, available at [youtube.com/watch?v=gUzti\_LrFgg](https://www.youtube.com/watch?v=gUzti\_LrFgg).
 
 [^3]: Drew Hammond, “Mary Corse,” in *Inside the White Cube* (London: White Cube, 2011), 17.
 

@@ -20,4 +20,4 @@ Nathan Oliveira was a keen observer of birds. The hawks and falcons that soared 
 
 [^2]: Nathan Oliveira, in Peter Selz, *Nathan Oliveira* (Berkeley: University of California Press, 2002), 98.
 
-[^3]: *The Windhover Project: The Wings of Nathan Oliveira’s Mind*, San Francisco Museum of Modern Art, video, 4:41 minutes, available at [https://www.sfmoma.org/watch/the-windhover-project-the-wings-of-nathan-oliveiras-mind/](https://www.sfmoma.org/watch/the-windhover-project-the-wings-of-nathan-oliveiras-mind/).
+[^3]: *The Windhover Project: The Wings of Nathan Oliveira’s Mind*, San Francisco Museum of Modern Art, video, 4:41 minutes, available at [sfmoma.org/watch/the-windhover-project-the-wings-of-nathan-oliveiras-mind/](https://www.sfmoma.org/watch/the-windhover-project-the-wings-of-nathan-oliveiras-mind/).
