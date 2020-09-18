@@ -850,7 +850,7 @@ figure_list:
     alt:
   - id: "viola4b"
     src: "figures/viola/viola4b.jpg"
-    media_id: 459519406
+    media_id: 459554571
     media_type: vimeo
     aspect_ratio: standard
     caption: "Clip from Mark Kidel, *Bill Viola: The Eye of the Heart*, 2003."
