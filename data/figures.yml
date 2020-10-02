@@ -417,22 +417,22 @@ figure_list:
     src: "figures/alhadid/alhadid3a.jpg"
     caption: Diana Al-Hadid, *The Candle Clock in the Citadel*, 2017. Modified polymer gypsum, fiberglass, brass, copper, steel, concrete, polyurethane foam, plaster, metal leaf, and pigment, 117 x 90 x 71 inches.
     credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2018.01.01. Photo by Object Studies. Courtesy of the artist and Marianne Boesky Gallery, New York and Aspen. © Diana Al-Hadid.
-    alt:
+    alt: "Mixed media sculpture assembled vertically with strong diagonal lines angled downward"
   - id: "alhadid4a"
     src: "figures/alhadid/alhadid4a.jpg"
     caption: Diana Al-Hadid, *South East North West*, 2017. Polymer gypsum, fiberglass, steel, plaster, gold leaf, copper leaf, painter’s tape, and pigment, 130 x 168 x 5 inches.
     credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2018.01.02. Photo by Object Studies. Courtesy of the artist and Marianne Boesky Gallery, New York and Aspen. © Diana Al-Hadid.
-    alt:
+    alt: "Large two panel mixed media piece with an asymetrical blue line that connects both panels while contrasting with muted earth tones"
   - id: "andrewsbanner"
     src: "figures/andrews/andrewsbanner.jpg"
     caption: Benny Andrews (center), with brother Raymond Andrews (left) and James Baldwin (right), celebrating the awarding of the first James Baldwin Prize for Fiction to Raymond’s *Appalachee Red* (1977), Dial Press headquarters, New York, 1979.
     credit:
-    alt:
+    alt: "group of people standing around in conversation candidly"
   - id: "andrews2a"
     src: "figures/andrews/andrews2a.jpg"
     caption: Benny Andrews, *Shadows Over the Land*, 1966. Oil and collage on canvas, 59 1/2 x 50 1/2 inches.
     credit: San José Museum of Art. Gift of the Benny Andrews Estate, 2010.18. Photograph by Douglas Sandberg. © Benny Andrews Estate. Courtesy of Michael Rosenfeld Gallery LLC, New York, NY
-    alt:
+    alt: "painting of large man on a box surrounded by bodies of water and land with multiple nude figures that are in smaller scale sittnig on land and water"
   - id: "andrews2b"
     src: "figures/andrews/andrews2b.jpg"
     caption: Excerpt from *An Interview with Benny Andrews*, 2003.
@@ -452,17 +452,17 @@ figure_list:
     caption: >
       Ruth Bernhard at the Chicago venue of Margaretta K. Mitchell’s traveling exhibition *Recollections: Ten Women of Photography*, 1981.
     credit: Photo by Sophie Vogt. Courtesy of Jeff Wassmann.
-    alt:
+    alt: "artist talking in front of three photographs hung on a gallery wall over her head"
   - id: "bernhard2a"
     src: "figures/bernhard/bernhard2a.jpg"
     caption: Ruth Bernhard, *Lifesavers*, 1930. Gelatin silver print on paper, 7 1/4 x 9 1/4 inches. San José Museum of Art. Gift of David Devine, San Francisco, 1982.45.
     credit: Photo by Douglas Sandberg.
-    alt:
+    alt: "multiple lifesaver candy circles oriented in front and side facing orientations while casting shadows to the left of each lifesaver"
   - id: "bernhard4a"
     src: "figures/bernhard/bernhard4a.jpg"
     caption: Ruth Bernhard, *In the Box, Horizontal*, 1962 (printed 1992). Gelatin silver print on paper, 18 x 24 inches.
     credit: San José Museum of Art. Gift from the Estate of Ruth Bernhard, 2007.25. Photo by Douglas Sandberg.
-    alt:
+    alt: "A nude woman laying in a horizontal box in a monochromatic background that centers the woman"
   - id: "bernhard5a"
     src: "figures/bernhard/bernhard5a.jpg"
     media_id: 264345141
@@ -474,17 +474,17 @@ figure_list:
     src: "figures/bischoff/bischoffbanner.jpg"
     caption: The Studio 13 Jazz Band playing at the California School of Fine Arts, San Francisco, ca. 1951–52, with Jon Schueler (bass), David Park (piano), Elmer Bischoff (trumpet), and Jack Lowe (drums).
     credit: Photo by Frederick W. Quandt, Jr. Courtesy of Jean C. Tickle; Eva Rivlin, George Adams Gallery.
-    alt:
+    alt: "jazz band musicians playing music in open room with onlookers sitting amongst them"
   - id: "bischoff2a"
     src: "figures/bischoff/bischoff2a.jpg"
     caption: Elmer Bischoff in studio class at the California School of Fine Arts, San Francisco, ca. 1958.
     credit: Photo by William Heick. Courtesy of the Anne Bremer Memorial Library, San Francisco Art Institute Archives.
-    alt:
+    alt: "artist in dialogue with people in a studio class with artwork handing on the walls behind other students in the class"
   - id: "bischoff3a"
     src: "figures/bischoff/bischoff3a.jpg"
     caption: Elmer Bischoff, *Two Women in Vermillion Light*, 1959. Oil on canvas, 67 1/2 x 67 1/2 inches.
     credit: San José Museum of Art. Gift of Ann-Marie and Averill Mix, in honor of the San José Museum of Art’s 35th anniversary, 2003.37.
-    alt:
+    alt: "painting of two woman figures standing facing each other"
   - id: "bischoff5a"
     src: "figures/bischoff/bischoff5a.jpg"
     media_id: 254008619
@@ -496,17 +496,17 @@ figure_list:
     src: "figures/brown/brownbanner.jpg"
     caption: Joan Brown (left) and Karen Folger Jacobs, New Year’s Day Alcatraz Swim, San Francisco, 1978.
     credit: © The Joan Brown Estate.
-    alt:
+    alt: "two simmers smiling after having swam in the bay behind them"
   - id: "brown2a"
     src: "figures/brown/brown2a.jpg"
     caption: Joan Brown modeling at the California School of Fine Arts, San Francisco, ca. 1958–60.
     credit: San Francisco Art Institute Archives.
-    alt:
+    alt: "artist posing as a model in a studio class"
   - id: "brown4a"
     src: "figures/brown/brown4a.jpg"
     caption: Joan Brown, *The Journey \#1*, 1976. Oil enamel on canvas, 84 x 72 inches.
     credit: San José Museum of Art. Gift of Norman Lariviere, 1993.13. Photo by Douglas Sandberg.
-    alt:
+    alt: "painting of a well dressed couple with the woman leading a man down a street while the man holds a shopping bag with the townscape in the background"
   - id: "brown5a"
     src: "figures/brown/brown5a.jpg"
     media_id: 433805853
