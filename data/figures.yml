@@ -426,7 +426,7 @@ figure_list:
   - id: "andrewsbanner"
     src: "figures/andrews/andrewsbanner.jpg"
     caption: Benny Andrews (center), with brother Raymond Andrews (left) and James Baldwin (right), celebrating the awarding of the first James Baldwin Prize for Fiction to Raymond’s *Appalachee Red* (1977), Dial Press headquarters, New York, 1979.
-    credit:
+    credit: "group of people standing around in conversation candidly"
     alt: "group of people standing around in conversation candidly"
   - id: "andrews2a"
     src: "figures/andrews/andrews2a.jpg"
@@ -514,69 +514,69 @@ figure_list:
     caption: >
       Video of curator Jodi Throckmorton discussing Joan Brown on the occasion of the exhibition *This Kind of Bird Flies Backward: Paintings by Joan Brown* at the San José Museum of Art, October 14, 2011–March 11, 2012.
     credit: Video by San José Museum of Art.
-    alt:
+    alt: ""
   - id: "chagoyabanner"
     src: "figures/chagoya/chagoyabanner.jpg"
     caption: Enrique Chagoya in front of *Their Freedom of Expression . . . The Recovery of Their Economy*, 1984.
-    credit:
-    alt:
+    credit: San José Museum of Art.
+    alt: "wall mural of a mickey mouse figure with an older man's face with the artist copying the figures' stance in front"
   - id: "chagoya2a"
     src: "figures/chagoya/chagoya2a.jpg"
     caption: Enrique Chagoya, *Hand of Power (Mano Poderosa)*, 1992. Oil on steel, 60 1/4 x 48 1/4 x 3 5/8 inches.
     credit: San José Museum of Art. Gift of J. Michael Bewley, 2015.07.05. Photo by Douglas Sandberg.
-    alt:
+    alt: "a painting of a purple floating hand with the batman symbol on the base of the palm while the palm spews unrefined oil over a bleedding human hand bleeding from a heart in its palm causing a sea of red against the gray sky in the horizon"
   - id: "chagoya3a"
     src: "figures/chagoya/chagoya3a.jpg"
     caption: Enrique Chagoya, *The Labyrinth of Liberty*, 2004. Acrylic and water-based oil on amate, 13 x 118 x 4 inches.
     credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2004.41.01. Photo by Douglas Sandberg.
-    alt:
+    alt: "A long painting read left to right of various symbols such as playing cards or cowboys and two dinosours with heads of men as well as a snake an airplanes and the humpty dumpty nursery ryhme surounded by sanskrit writing"
   - id: "chagoya4a"
     src: "figures/chagoya/chagoya4a.jpg"
     media_id: 433830368
     media_type: vimeo
     caption: “Enrique Chagoya” (2007), Mergatroid Films, posted March 18, 2010, video, 7:23 minutes.
     credit: Courtesy Matt Bertles, Mergatroid Films.
-    alt:
+    alt: ""
   - id: "colescottbanner"
     src: "figures/colescott/colescottbanner.jpg"
     caption: Robert Colescott with his painting *Ode to Joy (European Anthem)* (1997), 1997.
     credit: Los Angeles Times.
-    alt:
+    alt: "artist sitting in a contemplative position in fornt of a large colorful painting"
   - id: "colescott4a"
     src: "figures/colescott/colescott4a.jpg"
     caption: >
       Exhibition postcard for *Robert Colescott: A Retrospective, 1975–1986*, 1987.
     credit: San José Museum of Art.
-    alt:
+    alt: "blond woman dancing with a fox dressed as a man smoking a cigar on the exhibition postcard for the San Jose Museum of Art retrospective"
   - id: "colescott5a"
     src: "figures/colescott/colescott5a.jpg"
     caption: >
       Carrie Mae Weems, *Framed by Modernism*, 1996. Gelatin silver prints and silkscreened mats, triptych, each 31 1/8 x 31 1/8 inches.
     credit: © Carrie Mae Weems. Courtesy of the artist and Jack Shainman Gallery, New York.
-    alt:
+    alt: "a triptych or three scened piece that tells the story of the artist and his model and their relationship of being drawn to each other but with a social distance of modernism overshadowing"
   - id: "colescott3a"
     src: "figures/colescott/colescott3a.jpg"
     caption: Robert Colescott, *The Dutiful Son*, 1979. Oil on canvas, 84 x 66 1/4 inches.
     credit: San José Museum of Art. Gift of Robert Harshorn Shimshak and Marion Brenner with additional support from the Museum’s Collection Committee, 2000.07. Photograph by Douglas Sandberg.
-    alt:
+    alt: "A painting of a young boy cleaning a house with an apron on while a mature woman lounges in her robe of the couch with a magazine watching him"
   - id: "colescott3b"
     src: "figures/colescott/colescott3b.jpg"
     media_id: 443143566
     media_type: vimeo
     caption: Audio clip from interview with Robert Colescott by Diana Krevsky at his Oakland studio for KUSF radio’s *Fine Arts Spectrum*, December 20, 1978.
     credit: Courtesy of the Diana Krevsky Collection, Archive of Recorded Sound, Stanford University Libraries.
-    alt:
+    alt: ""
   - id: "hatoumbanner"
     src: "figures/hatoum/hatoumbanner.jpg"
     caption: Video still of Mona Hatoum’s *Variation on Discord and Divisions*, 1984. Live action with hood, knife, bucket, scrubbing brush, red paint, table, chairs, plates, raw beef kidneys, and newspapers. Performed at The Western Front, Vancouver, December 14, 1984.
     credit: >
       © Mona Hatoum. Courtesy the Western Front, Vancouver. Photo: Cornelia Wyngaarden.
-    alt:
+    alt: "Man wearing a black shirt and pants and a ski mask in a wall papered with newspapers the man is holding two floor scrub brushed next to a metal bucket"
   - id: "hatoum3a"
     src: "figures/hatoum/hatoum3a.jpg"
     caption: Mona Hatoum, *Over my Dead Body,* 1988. Billboard, ink on paper, 80 1/2 x 120 inches.
     credit: © Mona Hatoum. Courtesy the artist.
-    alt:
+    alt: "Over my Dead body block print on the left of a woman's profile with a milatary man toy on her nose looking at her with a rifle"
   - id: "hatoum4b"
     src: "figures/hatoum/hatoum4b.jpg"
     media_id: H-xKU_v6Qc4
@@ -584,12 +584,12 @@ figure_list:
     caption: >
       *Mona Hatoum: Terra Infirma*, video produced on the occasion of an exhibition at The Menil Collection, Houston, October 13, 2017–February 25, 2018.
     credit: Courtesy of The Menil Collection.
-    alt:
+    alt: ""
   - id: "hatoum5a"
     src: "figures/hatoum/hatoum5a.jpg"
     caption: Mona Hatoum, *Drowning Sorrows*, 2001–02. Glass bottles, 4 x 98 1/2 x 98 1/2 inches.
     credit: San José Museum of Art. Gift of Wanda Kownacki, 2017.16.05. © Mona Hatoum. Courtesy Galerie René Blouin, Montreal. Photo by Richard-Max Trembley.
-    alt:
+    alt: "A symmetrical circle of glass bottle halves cut in various ways and placed to fill the complete circle"
   - id: "lebanner"
     src: "figures/le/lebanner.jpg"
     caption: Dinh Q. Lê in his studio near Saigon, ca. 2013.
@@ -606,18 +606,18 @@ figure_list:
     src: "figures/le/le2a.jpg"
     caption: Dinh Q. Lê, *Untitled (Man Carrying Person)*, 2003. Chromogenic print and linen tape, 38 x 72 inches.
     credit: San José Museum of Art. Museum purchase with funds from the Lipman Acquisitions Fund, 2018.03. Courtesy of Dinh Q. Lê and P.P.O.W., New York.
-    alt:
+    alt: "A photo-weaved collage of two contrasting images in a style that resembles vietnamese matts"
   - id: "le3a"
     src: "figures/le/le3a.jpg"
     caption: >
       Installation image of *Dinh Q. Lê: True Journey Is Return* at the San José Museum of Art, 2018.
     credit: Photo by Benjamin Blackwell.
-    alt:
+    alt: "7 photo weaved structures spaced in a larger gallery and hanging from the cieling to gently touch the ground"
   - id: "liubanner"
     src: "figures/liu/liubanner.jpg"
     caption: Hung Liu working in the fields, late 1960s.
     credit: Courtesy of the artist.
-    alt:
+    alt: "a photo of the artist as a young woman in a field"
   - id: "liu2b"
     src: "figures/liu/liu2b.jpg"
     media_id: 268437170
@@ -632,17 +632,17 @@ figure_list:
     caption: >
       Hung Liu’s *Four Cantos* (2013) performed at the San José Museum of Art, June 20, 2013, as part of the exhibition *Questions from the Sky: New Work by Hung Liu*.
     credit: Video by KMVT 15, Silicon Valley Community Media.
-    alt:
+    alt: ""
   - id: "liu5a"
     src: "figures/liu/liu5a.jpg"
     caption: Hung Liu, *Shoah*, 2006. Archival digital pigment print and hand painting cast in resin on silk and board, 60 x 120 x 2 inches.
     credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2006.19.01–.05.
-    alt:
+    alt: "three female figures standing against a red background paitning with flowers and foliage while wearing civilian clothing but carrying rifles"
   - id: "lobdellbanner"
     src: "figures/lobdell/lobdellbanner.jpg"
     caption: Frank Lobdell teaching at Stanford University, October 19, 1966.
     credit: Courtesy of Jose Mercado / Stanford News Service.
-    alt:
+    alt: 
   - id: "lobdell1a"
     src: "figures/lobdell/lobdell1a.jpg"
     caption: Frank Lobdell in his studio at the Académie Colarossi, Paris, 1951.
@@ -669,17 +669,17 @@ figure_list:
     src: "figures/nevelson/nevelsonbanner.jpg"
     caption: Louise Nevelson in front of a wall sculpture, ca. 1970.
     credit: Photo by Geoffrey Clements. Louise Nevelson papers, ca. 1903–82. Archives of American Art, Smithsonian Institution.
-    alt:
+    alt: "Nevelson dressed in white and standing in front of a wall sculpture with her black cat in her arms"
   - id: "nevelson2b"
     src: "figures/nevelson/nevelson2b.jpg"
     caption: Louise Nevelson, *Cascades-Perpendiculars II (Night Music)*, 1980–82. Painted wood, 82 x 33 x 38 inches. San José Museum of Art. Gift of the Lipman Family Foundation, 2017.17.05.
     credit: © Estate of Louise Nevelson / Artists Rights Society (ARS), New York. Photo by Tom Barratt, courtesy Pace Gallery.
-    alt:
+    alt: 
   - id: "nevelson4a"
     src: "figures/nevelson/nevelson4a.jpg"
     caption: Louise Nevelson, *Sky Cathedral*, 1957. Painted wood, 57 x 149 x 16 inches.
     credit: San José Museum of Art. Gift of Beverly and Peter Lipman, 2010.16. Photo by Douglas Sandberg.
-    alt:
+    alt: "black boxes constructed out of various shapes and sizes of wood and stacked on top of each other and is also long in a landscape orientation"
   - id: "nevelson4d"
     src: "figures/nevelson/nevelson4d.jpg"
     caption: Installation image of Louise Nevelson’s *Sun Garden I* at the Whitney Museum of American Art, New York, 1980.
@@ -691,12 +691,12 @@ figure_list:
     media_type: vimeo
     caption: San José Museum of Art curatorial associate Marja van der Loo talking with collector Peter Lipman about Louise Nevelson’s *Sky Cathedral* (1957) at Lipman’s home in 2017.
     credit: Video by Marja van der Loo.
-    alt:
+    alt: ""
   - id: "arnesonbanner"
     src: "figures/arneson/arnesonbanner.jpg"
     caption: Portrait of Robert Arneson at the University of California, Davis, 1979.
     credit: Portrait by Kurt Edward Fishback © 1979.
-    alt:
+    alt: 
   - id: "arneson3a"
     src: "figures/arneson/arneson3a.jpg"
     caption: >
@@ -741,12 +741,12 @@ figure_list:
     src: "figures/gill/gillbanner.jpg"
     caption: Gauri Gill at her exhibition *The Mark on the Wall*, Galerie Mirchandani + Steinruecke, Mumbai, April 2016.
     credit: Photo by Anil Rane. Courtesy of Galerie Mirchandani + Steinruecke.
-    alt:
+    alt: "Artist leaning on white gallery wall in front of their work"
   - id: "gill2a"
     src: "figures/gill/gill2a.jpg"
     caption: Gauri Gill, *Jannat, Barmer*, from the series “Notes from the Desert,” 1999–2010. Gelatin silver print on paper, 30 x 24 inches.
     credit: San José Museum of Art. Gift of Wanda Kownacki, the Lipman Family Foundation, and Dipti and Rakesh Mathur, 2013.01.01.
-    alt:
+    alt: "woman in patterned dress sitting against a white wall and looking very closely in an angled mirror so that the viewer can see both her profile and reflection"
   - id: "gill2d"
     src: "figures/gill/gill2d.jpg"
     media_id: 298262656
@@ -754,17 +754,17 @@ figure_list:
     caption: >
       Clip of Gauri Gill interviewed by Sherrill Ingalls for *The Kamla Show*, filmed on May 21, 2015, on the occasion of the exhibition *Postdate: Photography and Inherited History in India* at the San José Museum of Art, February 5–August 2, 2015.
     credit:
-    alt:
+    alt: ""
   - id: "gill3a"
     src: "figures/gill/gill3a.jpg"
     caption: Gauri Gill, *U.S. Mailman/Men in Park. Yuba City 2001*, 2001, from the series “The Americans,” 2000–07. Archival pigment print, 16 1/2 x 50 inches.
     credit: Copyright Gauri Gill.
-    alt:
+    alt: "two scenes side-by-side one of a group of men at a picnic table in the park in the late afternoon and the other a postman in his van with the sunset in the background"
   - id: "levinthalbanner"
     src: "figures/levinthal/levinthalbanner.jpg"
     caption: David Levinthal working on the diorama for his “Wild West” series, ca. 2019.
     credit: Courtesy of David Levinthal.
-    alt:
+    alt: 
   - id: "levinthal4a"
     src: "figures/levinthal/levinthal4a.jpg"
     media_id: 283544804
@@ -776,17 +776,17 @@ figure_list:
     src: "figures/levinthal/levinthal2a.jpg"
     caption: David Levinthal, *Untitled (No. 65 vertical)*, from the series “Hitler Moves East,” 1975. Vintage Kodalith gelatin silver print on paper, 10 3/4 x 7 1/4 inches.
     credit: San José Museum of Art. Gift of Katie and Drew Gibson, 2011.12.04.06. Photograph by Douglas Sandberg.
-    alt:
+    alt: "American soldier holding his rifle with his military gear in a muddy-like field"
   - id: "levinthal5a"
     src: "figures/levinthal/levinthal5a.jpg"
     caption: David Levinthal, *Untitled (No. 25)*, from the series “Desire,” 1996. Vintage Polaroid Polacolor ER Land film, 29 1/2 x 22 inches.
     credit: San José Museum of Art. Gift of Katie and Drew Gibson, 2011.12.04.11. Photo by Douglas Sandberg.
-    alt:
+    alt: "blurry image of nude blonde woman kneeling and facing the viewer while trying to cover herself"
   - id: "oliveirabanner"
     src: "figures/oliveira/oliveirabanner.jpg"
     caption: Nathan Oliveira giving a studio demonstration during a residence at Fullerton College, California, 1973.
     credit: Courtesy of Fullerton College.
-    alt:
+    alt: 
   - id: "oliveira2b"
     src: "figures/oliveira/oliveira2b.jpg"
     caption: Nathan Oliveira, *lmi 1*, 1989. Oil on canvas, 50 x 42 inches.
@@ -865,7 +865,7 @@ figure_list:
     src: "figures/howard/howard2b.jpg"
     caption: Mildred Howard, *Broken Bow*, 1993. Mixed media on artist-made frame, 30 x 9 x 1 3/4 inches.
     credit: San José Museum of Art. Museum purchase with funds contributed by the Collection Committee, 1999.15.01. Photo by Douglas Sandberg.
-    alt:
+    alt: "collaged media that has a red printed image of two boys against abstracted blue and white mountains"
   - id: "howard3a"
     src: "figures/howard/howard3a.jpg"
     media_id: 281092051
@@ -873,13 +873,13 @@ figure_list:
     caption: >
       Clip from an interview with Mildred Howard regarding her work *Abode: Sanctuary for the Familia(r)* (1994) at the San José Museum of Art, 2009.
     credit: Video by San José Museum of Art.
-    alt:
+    alt: ""
   - id: "howard4a"
     src: "figures/howard/howard4a.jpg"
     caption: >
       Mildred Howard, *Switchin’ in the Kitchen: From Dakar to Detroit & the Mississippi Delta*, 2013. Mixed media, 12 x 60 x 10 inches.
     credit: Photo by John Wehrle. Courtesy the artist and Anglim Gilbert Gallery.
-    alt:
+    alt: "three pieced sculpture of a a right hand interacting with three different records in different ways"
   - id: "misrachbanner"
     src: "figures/misrach/misrachbanner.jpg"
     caption: Richard Misrach, working along the US–Mexico border near Nogales, Arizona, 2016.
@@ -929,7 +929,7 @@ figure_list:
     src: "figures/woodman/woodman1a.jpg"
     caption: Betty Woodman working on *Polka Dot Skirt* (2011) at Shark’s Ink, Lyons, Colorado.
     credit: Photo by Bud Shark. Courtesy of Shark’s Ink, Lyons, Colorado.
-    alt:
+    alt: "artist working in their studio with brightliy colored pieces hanging in her studio"
   - id: "woodman2a"
     src: "figures/woodman/woodman2a.jpg"
     caption: Betty Woodman in her studio, Boulder, Colorado, 1961.
@@ -942,44 +942,44 @@ figure_list:
     caption: >
       Clip from *Betty Woodman: Thinking Out Loud*, 1990.
     credit: Filmed in New York by Charles Woodman.
-    alt:
+    alt: ""
   - id: "woodman4a"
     src: "figures/woodman/woodman4a.jpg"
     caption: Betty Woodman, *His/Hers Vases, Young Lovers*, 2002. Glazed earthenware, epoxy resin, lacquer, and paint, 31 x 64 x 10 inches.
     credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2005.08 a–b. Photo by Douglas Sandberg.
-    alt:
+    alt: 
   - id: "woodman1b"
     src: "figures/woodman/woodman1b.jpg"
     caption: Betty Woodman with students in the studio, Boulder, undated.
     credit: Photo by Rodman Reilly. Courtesy of American Craft Council Library & Archives.
-    alt:
+    alt: "artist in studio classroom setting lecturing students taking notes"
   - id: "foulkesbanner"
     src: "figures/foulkes/foulkesbanner.jpg"
     caption: Dennis Hopper, *Llyn Foulkes*, 1964.
     credit: © Dennis Hopper, courtesy of The Hopper Art Trust.
-    alt:
+    alt: "artist sitting with one leg crossed on a bench outside of a storefront's glass window"
   - id: "foulkes2a"
     src: "figures/foulkes/foulkes2c.jpg"
     caption: Llyn Foulkes (third from left) and the Rubber Band, 1974.
     credit:
-    alt:
+    alt: 
   - id: "foulkes3a"
     src: "figures/foulkes/foulkes3a.jpg"
     caption: Llyn Foulkes, *The Corporate Kiss*, 2001. Oil, acrylic, and mixed media on panel, 31 1/2 x 26 1/4 inches.
     credit: San José Museum of Art. Gift of the Lipman Family Foundation, in honor of the San Jose Museum of Art’s 35th anniversary, 2003.03. Photograph by Douglas Sandberg.
-    alt:
+    alt: "man being kissed on the left cheek of his face by a shoulder sized mickey mouse character"
   - id: "foulkes5a"
     src: "figures/foulkes/foulkes5a.jpg"
     media_id: 276953549
     media_type: vimeo
     caption: Video clip from the documentary *The Lost Frontier* (2009).
     credit: Produced and directed by Tamar Halpern and Chris Quilty.
-    alt:
+    alt: ""
   - id: "kallatbanner"
     src: "figures/kallat/kallatbanner.jpg"
     caption: Jitish Kallat in his Mumbai studio, ca. 2013.
     credit: Photo by Abhinit Khanna. Courtesy of Jitish Kallat Studio.
-    alt:
+    alt: 
   - id: "kallat4d"
     src: "figures/kallat/kallat4d.jpg"
     caption: Installation view of Jitish Kallat’s *Epilogue* (2010–11) at San José Museum of Art, September 6, 2013–April 20, 2014.
@@ -1074,7 +1074,7 @@ figure_list:
     src: "figures/banerjee/banerjee5a.jpg"
     caption: Rina Banerjee, *Winter’s Flower—Raw materials from sea and from foul and even from some exotic mice was eaten by a world hungry for commerce made these into flower, disguised could be savoured alongside whitened rice*, 2010. Oyster shells, fishbone, thread, cowrie shells, fur, deity eyes, copper trim, ostrich egg, American buffalo horns, steel, pigeon feather fans on fabricated umbrella structure and steel stand, 21 5/8 x 61 x 78 3/8 inches.
     credit: Photo by Johnna Arnold / JKA Photography.
-    alt:
+    alt: 
   - id: tabaimo1a
     src: "figures/tabaimo/tabaimo1a.jpg"
     caption: Portrait of Tabaimo, 2011.
@@ -1120,7 +1120,7 @@ figure_list:
     src: "figures/teraoka/teraoka5a.jpg"
     caption: Masami Teraoka, *Semana Santa/Cloning Eve and Geisha*, 2002–03. Oil on canvas, 89 1/2 x 175 x 2 inches.
     credit: San José Museum of Art. Museum purchase with funds contributed by the Lipman Family Foundation, Brian Pawlowski and Aki Ueno, and David Soward, in honor of the San José Museum of Art’s 35th anniversary, 2003.13. Photo by Douglas Sandberg.
-    alt:
+    alt: "three-paneled painting of Geisha women in front of a city and harbor scape"
   - id: "deforestbanner"
     src: "figures/deforest/deforestbanner.jpg"
     caption: Roy De Forest in his studio with his dogs, Port Costa, California, 1980.
@@ -1193,12 +1193,12 @@ figure_list:
     caption: >
       Installation view of Stephanie Syjuco's, *I am an . . .* (2017) in the exhibition *Stephanie Syjuco: Citizen*, Ryan Lee Gallery, New York, September 7–October 14, 2017.
     credit: © Stephanie Syjuco. Courtesy of the artist and Ryan Lee Gallery, New York.
-    alt:
+    alt: "A large black fabric banner with white type face that says I am an and the last word is not clearly written out"
   - id: "hershmanleesonbanner"
     src: "figures/hershmanleeson/hershmanleesonbanner.jpg"
     caption: Video still from Lynn Hershman Leeson, *A Commercial for Myself,* 1978. Video, 1:34 minutes.
     credit:
-    alt:
+    alt: 
   - id: "hershmanleeson2a"
     src: "figures/hershmanleeson/hershmanleeson2a.jpg"
     media_id: 279155307
@@ -1206,27 +1206,27 @@ figure_list:
     caption: >
       Clip from Lynn Hershman Leeson, interview with Jan Zivic, Davis, California, March 4, 2005, for *!Women Art Revolution: Voices of a Movement* (2010).
     credit: Video by Lynn Hershman Leeson.
-    alt:
+    alt: "Large font that says here she comes"
   - id: "hershmanleeson4a"
     src: "figures/hershmanleeson/hershmanleeson4a.jpg"
     caption: Video still from Lynn Hershman Leeson, *Lorna*, 1983–84. Interactive DVD installation, 78 1/2 x 128 x 52 inches.
     credit: San José Museum of Art. Museum purchase with funds contributed by the Museum’s Collection Committee, 2010.29.
-    alt:
+    alt: "Lorna's sillouette behind text explaining her information like her age hobbies fears and a disgusting characteristic of not leaving her home for 4 and a half years"
   - id: "hershmanleeson3d"
     src: "figures/hershmanleeson/hershmanleeson3d.jpg"
     caption: Lynn Hershman Leeson, *Small Eye Plate*, 1976. Glazed ceramic with taxidermy eyes, 2 1/8 x 7 inches.
     credit: San José Museum of Art. Gift of Jerry Lutovich, MD, 2009.09.04.
-    alt:
+    alt: "ceramic dish with two eyes sculpted into the bottom of the bowl"
   - id: "wagnerbanner"
     src: "figures/wagner/wagnerbanner.jpg"
     caption: Catherine Wagner in her San Francisco studio next to her series “Frankenstein” (2003), 2017.
     credit: Photo by Phil Bond.
-    alt:
+    alt: 
   - id: "wagner4a"
     src: "figures/wagner/wagner4a.jpg"
     caption: Catherine Wagner, *Pomegranate Wall*, 2000. Ten light boxes with printed duratrans, fluorescent lights, and metal frame, 96 x 480 inches.
     credit: San José Museum of Art Artist Residency Fellowship, awarded to the artist in 1997, 2001.40. © Phil Bond Photography.
-    alt:
+    alt: "10-paneled lightbox installation in darkened room to show a pattern illuminated on the screen and creating ambient lighting"
   - id: "wagner4c"
     src: "figures/wagner/wagner4c.jpg"
     caption: Catherine Wagner, *Shark’s Tooth*, 2000. Iris print on paper, 44 x 32 inches. 
@@ -1239,7 +1239,7 @@ figure_list:
     caption: >
       Video clip of Catherine Wagner on the occasion of the exhibition *Catherine Wagner: Paradox Observed*, San José Museum of Art, April 5­–August 18, 2019 and the Museum’s 50th Anniversary Gala.
     credit: Video by Justin Tran, No Friends Productions, August 2019.
-    alt:
+    alt: ""
   - id:
     src:
     caption:
