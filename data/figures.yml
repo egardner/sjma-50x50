@@ -594,7 +594,7 @@ figure_list:
     src: "figures/le/lebanner.jpg"
     caption: Dinh Q. Lê in his studio near Saigon, ca. 2013.
     credit: Photo by Ruben Luong. Courtesy ArtAsiaPacific.
-    alt:
+    alt: "asian man working on floor with long photographic strips"
   - id: "le1b"
     src: "figures/le/le1b.jpg"
     media_id: 304880104
@@ -642,29 +642,29 @@ figure_list:
     src: "figures/lobdell/lobdellbanner.jpg"
     caption: Frank Lobdell teaching at Stanford University, October 19, 1966.
     credit: Courtesy of Jose Mercado / Stanford News Service.
-    alt: 
+    alt: "artist teaching students in studio classroom"
   - id: "lobdell1a"
     src: "figures/lobdell/lobdell1a.jpg"
     caption: Frank Lobdell in his studio at the Académie Colarossi, Paris, 1951.
     credit: Courtesy of the Estate of Frank Lobdell.
-    alt:
+    alt: "artist teaching students in studio classroom"
   - id: "lobdell1b"
     src: "figures/lobdell/lobdell1b.jpg"
     media_id:
     media_type:
     caption: Audio clip from oral history interview of Frank Lobdell for the Archives of American Art, Smithsonian Institution, April 9–May 7, 1980.
     credit: Archives of American Art, Smithsonian Institution.
-    alt:
+    alt: ""
   - id: "lobdell3a"
     src: "figures/lobdell/lobdell3a.jpg"
     caption: Frank Lobdell, *February 1963*, 1963. Oil on canvas, 61 1/4 x 69 3/4 inches.
     credit: San José Museum of Art. Gift of Michael Hackett, Hackett Mill Gallery, 2009.07. Photo by Douglas Sandberg.
-    alt:
+    alt: "abstract painting of a black subject on a yellow backgound"
   - id: "lobdell5a"
     src: "figures/lobdell/lobdell5a.jpg"
     caption: Frank Lobdell, *2.22.93–4.8.93 Bleeker,* 1993. Oil on canvas, 84 x 120 inches.
     credit: San José Museum of Art. Gift of Morgan and Betty Flagg, The Morgan Flagg Administrative Trust, 2010.02. Photo by Douglas Sandberg.
-    alt:
+    alt: "painting of varying shapes connected by a red line that wraps around varying objects"
   - id: "nevelsonbanner"
     src: "figures/nevelson/nevelsonbanner.jpg"
     caption: Louise Nevelson in front of a wall sculpture, ca. 1970.
@@ -674,7 +674,7 @@ figure_list:
     src: "figures/nevelson/nevelson2b.jpg"
     caption: Louise Nevelson, *Cascades-Perpendiculars II (Night Music)*, 1980–82. Painted wood, 82 x 33 x 38 inches. San José Museum of Art. Gift of the Lipman Family Foundation, 2017.17.05.
     credit: © Estate of Louise Nevelson / Artists Rights Society (ARS), New York. Photo by Tom Barratt, courtesy Pace Gallery.
-    alt: 
+    alt: "Sculpture of found materials painted black and arranged in three pillars on a platform"
   - id: "nevelson4a"
     src: "figures/nevelson/nevelson4a.jpg"
     caption: Louise Nevelson, *Sky Cathedral*, 1957. Painted wood, 57 x 149 x 16 inches.
@@ -684,7 +684,7 @@ figure_list:
     src: "figures/nevelson/nevelson4d.jpg"
     caption: Installation image of Louise Nevelson’s *Sun Garden I* at the Whitney Museum of American Art, New York, 1980.
     credit: Whitney  Museum of American Art, New York. Photograph by Jerry L. Thompson
-    alt:
+    alt: "golden sculptures in a gallery"
   - id: 'nevelson4f'
     src: "figures/nevelson/nevelson4f.jpg"
     media_id: 268458351
@@ -696,47 +696,47 @@ figure_list:
     src: "figures/arneson/arnesonbanner.jpg"
     caption: Portrait of Robert Arneson at the University of California, Davis, 1979.
     credit: Portrait by Kurt Edward Fishback © 1979.
-    alt: 
+    alt: "Artist sitting on a studio work bench"
   - id: "arneson3a"
     src: "figures/arneson/arneson3a.jpg"
     caption: >
       Clockwise from left: Roy De Forest, Robert Arneson, David Gilhooly, Peter VandenBerge, Adeliza McHugh, and Maija Peeples-Bright at the Candy Store Gallery, Folsom, California, 1981.
     credit: Photo courtesy of Maija Peeples-Bright and The Transmission Gallery.
-    alt:
+    alt: "Six people sitting in a curated gallery space"
   - id: "arneson5a"
     src: "figures/arneson/arneson5a.jpg"
     caption: >
       Robert Arneson, *Five Times for Harvey*, 1982. Mixed media on paper, five sheets: each 30 x 24 inches.
     credit: San José Museum of Art. Gift of J. Michael Bewley, 2015.07.01a–e. Photograph by Douglas Sandberg.
-    alt:
+    alt: "Five portraits of Harvey Milk's face that tell the story of his life through color and texture"
   - id: "arneson2a"
     src: "figures/arneson/arneson2a.jpg"
     caption: Robert Arneson, *Untitled (Urinal)*, ca. 1963. Glazed ceramic, 46 3/4 x 23 x 13 1/2 inches.
     credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2006.20. Photo by Douglas Sandberg.
-    alt:
+    alt: "Ceramic Urinal sculpture"
   - id: "bacabanner"
     src: "figures/baca/bacabanner.jpg"
     caption: >
       Portrait of Judy Baca with *Triumph of the Hearts*, 1990. Acrylic on canvas, one of nine panels: each 10 x 30 feet.
     credit: Judith F. Baca © 1990. Image courtesy of SPARC Archives sparcinla.org.
-    alt:
+    alt: "Artist sitting in front of large scale painting"
   - id: "baca4a"
     src: "figures/baca/baca4a.jpg"
     caption: Judy Baca, *Raspados Mojados*, 1994. Vendor cart, wood, acrylic, metal, and ceramic, 34 x 54 x 24 inches.
     credit: San José Museum of Art. Museum purchase with funds contributed by Tom and Polly Bredt, in honor of the San José Museum of Art’s 35th anniversary, 2004.19. Photo by Douglas Sandberg.
-    alt:
+    alt: "Installation image of a vendor cart painted and staged in a gallery space"
   - id: "baca2a"
     src: "figures/baca/baca2a.jpg"
     media_id: 442130431
     media_type: vimeo
     caption: Judy Baca talks about her experience painting *The Great Wall of Los Angeles*, “20 Innovators,” (2011) NBC Latino, online video, 2:10 minutes.
     credit: Video by Joan Saab, Critical Commons.
-    alt:
+    alt: ""
   - id: "baca5e"
     src: "figures/baca/baca5e.jpg"
     caption: Judy Baca’s *César E. Chávez Monument* (2008) at San José State University, 2019.
     credit: Photo by Frederick Liang.
-    alt:
+    alt: "archway and water fountain in the main passageway of the San José State University's Campus"
   - id: "gillbanner"
     src: "figures/gill/gillbanner.jpg"
     caption: Gauri Gill at her exhibition *The Mark on the Wall*, Galerie Mirchandani + Steinruecke, Mumbai, April 2016.
@@ -764,14 +764,14 @@ figure_list:
     src: "figures/levinthal/levinthalbanner.jpg"
     caption: David Levinthal working on the diorama for his “Wild West” series, ca. 2019.
     credit: Courtesy of David Levinthal.
-    alt: 
+    alt: "white man leaning over a diorama
   - id: "levinthal4a"
     src: "figures/levinthal/levinthal4a.jpg"
     media_id: 283544804
     media_type: vimeo
     caption: Clip of David Levinthal interviewed by Lyn Kienholz and Rohini Talalla, Interview with David Levinthal, Netropolitan Artsconversations, 2013.
-    credit:
-    alt:
+    credit: Courtesy of Netropolitan.
+    alt: ""
   - id: "levinthal2a"
     src: "figures/levinthal/levinthal2a.jpg"
     caption: David Levinthal, *Untitled (No. 65 vertical)*, from the series “Hitler Moves East,” 1975. Vintage Kodalith gelatin silver print on paper, 10 3/4 x 7 1/4 inches.
@@ -786,68 +786,68 @@ figure_list:
     src: "figures/oliveira/oliveirabanner.jpg"
     caption: Nathan Oliveira giving a studio demonstration during a residence at Fullerton College, California, 1973.
     credit: Courtesy of Fullerton College.
-    alt: 
+    alt: "man standing in a classroom giving instruction"
   - id: "oliveira2b"
     src: "figures/oliveira/oliveira2b.jpg"
     caption: Nathan Oliveira, *lmi 1*, 1989. Oil on canvas, 50 x 42 inches.
     credit: San José Museum of Art. Gift of Katie and Drew Gibson, in honor of the San José Museum of Art’s 35th anniversary, 2011.12.01. Photograph by Douglas Sandberg.
-    alt:
+    alt: "gestural painting of a woman"
   - id: "oliveira2c"
     src: "figures/oliveira/oliveira2c.jpg"
     media_id: 440477880
     media_type: vimeo
     caption: Clip from *Nathan Oliveira at Crown Point Press*, ca. 2007.
     credit: Video courtesy of Crown Point Press, San Francisco.
-    alt:
+    alt: ""
   - id: "oliveira4a"
     src: "figures/oliveira/oliveira4a.jpg"
     caption: Nathan Oliveira, *Raptor I*, 1986. Oil on canvas, 60 x 52 inches.
     credit: San José Museum of Art. Gift of Deedee and Burton McMurtry, in honor of the San José Museum of Art’s 35th anniversary, 2004.10.
-    alt:
+    alt: "abstract painting of in monochromactic peach tones"
   - id: "oliveira5a"
     src: "figures/oliveira/oliveira5a.jpg"
     media_id: 265503567
     media_type: vimeo
     caption: “Stanford and the Windhover Paintings,” clip from *Nathan Oliveira Oral History* (2009), Stanford Historical Society Oral History Program Interviews (SC0932).
     credit: Department of Special Collections & University Archives, Stanford University Libraries & Academic Information Resources, Stanford, CA.
-    alt:
+    alt: ""
   - id: "saarbanner"
     src: "figures/saar/saarbanner.jpg"
     caption: Alison Saar with *Deluge* (2016), ca. 2016. Courtesy of LA Louver, Venice, California.
     credit: Photo by Jeff McLane.
-    alt:
+    alt: "artist working on sculpture of large head balancing on a large mass of hair coming out of the head"
   - id: "saar4a"
     src: "figures/saar/saar4a.jpg"
     caption: Alison Saar, *Coup*, 2006. Wood, wire, tin, and found objects, 52 x 168 x 52 inches.
     credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2011.11.01. Photo by Douglas Sandberg.
-    alt:
+    alt: "Installation view of a sculpted nude woman seated with her hair braided and attatched to suitcases that are tied into a bundle by rope"
   - id: "saar2a"
     src: "figures/saar/saar2a.jpg"
     media_id: 293248356
     media_type: vimeo
     caption: Video clip from *Alison Saar at VMFA / Tangible Spirit Part 1 and 2*, 1994.
     credit: Video by Ruth Twiggs and Bruce Berryhill.
-    alt:
+    alt: "a print of a womann with clear bottles tangled in her hair"
   - id: "saar4c"
     src: "figures/saar/saar4c.jpg"
     caption: Alison Saar, *Delta Doo*, 2002. Monoprint, woodcut, and chine collé, 33 7/8 x 24 3/8 inches.
     credit: © Alison Saar, Courtesy of LA Louver, Venice, California.
-    alt:
+    alt: 
   - id: "violabanner"
     src: "figures/viola/violabanner.jpg"
     caption: Bill Viola performing *The Talking Drum* (1979), Buffalo, New York, July 1982.
     credit: © Bill Viola. Photograph © Kira Perov, courtesy Bill Viola Studio.
-    alt:
+    alt: "white man sitting at the bottom of an empty pool playing the drums"
   - id: "viola2a"
     src: "figures/viola/viola2a.jpg"
     caption: Bill Viola, *The Sleep of Reason*, 1988. Wooden chest, vase and artificial roses, alarm clock, lamp, and video (black-and-white and color, sound), 169 x 230 x 264 inches overall.
     credit: Carnegie Museum of Art, Pittsburgh. Purchased with funds provided by Milton Fine and the A. W. Mellon Acquisition Endowment Fund, 88.33. © Bill Viola.
-    alt:
+    alt: 
   - id: "viola4a"
     src: "figures/viola/viola4a.jpg"
     caption: Video still from Bill Viola, *Memoria*, 2000. Projection on silk, 24 x 30 x 60 inches.
     credit: San José Museum of Art. Museum purchase with funds contributed by Ann Marie and Averill Mix and from the Lipman Family Foundation, 2001.17. © Bill Viola.
-    alt:
+    alt: "ghostlike image of a face projected on a silk screen"
   - id: "viola4b"
     src: "figures/viola/viola4b.jpg"
     media_id: 459554571
@@ -855,12 +855,12 @@ figure_list:
     aspect_ratio: standard
     caption: "Clip from Mark Kidel, *Bill Viola: The Eye of the Heart*, 2003."
     credit: Calliope Media and BBC with ARTE France, video, 59 minutes.
-    alt:
+    alt: ""
   - id: "howardbanner"
     src: "figures/howard/howardbanner.jpg"
     caption: Mildred Howard in her studio in South Berkeley, California, ca. 2017.
     credit: Photo by Michael M. Santiago. Courtesy of Michael M. Santiago / San Francisco Chronicle / Polaris.
-    alt:
+    alt: "black woman sitting in room surrounded by books, artwork, and art supplies"
   - id: "howard2b"
     src: "figures/howard/howard2b.jpg"
     caption: Mildred Howard, *Broken Bow*, 1993. Mixed media on artist-made frame, 30 x 9 x 1 3/4 inches.
@@ -884,17 +884,17 @@ figure_list:
     src: "figures/misrach/misrachbanner.jpg"
     caption: Richard Misrach, working along the US–Mexico border near Nogales, Arizona, 2016.
     credit: © Richard Misrach, 2016. Courtesy Jake Bloomfield-Misrach.
-    alt:
+    alt: "artist taking a photo in a wide open landscape"
   - id: "misrach3a"
     src: "figures/misrach/misrach3a.jpg"
     caption: Richard Misrach, *Normandy Wall Near Ocotillo, California*, 2015. Pigment print, 60 x 80 inches. San José Museum of Art. Museum purchase with funds contributed by the Lipman Family Foundation, 2017.11.01.
     credit: © Richard Misrach, courtesy Fraenkel Gallery, San Francisco; Pace/MacGill Gallery, New York; and Marc Selwyn Fine Art, Los Angeles.
-    alt:
+    alt: "normandy wall on a sandy landscape"
   - id: "misrach5a"
     src: "figures/misrach/misrach5a.jpg"
     caption: Richard Misrach, *Untitled*, 2003, from the series “On the Beach,” 2002–05. Chromogenic print on paper, 71 x 113 1/2 inches.
     credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2006.13. Photo by Douglas Sandberg.
-    alt:
+    alt: "aerial view of a textured body of water disturbed by wind"
   - id: "misrach4a"
     src: "figures/misrach/misrach4a.jpg"
     media_id: Z238JPc154w
@@ -902,29 +902,29 @@ figure_list:
     caption: >
       Video clip from “Photographer Spotlight: Richard Misrach,” *Los Angeles Review of Books* online, July 6, 2015.
     credit: Produced by Michael Kurcfeld.
-    alt:
+    alt: ""
   - id: "ocampobanner"
     src: "figures/ocampo/ocampobanner.jpg"
     caption: Manuel Ocampo at *Manila Vice*, the exhibition he curated for Musée International des Arts Modestes, Sète, France, April 13–September 22, 2013.
     credit: Courtesy of the artist.
-    alt:
+    alt: "artist in front of exhibition title wall"
   - id: "ocampo2a"
     src: "figures/ocampo/ocampo2a.jpg"
     caption: Manuel Ocampo, *Untitled (Burnt Out Europe)*, 1992. Oil and decal on canvas, 72 x 108 inches.
     credit: San José Museum of Art. Museum purchase with funds from the Collection Committee, 2001.20. Photograph by Douglas Sandberg.
-    alt:
+    alt: "painting with demons swastikas skulls and religous figure jesus in a small village"
   - id: "ocampo5a"
     src: "figures/ocampo/ocampo5a.jpg"
     caption: Installation view of Manuel Ocampo’s *Torta Imperiales* (2017) in the Philippine Pavilion at the 57th Venice Biennale, May 13–November 26, 2017.
     credit: Photo by Paolo Luca, from the Philippine Arts in Venice Biennale, National Commission for Culture and the Arts.
-    alt:
+    alt: "person standing in front of artworks on a large wall that cover it from ceiling to floor"
   - id: "ocampo3a"
     src: "figures/ocampo/ocampo3a.jpg"
     media_id: 297191141/
     media_type: vimeo
     caption: Video clip from *God Is My Copilot*, 1999. Directed by Phillip Rodriguez.
     credit: Produced by Tom Patchett.
-    alt:
+    alt: ""
   - id: "woodman1a"
     src: "figures/woodman/woodman1a.jpg"
     caption: Betty Woodman working on *Polka Dot Skirt* (2011) at Shark’s Ink, Lyons, Colorado.
@@ -934,7 +934,7 @@ figure_list:
     src: "figures/woodman/woodman2a.jpg"
     caption: Betty Woodman in her studio, Boulder, Colorado, 1961.
     credit: Photo by George Woodman. Courtesy of Charles Woodman.
-    alt:
+    alt: "artist working on ceramic pieces in studio"
   - id: "woodman3a"
     src: "figures/woodman/woodman3a.jpg"
     media_id: 276142168
@@ -947,7 +947,7 @@ figure_list:
     src: "figures/woodman/woodman4a.jpg"
     caption: Betty Woodman, *His/Hers Vases, Young Lovers*, 2002. Glazed earthenware, epoxy resin, lacquer, and paint, 31 x 64 x 10 inches.
     credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2005.08 a–b. Photo by Douglas Sandberg.
-    alt: 
+    alt: "sculpted and painted pieces of complimentary earthenware"
   - id: "woodman1b"
     src: "figures/woodman/woodman1b.jpg"
     caption: Betty Woodman with students in the studio, Boulder, undated.
@@ -961,8 +961,8 @@ figure_list:
   - id: "foulkes2a"
     src: "figures/foulkes/foulkes2c.jpg"
     caption: Llyn Foulkes (third from left) and the Rubber Band, 1974.
-    credit:
-    alt: 
+    credit: Courtesy of the artist. Photographer unknown.
+    alt: "A group of six people and their musucal instruments"
   - id: "foulkes3a"
     src: "figures/foulkes/foulkes3a.jpg"
     caption: Llyn Foulkes, *The Corporate Kiss*, 2001. Oil, acrylic, and mixed media on panel, 31 1/2 x 26 1/4 inches.
@@ -979,47 +979,47 @@ figure_list:
     src: "figures/kallat/kallatbanner.jpg"
     caption: Jitish Kallat in his Mumbai studio, ca. 2013.
     credit: Photo by Abhinit Khanna. Courtesy of Jitish Kallat Studio.
-    alt: 
+    alt: "Artist sitting in studio with sculptures and paintings in the background"
   - id: "kallat4d"
     src: "figures/kallat/kallat4d.jpg"
     caption: Installation view of Jitish Kallat’s *Epilogue* (2010–11) at San José Museum of Art, September 6, 2013–April 20, 2014.
     credit: Photo by Richard Karson.
-    alt:
+    alt: "Installation view of an immersive space of moon phases printed and mounted on gallery walls"
   - id: "kallat4c"
     src: "figures/kallat/kallat4c.jpg"
     caption: >
       Detail of Jitish Kallat, *Epilogue*, 2010–11. Pigment print on archival paper; 753 prints: each 11 3/16 x 14 3/8 inches.
     credit: Photo by Richard J. Karson. Courtesy Jitish Kallat Studio.
-    alt:
+    alt: "prints showing the moon phases in 4 different ways"
   - id: "kallat3a"
     src: "figures/kallat/kallat3a.jpg"
     media_id: 442102096
     media_type: vimeo
     caption: Video clip of Jitish Kallat discussing his work *Public Notice 2* (2007) at the John F. Kennedy Center for the Performing Arts, Washington, DC, March 2011.
-    credit:
-    alt:
+    credit: John F. Kennedy Center for the Performing Arts, Washington, DC
+    alt: ""
   - id: "kallat5a"
     src: "figures/kallat/kallat5a.jpg"
     caption: Jitish Kallat, *Event Horizon (the hour of the day of the month of the season)*, 2014. Lenticular photographic print, 45 x 45 x 1 inches.
     credit: San José Museum of Art. Gift of the Lipman Family Foundation, Peggy and Yogan Dalal, Kaushie Adiseshan and Anand Rajaraman, Virinda and Vasudev Bhandarkar, Tad Freese, and Dipti and Rakesh Mathur, 2017.02a–g. Photo by Richard J. Karson.
-    alt:
+    alt: "Seven prints that together make one image of a street with overlaying colors violet, indigo, blue, green, yellow, orange, and red"
   - id: "campbellbanner"
     src: "figures/campbell/campbellbanner.jpg"
     caption: Jim Campbell standing inside *Scattered Light* (2010), an installation at Madison Square Park, New York, October 21, 2010.
     credit: Photo by Joe Kohen.
-    alt:
+    alt: "Campbell standing in an immersive installation of hanging lightbulbs"
   - id: "campbell2a"
     src: "figures/campbell/campbell2a.jpg"
     caption: Jim Campbell, *Self Portrait (with Disturbances)*, 1991–92. Video monitor, camera, and custom electronics, 15 1/2 x 20 1/2 x 18 inches.
     credit: San José Museum of Art. Gift of Scott W. Horton, 1998.18.08. Photo by Douglas Sandberg.
-    alt:
+    alt: "video monitor with grainy blue and white image of a white male face"
   - id: "campbell2b"
     src: "figures/campbell/campbell2b.jpg"
     media_id: 290947074
     media_type: vimeo
     caption: Video clip from “Jim Campbell,” *Spark*, KQED, San Francisco, May 2003.
     credit: © 2003 KQED, Inc.
-    alt:
+    alt: ""
   - id: "campbell4a"
     src: "figures/campbell/campbell4a.jpg"
     caption: Jim Campbell, *Home Movies 300–3*, 2006. LED lights, custom electronics, and wire on metal wall brackets, 51 x 60 x 2 inches.
@@ -1240,28 +1240,3 @@ figure_list:
       Video clip of Catherine Wagner on the occasion of the exhibition *Catherine Wagner: Paradox Observed*, San José Museum of Art, April 5­–August 18, 2019 and the Museum’s 50th Anniversary Gala.
     credit: Video by Justin Tran, No Friends Productions, August 2019.
     alt: ""
-  - id:
-    src:
-    caption:
-    credit:
-    alt:
-  - id:
-    src:
-    caption:
-    credit:
-    alt:
-  - id:
-    src:
-    caption:
-    credit:
-    alt:
-  - id:
-    src:
-    caption:
-    credit:
-    alt:
-  - id:
-    src:
-    caption:
-    credit:
-    alt:
