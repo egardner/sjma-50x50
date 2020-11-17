@@ -1024,18 +1024,18 @@ figure_list:
     src: "figures/campbell/campbell4a.jpg"
     caption: Jim Campbell, *Home Movies 300–3*, 2006. LED lights, custom electronics, and wire on metal wall brackets, 51 x 60 x 2 inches.
     credit: San José Museum of Art. Gift of Deborah and Andy Rappaport and the Lipman Family Foundation, 2007.19. Photo by Douglas Sandberg.
-    alt:
+    alt: "Curtain of vertical light strips that illuminate images"
   - id: "goldsworthybanner"
     src: "figures/goldsworthy/goldsworthybanner.jpg"
     caption: >
       Video still from Thomas Riedelsheimer, *Rivers and Tides: Andy Goldsworthy Working with Time* (Burlington, VT: Docurama, 2001), video.
     credit: Courtesy Skyline Productions Ltd.
-    alt:
+    alt: "Artist with hill landscape in the background"
   - id: "goldsworthy5a"
     src: "figures/goldsworthy/goldsworthy5a.jpg"
     caption: Installation view of Andy Goldsworthy’s *Clay Holes* (1994), *Snowball Drawings* (1994–95), and bracken and fern wall drawing (1995) in the exhibition *Breath of Earth*, San José Museum of Art, February 4–April 23, 1995.
     credit: © Sue Tallon Photography.
-    alt:
+    alt: "Installation of large hollow clay orbs alined with a large wall piece on a large gallery wall"
   - id: "goldsworthy2a"
     src: "figures/goldsworthy/goldsworthy2a.jpg"
     media_id: 290962718
@@ -1043,25 +1043,25 @@ figure_list:
     caption: >
       Clip from Thomas Riedelsheimer, *Rivers and Tides: Andy Goldsworthy Working with Time* (Burlington, VT: Docurama, 2001), video.
     credit: Courtesy Skyline Productions Ltd.
-    alt:
+    alt: ""
   - id: "goldsworthy4c"
     src: "figures/goldsworthy/goldsworthy4c.jpg"
     media_id: 291173943
     media_type: vimeo
     caption: Installation video of Andy Goldsworthy’s *Burnt Patch* (2005) at San José Museum of Art, 2014.
     credit: Video by San José Museum of Art.
-    alt:
+    alt: ""
   - id: "banerjeebanner"
     src: "figures/banerjee/banerjeebanner.jpg"
     caption: Rina Banerjee in her studio, New York, ca. 2013.
     credit: Photo by Jeanette May. Courtesy of the artist.
-    alt:
+    alt: "indian american woman seated at a desk with artwork on the wall behind her and a paintbrush in her hand. She is wearing large, bright, chunky green eyeglasses."
   - id: "banerjee3a"
     src: "figures/banerjee/banerjee3a.jpg"
     caption: >
       Installation view of Rina Banerjee’s *Take me, take me, take me . . . to the Palace of love* (2003) in the exhibition *Rina Banerjee: Make Me a Summary of the World*, San José Museum of Art, May 16–October 2, 2019.
     credit: Photo by Johnna Arnold / JKA Photography.
-    alt:
+    alt: "Mixed media sculpture in bright pink plastic wrap resembling the Taj Mahal. It is suspended from a vaulted ceiling."
   - id: "banerjee4a"
     src: "figures/banerjee/banerjee4a.jpg"
     media_id: 301042790
@@ -1069,22 +1069,22 @@ figure_list:
     caption: >
       Time-lapse video of Rina Banerjee installing *A World Lost: after the original island, single land mass fractured, after populations migrated, after pollution revealed itself and as cultural locations once separated merged, after the splitting of Adam and Eve, Shiva and Shakti, of race black and white, of culture East and West, after animals diminished, after the seas’ corals did exterminate, after this and at last imagine all water evaporated . . . this after Columbus found it we lost it imagine this* (2013) at the Sackler Gallery, Smithsonian Institution, Washington, DC, July 13, 2013–June 8, 2014.
     credit: Video by Hutomo Wicaksono.
-    alt:
+    alt: ""
   - id: "banerjee5a"
     src: "figures/banerjee/banerjee5a.jpg"
     caption: Rina Banerjee, *Winter’s Flower—Raw materials from sea and from foul and even from some exotic mice was eaten by a world hungry for commerce made these into flower, disguised could be savoured alongside whitened rice*, 2010. Oyster shells, fishbone, thread, cowrie shells, fur, deity eyes, copper trim, ostrich egg, American buffalo horns, steel, pigeon feather fans on fabricated umbrella structure and steel stand, 21 5/8 x 61 x 78 3/8 inches.
     credit: Photo by Johnna Arnold / JKA Photography.
-    alt: 
+    alt: "Sculpture of a flower made of raw materials"
   - id: tabaimo1a
     src: "figures/tabaimo/tabaimo1a.jpg"
     caption: Portrait of Tabaimo, 2011.
     credit: Photo by Paola Ferrario.
-    alt:
+    alt: "portrait of young, seated, asian woman"
   - id: "tabaimo3a"
     src: "figures/tabaimo/tabaimo3a.jpg"
     caption: Installation view of Tabaimo, *dolefullhouse*, 2007. Single-channel video installation with panoramic screen, 276 x 84 inches. San José Museum of Art. Museum purchase with funds contributed by the Acquisitions Committee with additional funds provided by the Lipman Family Foundation, 2017.07.
     credit: © Tabaimo. Courtesy of Gallery Koyanagi and James Cohan Gallery.
-    alt:
+    alt: "installation of video projected onto wall"
   - id: "tabaimo4b"
     src: "figures/tabaimo/tabaimo4b.jpg"
     media_id: WiA3fOEBVi4
@@ -1092,30 +1092,30 @@ figure_list:
     caption: >
       Tabaimo interviewed on the occasion of the exhibition *Moderna Museet Nu: Tabaimo* at Moderna Museet, Stockholm, January 31–April 19, 2009.
     credit: Courtesy Moderna Museet.
-    alt:
+    alt: ""
   - id: "tabaimo5b"
     src: "figures/tabaimo/tabaimo5b.jpg"
     caption: >
       Installation view of *Tabaimo: Her Room* at the San José Museum of Art, February 6–August 21, 2016.
     credit: Photo by San José Museum of Art.
-    alt:
+    alt: "installation of video projected onto walls"
   - id: "teraoka1a"
     src: "figures/teraoka/teraoka1a.jpg"
     caption: Portrait of Masami Teraoka, ca. 1980.
     credit: Photo by Marva Marrow.
-    alt:
+    alt: "three quarter turn black and while portrait of a Japanese American man"
   - id: "teraoka3a"
     src: "figures/teraoka/teraoka3a.jpg"
     caption: Masami Teraoka, *Geisha and Ghost Cat*, from the “AIDS Series,” 1989–2002. Aquatint and sugar lift etching, spit bite, and direct gravure on paper, 44 x 32 inches.
     credit: San José Museum of Art. Gift of the Lipman Family Foundation, 2002.04. Photograph by Douglas Sandberg.
-    alt:
+    alt: "two figures embracing and looking up at a ghostlike cat"
   - id: "teraoka4a"
     src: "figures/teraoka/teraoka4a.jpg"
     media_id: 277558020
     media_type: vimeo
     caption: Clip from Masami Teraoka in conversation with Quin Matthews on the occasion of *Masami Teraoka:* *Inversion of the Sacred*, McKinney Avenue Contemporary, Dallas, March 15–May 3, 2014.
     credit: Video by ArtMatters Radio TV.
-    alt:
+    alt: ""
   - id: "teraoka5a"
     src: "figures/teraoka/teraoka5a.jpg"
     caption: Masami Teraoka, *Semana Santa/Cloning Eve and Geisha*, 2002–03. Oil on canvas, 89 1/2 x 175 x 2 inches.
@@ -1125,22 +1125,22 @@ figure_list:
     src: "figures/deforest/deforestbanner.jpg"
     caption: Roy De Forest in his studio with his dogs, Port Costa, California, 1980.
     credit: Photo by Kurt Fishback. Smithsonian Archives of American Art.
-    alt:
+    alt: "artist in his studio with large painting in the background and his two dogs in the foreground"
   - id: "deforest5b"
     src: "figures/deforest/deforest5b.jpg"
     caption: Roy De Forest, *Slow Time in Arcadia*, 1977. Acrylic polymer on canvas, 60 x 72 inches.
     credit: San José Museum of Art. Museum purchase with funds contributed by Polly and Tom Bredt and the Lipman Family Foundation, 2002.09.
-    alt:
+    alt: "painting of a colorful scene of people and animals moving through the rolling hills of the land"
   - id: "deforest2a"
     src: "figures/deforest/deforest2a.jpg"
     caption: Roy De Forest, *Off the Patagonian Coast*, 1962. Wood, acrylic, polyvinyl acetate, and polyester resin on wood panel, 30 x 30 x 6 inches.
     credit: San José Museum of Art. Museum purchase with funds contributed by Tom and Polly Bredt, 2006.17.
-    alt:
+    alt: "sculptural painting on wood panel"
   - id: "deforest4a"
     src: "figures/deforest/deforest4a.jpg"
     caption: Robert Arneson poster for *Bob and Roy Ware Show* at the Candy Store Gallery, Folsom, California, April 12–May 9, 1970.
-    credit:
-    alt:
+    credit: Courtesy of the estate of Robert Arneson.
+    alt: "Poster listing the exhibit with a surrealist frog and coffee cup hybrid as the central image"
   - id: "deforest5a"
     src: "figures/deforest/deforest5a.jpg"
     media_id: 266419268
@@ -1148,46 +1148,46 @@ figure_list:
     caption: >
       Video clip from Suzanne Simpson, *Roy De Forest: You Can Make Art Out of Anything*, 1974. Digitally restored by Pentimenti Productions, 2017.
     credit: Courtesy of Suzanne Simpson.
-    alt:
+    alt: ""
   - id: "saundersbanner"
     src: "figures/saunders/saundersbanner.jpg"
     caption: Charles “Teenie” Harris, *Raymond Saunders looking toward Downtown Pittsburgh*, 1955. Black-and-white Kodak safety film, 4 x 5 inches. Carnegie Museum of Art, Pittsburgh. Heinz Family Fund. 2001.35.1264
     credit: © Carnegie Museum of Art, Charles “Teenie” Harris Archive.
-    alt:
+    alt: "A man and woman looking out of a window at the city landscape"
   - id: "saunders4a"
     src: "figures/saunders/saunders4a.jpg"
     caption: Raymond Saunders, *Not Real But Wanting To Be*, 1999. Mixed media on slate, 72 x 48 inches. San José Museum of Art. Museum purchase with funds from the Board of Trustees and Friends of Josi Callan in honor of former director Josi Callan (1992–99), 1999.20.
     credit: Photo by Douglas Sandberg.
-    alt:
+    alt: "mixed media collage on black slate"
   - id: "saunders1a"
     src: "figures/saunders/saunders1a.jpg"
     caption: Portrait of Raymond Saunders, 1981. Archives of American Art, Smithsonian Institution.
     credit: Photo by Mimi Jacobs.
-    alt:
+    alt: "black and while profile image of a black man with hands clasped together wearing a dark sweater and white bucket hat"
   - id: "saunders5a"
     src: "figures/saunders/saunders5a.jpg"
     media_id: 277354239
     media_type: vimeo
     caption: Clip of Raymond Saunders, San Francisco Museum of Modern Art interview at Wirtz Gallery, San Francisco, December 6, 1994.
     credit: © Raymond Saunders. Courtesy of the CCAC Archives at California College of the Arts Libraries, San Francisco, California.
-    alt:
+    alt: ""
   - id: "syjucobanner"
     src: "figures/syjuco/syjucobanner.jpg"
     caption: Stephanie Syjuco at the exhibition *International Orange*, Fort Point, San Francisco, May 25–October 28, 2012.
     credit: Photo by Mike Kepka. Courtesy of Mike Kepka / San Francisco Chronicle / Polaris.
-    alt:
+    alt: "artist holding products from her red colored store and collateral"
   - id: "syjuco4a"
     src: "figures/syjuco/syjuco4a.jpg"
     media_id: 298478251
     media_type: vimeo
     caption: Video clip from “In the Gallery with Stephanie Syjuco,” *75th Anniversary of the Golden Gate Bridge*, *KQED*, San Francisco, 2012.
     credit: Video by Matthew Williams and Kristin Farr. © 2012 *KQED*, Inc.
-    alt:
+    alt: ""
   - id: "syjuco4b"
     src: "figures/syjuco/syjuco4b.jpg"
     caption: Stephanie Syjuco, *The International Orange Commemorative Store (A Proposition)*, 2012. Mixed-media installation, dimensions variable.
     credit: San José Museum of Art. Commissioned by the FOR-SITE Foundation as part of the exhibition *International Orange* and on the occasion of the Golden Gate Bridge’s 75 Year Anniversary. Gift of the artist and the Catharine Clark Gallery, San Francisco, 2013.04.
-    alt:
+    alt: "Installation of a monochromatic store facade with stocked shelves"
   - id: "syjuco5a"
     src: "figures/syjuco/syjuco5a.jpg"
     caption: >
@@ -1197,8 +1197,8 @@ figure_list:
   - id: "hershmanleesonbanner"
     src: "figures/hershmanleeson/hershmanleesonbanner.jpg"
     caption: Video still from Lynn Hershman Leeson, *A Commercial for Myself,* 1978. Video, 1:34 minutes.
-    credit:
-    alt: 
+    credit: © Lynn Hershman Leeson
+    alt: "the artist looking into the camera and holding out a piece of paper in her right hand"
   - id: "hershmanleeson2a"
     src: "figures/hershmanleeson/hershmanleeson2a.jpg"
     media_id: 279155307
@@ -1221,7 +1221,7 @@ figure_list:
     src: "figures/wagner/wagnerbanner.jpg"
     caption: Catherine Wagner in her San Francisco studio next to her series “Frankenstein” (2003), 2017.
     credit: Photo by Phil Bond.
-    alt: 
+    alt: "artist standing in between two framed pieces of her work"
   - id: "wagner4a"
     src: "figures/wagner/wagner4a.jpg"
     caption: Catherine Wagner, *Pomegranate Wall*, 2000. Ten light boxes with printed duratrans, fluorescent lights, and metal frame, 96 x 480 inches.
@@ -1231,7 +1231,7 @@ figure_list:
     src: "figures/wagner/wagner4c.jpg"
     caption: Catherine Wagner, *Shark’s Tooth*, 2000. Iris print on paper, 44 x 32 inches. 
     credit: San José Museum of Art. Acquired from the artist upon the completion of the San José Museum of Art Artist Residency Fellowship, awarded to the artist in 1997, 2002.03.02.
-    alt:
+    alt:"Detailed image of a sharks tooth"
   - id: "wagner4b"
     src: "figures/wagner/wagner4b.jpg"
     media_id: 441180699
