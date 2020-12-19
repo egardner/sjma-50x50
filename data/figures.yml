@@ -79,7 +79,7 @@ figure_list:
       San José Museum of Art. Museum purchase with funds contributed by Katie and Drew Gibson, 1997.12. Photo by Douglas Sandberg.
     alt: "one monitor with a mouth and two monitors with hands to the bottom left and one to the top right"
   - id: "rath3a"
-    src: figures/rath/rath3a-thumperV.jpg
+    src: figures/rath/rath3a-thumperv.jpg
     caption: Alan Rath, *Thumper V*, 1996. Aluminum, steel, plastic, and electronics on four speakers, 59  x 20  x 22 inches.
     credit: San José Museum of Art. Gift of Katie and Drew Gibson, 2014.05.04. Photo by Douglas Sandberg.
     alt: "two speakers assembled in a wing shape with two telescoping arms that make for eyes"
@@ -764,7 +764,7 @@ figure_list:
     src: "figures/levinthal/levinthalbanner.jpg"
     caption: David Levinthal working on the diorama for his “Wild West” series, ca. 2019.
     credit: Courtesy of David Levinthal.
-    alt: "white man leaning over a diorama
+    alt: "white man leaning over a diorama"
   - id: "levinthal4a"
     src: "figures/levinthal/levinthal4a.jpg"
     media_id: 283544804
@@ -1231,7 +1231,7 @@ figure_list:
     src: "figures/wagner/wagner4c.jpg"
     caption: Catherine Wagner, *Shark’s Tooth*, 2000. Iris print on paper, 44 x 32 inches. 
     credit: San José Museum of Art. Acquired from the artist upon the completion of the San José Museum of Art Artist Residency Fellowship, awarded to the artist in 1997, 2002.03.02.
-    alt:"Detailed image of a sharks tooth"
+    alt: "Detailed image of a sharks tooth"
   - id: "wagner4b"
     src: "figures/wagner/wagner4b.jpg"
     media_id: 441180699
