@@ -1,6 +1,6 @@
 ---
 title: Hung Liu
-subtitle: b. China/United States, 1948
+subtitle: b. China/United States, 1948-2021
 weight: 480
 type: artist
 epub: false
