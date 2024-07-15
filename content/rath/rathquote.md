@@ -1,6 +1,6 @@
 ---
 title: Alan Rath
-subtitle: United States, b. 1959
+subtitle: United States, 1959-2020
 weight: 560
 type: artist
 grid: type-c
