@@ -1,6 +1,6 @@
 ---
 title: Dinh Q. Lê
-subtitle: Vietnam, b. 1968
+subtitle: Vietnam, 1968-2024
 weight: 460
 type: artist
 epub: false
