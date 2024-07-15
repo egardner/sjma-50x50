@@ -1,6 +1,6 @@
 ---
 title: Bill Viola
-subtitle: United States, b. 1951
+subtitle: United States, 1951-2024
 weight: 660
 type: artist
 epub: false
