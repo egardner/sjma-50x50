@@ -1,6 +1,6 @@
 ---
 title: William T. Wiley
-subtitle: United States, b. 1937
+subtitle: United States, 1937-2021
 weight: 680
 type: artist
 epub: false
